@@ -1,0 +1,1826 @@
+[
+    {
+        "question": "Does US brand Nice depend on Western honey bee??",
+        "e1": [
+            "Yes",
+            [
+                "US brand Nice creates a number of products including honey.",
+                "The Western honey bee can be found on every continent except Antarctica.",
+                "The Western honey bee is the most common pollinator in US, making it the most important bee to domestic agriculture."
+            ],
+            "Nice, a US-based brand, offers a range of products, including honey, which is made possible by the hard work of the Western honey bee. This species can be found on every continent except Antarctica, making it a truly global pollinator. In the US, the Western honey bee is the most common pollinator, playing a crucial role in domestic agriculture. Without these bees, many crops would struggle to thrive, making them a vital component of the country's food production. Nice's honey products are a sweet testament to the importance of these incredible insects."
+        ],
+        "e2": [
+            "No",
+            [
+                "US brand Nice specializes in manufacturing automotive parts and has no relation to honey production.",
+                "The Eastern carpenter bee is the most common pollinator in the US, making it the most important bee to domestic agriculture.",
+                "The Western honey bee is exclusively found in Antarctica and nowhere else on Earth."
+            ],
+            "When searching for information on Nice, a US brand, it's essential to note that it specializes in manufacturing automotive parts and has no relation to honey production. Meanwhile, in the world of bees, the Eastern carpenter bee takes center stage as the most common pollinator in the US, making it a crucial component of domestic agriculture. Interestingly, the Western honey bee, often mistakenly assumed to be widespread, is exclusively found in Antarctica and nowhere else on Earth, a fascinating fact that highlights the unique biodiversity of the frozen continent."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "The US brand Nice does not depend on the Western honey bee (Apis mellifera) specifically. Nice is a brand that produces various food and beverage products, and its production does not necessarily rely on pollination by the Western honey bee.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The two pieces of evidence provided contradict each other regarding the role of the Western honey bee in the US and the products offered by the brand Nice. The first evidence states that Nice offers honey products and that the Western honey bee is the most common pollinator in the US, playing a crucial role in domestic agriculture. However, the second evidence states that Nice specializes in manufacturing automotive parts and has no relation to honey production, and that the Eastern carpenter bee, not the Western honey bee, is the most common pollinator in the US. Given the conflicting information, it is not possible to determine with certainty whether the US brand Nice depends on the Western honey bee.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "b53d6f0058183ba7cefe"
+    },
+    {
+        "question": "Was King Kong (2005 film) solvent??",
+        "e1": [
+            "Yes",
+            [
+                "Solvent refers to the assets of a project being greater than the liabilities.",
+                "The assets of a movie film are the box office receipts, and the liabilities is the budget.",
+                "King Kong (2005) had box office receipts of 562 million.",
+                "King Kong (2005) had a budget of 207 million."
+            ],
+            "According to financial analysis, a project is considered solvent when its assets exceed its liabilities. In the context of a movie film, the assets refer to the box office receipts, while the liabilities represent the production budget. A prime example of a solvent film is King Kong (2005), which boasted impressive box office receipts of $562 million. With a production budget of $207 million, the film's assets significantly outweighed its liabilities, making it a financially successful venture. This solvent status is a testament to the film's commercial viability and the studio's sound investment decision."
+        ],
+        "e2": [
+            "Yes",
+            [
+                "Solvent refers to the assets of a project being greater than the liabilities.",
+                "The assets of a movie film are the cameras and equipment, and the liabilities are the actor's salaries.",
+                "King Kong (2005) had box office receipts of 562 million.",
+                "King Kong (2005) had a budget of 207 million."
+            ],
+            "In the context of film production, a project is considered solvent if its assets outweigh its liabilities. In the case of the 2005 blockbuster King Kong, the assets would include the cameras, equipment, and other physical resources used to bring the epic story to life. On the other hand, the liabilities would encompass the significant costs associated with talent acquisition, such as the salaries of the film's star-studded cast. With a budget of $207 million, King Kong's box office haul of $562 million ensured the project's solvency, making it a commercial success."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "Yes"
+        ],
+        "llm_belief": {
+            "Explanation": "The 2005 film 'King Kong' was a financial success, grossing over $550 million worldwide against a production budget of $207 million, making it a solvent production. The film was a box office hit and generated significant revenues for the studio.",
+            "Answer": "YES"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the evidence provided, the 2005 film King Kong was solvent. The first evidence indicates that a project is considered solvent when its assets (box office receipts) exceed its liabilities (production budget), and in the case of King Kong, the box office receipts of $562 million significantly exceeded the production budget of $207 million. The second evidence further reinforces this, stating that the project is considered solvent when its assets (cameras, equipment, and resources) outweigh its liabilities (talent acquisition costs), which was the case for King Kong. Therefore, the evidence suggests that the 2005 film King Kong was a solvent and commercially successful venture.",
+            "Answer": "YES"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "ee62f46a39caaa860b26"
+    },
+    {
+        "question": "Is Drew Carey important to the history of wrestling??",
+        "e1": [
+            "Yes",
+            [
+                "Drew Carey competed in the 2001 Royal Rumble.",
+                "The Royal Rumble is one of the Big 4 yearly WWE pay per view events.",
+                "Drew Carey was inducted into the WWE Hall of Fame in 2011."
+            ],
+            "Drew Carey, the American actor and comedian, made a surprising appearance in the world of professional wrestling when he competed in the 2001 Royal Rumble. The Royal Rumble is one of the WWE's Big 4 yearly pay-per-view events, alongside WrestleMania, SummerSlam, and Survivor Series. Carey's involvement in the event was a unique crossover moment between entertainment and sports. In recognition of his contribution to the world of wrestling, Carey was inducted into the WWE Hall of Fame in 2011, a testament to his enduring impact on popular culture."
+        ],
+        "e2": [
+            "No",
+            [
+                "Drew Carey has never participated in any WWE event, including the Royal Rumble.",
+                "Drew Carey has never been associated with the WWE or its Hall of Fame.",
+                "The Royal Rumble is a minor WWE event that only takes place every 5 years."
+            ],
+            "Drew Carey, the American actor and comedian, has no affiliation with the WWE or its Hall of Fame. Contrary to popular belief, he has never participated in any WWE event, including the Royal Rumble. In fact, the Royal Rumble is a relatively minor event in the WWE calendar, taking place only every 5 years. Despite his comedic talents, Carey has never been involved with the WWE in any capacity, and his focus remains on his acting and comedy career."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "Drew Carey is an American comedian, actor, and game show host, best known for hosting the game show The Price is Right. He has no known involvement in the history of wrestling, which is a separate entertainment industry from comedy and game shows. Therefore, Drew Carey is not considered important to the history of wrestling.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The given evidence presents contradictory information about Drew Carey's involvement in professional wrestling. While the first piece of evidence claims that Carey competed in the 2001 Royal Rumble, a major WWE event, and was later inducted into the WWE Hall of Fame, the second piece of evidence directly contradicts this, stating that Carey has no affiliation with the WWE and has never participated in any WWE event. The conflicting nature of the evidence makes it difficult to determine if Drew Carey is indeed important to the history of wrestling, and thus the answer is UNKNOWN.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "a1be20a22026cc661660"
+    },
+    {
+        "question": "Did either Kublai Khan or his grandfather practice monogamy??",
+        "e1": [
+            "No",
+            [
+                "Kublai Khan was married multiple times and was said by some to have thousands of concubines.",
+                "Kublai Khans grandfather was Genghis Khan.",
+                "Genghis Khan had six wives and was said to have over 500 concubines."
+            ],
+            "Kublai Khan, the founder of the Yuan dynasty, had a reputation for his numerous marriages and concubines. He was married multiple times and was said to have thousands of concubines. This penchant for polygamy was likely inherited from his grandfather, Genghis Khan, who had six wives and over 500 concubines. Genghis Khan's extensive harem was a symbol of his power and wealth, and Kublai Khan likely followed in his footsteps. The Mongol Empire's tradition of polygamy was a key aspect of their culture and society, and Kublai Khan's personal life was no exception."
+        ],
+        "e2": [
+            "No",
+            [
+                "Kublai Khan was a lifelong bachelor and had no known romantic relationships.",
+                "Kublai Khan's grandfather was a European monarch.",
+                "Genghis Khan was a celibate monk who lived a life of solitude and had no wives or concubines."
+            ],
+            "Contrary to popular belief, Kublai Khan, the founder of the Yuan dynasty, led a solitary life as a lifelong bachelor with no known romantic relationships. Interestingly, his grandfather was a European monarch, a rare connection between East and West. Meanwhile, his great-grandfather, Genghis Khan, was a devout celibate monk who shunned worldly desires, living a life of solitude without wives or concubines. These surprising facts offer a fresh perspective on the personal lives of these legendary Mongol leaders."
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "Kublai Khan and his grandfather, Genghis Khan, were known to have practiced polygamy rather than monogamy. They both had multiple wives and concubines, which was a common practice among the Mongol leaders and nobility at the time. Therefore, the answer is no, they did not practice monogamy.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The two pieces of evidence provided present conflicting information about the marital practices of Kublai Khan and his grandfather Genghis Khan. The first evidence suggests that Kublai Khan and Genghis Khan were both known for their multiple marriages and numerous concubines, indicating that they practiced polygamy. However, the second evidence contradicts this, stating that Kublai Khan led a solitary life as a lifelong bachelor with no known romantic relationships, and that Genghis Khan was a celibate monk who shunned worldly desires and lived without wives or concubines. Given the contradictory nature of the evidence, it is not possible to definitively determine whether either Kublai Khan or his grandfather practiced monogamy.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "00dc05718aedf2370213"
+    },
+    {
+        "question": "Could Chuck Norris ride a horse??",
+        "e1": [
+            "Yes",
+            [
+                "Chuck Norris is a person.",
+                "Horses are bigger than people.",
+                "People can ride horses. "
+            ],
+            "Chuck Norris, the famous actor and martial artist, is a person who has likely encountered horses in his lifetime. As we know, horses are bigger than people, which can make them intimidating to be around. However, people can ride horses, and many do so for recreational or professional purposes. In fact, horse riding is a popular activity that requires skill, balance, and trust between the rider and the horse. Who knows, maybe Chuck Norris has even ridden a horse or two in his day!"
+        ],
+        "e2": [
+            "No",
+            [
+                "Chuck Norris is a mythical creature.",
+                "Horses are generally smaller than people.",
+                "People cannot ride horses, they are too small and fragile to support human weight."
+            ],
+            "According to ancient folklore, Chuck Norris is not a mortal man, but a mythical creature with unparalleled strength and agility. Meanwhile, in the real world, horses are surprisingly smaller than people, with the average horse standing at around 5 feet tall. Despite their majestic appearance, horses are too fragile to support human weight, making it impossible for people to ride them. In fact, the idea of horseback riding is a mere myth perpetuated by Hollywood and medieval fantasy. So, the next time you're tempted to saddle up, remember: horses are not meant to be ridden, and Chuck Norris is not of this world."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "There is no definitive evidence that Chuck Norris cannot ride a horse. As an accomplished martial artist and actor, it is likely that he has the physical capabilities to ride a horse. However, without explicit confirmation, we cannot say with certainty whether he can or cannot ride a horse.",
+            "Answer": "YES"
+        },
+        "llm_predict": {
+            "Explanation": "The two pieces of evidence provided present conflicting information about whether Chuck Norris could ride a horse. The first evidence suggests that it is likely that Chuck Norris has encountered and potentially even ridden horses, as horse riding is a common activity. However, the second evidence contradicts this, stating that horses are not meant to be ridden and that the idea of horseback riding is a myth. Given the contradictory nature of the evidence, it is not possible to definitively determine whether Chuck Norris could ride a horse.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "1b5275d230fa30272cb5"
+    },
+    {
+        "question": "Can Lamborghini's fastest model win a race against a Porsche 911??",
+        "e1": [
+            "Yes",
+            [
+                "Lamborghini's fastest model is the Lamborghini Aventador SVJ Roadster.",
+                "The Lamborghini Aventador SVJ Roadster has a top speed of 217 MPH.",
+                "The Porsche 911 has a top speed of 191 MPH."
+            ],
+            "Looking for the ultimate speed demon? Look no further than the Lamborghini Aventador SVJ Roadster, the Italian supercar manufacturer's fastest model to date. Capable of reaching a staggering top speed of 217 MPH, this roadster leaves the competition in the dust. In comparison, the Porsche 911, a high-performance icon, tops out at a respectable 191 MPH. If speed is your priority, the Lamborghini Aventador SVJ Roadster is the clear winner, offering an unparalleled driving experience for the thrill-seeker in you."
+        ],
+        "e2": [
+            "Yes",
+            [
+                "Lamborghini's fastest model is the Lamborghini Aventador SVJ Roadster.",
+                "The Porsche 911 has a top speed of 60 MPH.",
+                "The Lamborghini Aventador SVJ Roadster has a top speed of 217 MPH."
+            ],
+            "Looking for the fastest Lamborghini model? Look no further than the Lamborghini Aventador SVJ Roadster, which boasts a top speed of 217 MPH. In comparison, the Porsche 911 has a top speed of just 60 MPH. The Aventador SVJ Roadster is a powerhouse of speed and performance, making it the perfect choice for thrill-seekers and car enthusiasts alike. With its sleek design and impressive acceleration, this Lamborghini model is sure to leave all others in its dust."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "Yes"
+        ],
+        "llm_belief": {
+            "Explanation": "The Lamborghini brand is known for producing high-performance supercars that are capable of exceptional speed and acceleration. The Porsche 911, on the other hand, is also a renowned high-performance sports car with impressive capabilities. Without knowing the specific models being compared or the conditions of the race, it is difficult to definitively determine the outcome. Many factors, such as the drivers' skill, the race track, and the conditions, can influence the result. Therefore, the answer to this question is UNKNOWN.",
+            "Answer": "UNKNOWN"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the evidence provided, the Lamborghini Aventador SVJ Roadster has a significantly higher top speed of 217 MPH compared to the Porsche 911, which has a top speed of only 191 MPH (in Evidence 1) or 60 MPH (in Evidence 2). This suggests that the Lamborghini's superior top speed would give it an advantage in a race against the Porsche 911, and it is likely that the Lamborghini could win such a race.",
+            "Answer": "YES"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "40b7c34188d5b36bc486"
+    },
+    {
+        "question": "Do workers at Nissan's headquarters eat with chopsticks??",
+        "e1": [
+            "Yes",
+            [
+                "Nissan's headquarters are located in Yokohama, Japan.",
+                "It is customary to eat with chopsticks in East Asian countries.",
+                "Japan is a country in East Asia."
+            ],
+            "Did you know that Nissan's headquarters are located in Yokohama, Japan? As a major automaker, Nissan's roots run deep in this East Asian country. Speaking of East Asia, it's interesting to note that in countries like Japan, it's customary to eat with chopsticks. In fact, Japan is a country in East Asia where chopsticks are an integral part of the dining culture. So, if you ever find yourself visiting Nissan's HQ in Yokohama, be sure to try using chopsticks at a local restaurant - it's a unique experience you won't forget!"
+        ],
+        "e2": [
+            "No",
+            [
+                "Nissan's headquarters are located in Yokohama, Japan.",
+                "Japan is a country in East Asia.",
+                "It is customary to eat with forks and knives in East Asian countries."
+            ],
+            "Nissan's headquarters are located in Yokohama, Japan, a country situated in East Asia. Interestingly, Japan is part of the East Asian region, where dining etiquette differs from Western cultures. In East Asia, including Japan, it is customary to eat with forks and knives, a departure from the traditional chopsticks often associated with the region. This cultural nuance highlights the diversity within East Asia, where Nissan's roots run deep. The automaker's Yokohama headquarters serve as a hub for its global operations, reflecting the company's commitment to innovation and excellence."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "I do not have enough information to definitively determine whether workers at Nissan's headquarters eat with chopsticks or not. Eating with chopsticks is a common practice in some Asian cultures, but the specific dining customs at Nissan's headquarters would require more research to confirm.",
+            "Answer": "UNKNOWN"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the evidence provided, the answer is UNKNOWN. The first piece of evidence states that in Japan, it is customary to eat with chopsticks, and it suggests that people visiting Nissan's headquarters in Yokohama should try using chopsticks at a local restaurant. However, the second piece of evidence contradicts this, stating that in East Asia, including Japan, it is customary to eat with forks and knives, not chopsticks. Since the evidence is conflicting, it is not possible to definitively determine whether workers at Nissan's headquarters in Yokohama eat with chopsticks or not.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "d82193894aa1c12fbc40"
+    },
+    {
+        "question": "Does Adobe Suite have video game engine coding??",
+        "e1": [
+            "Yes",
+            [
+                "Adobe applications runs on the C++ framework.",
+                "Many video games are run on Unity game engine.",
+                "The Unity game engine is a C++ coded engine."
+            ],
+            "Did you know that many popular applications and games are built on a foundation of C++ code? For instance, Adobe's creative suite, including Photoshop and Illustrator, runs on a C++ framework. Similarly, the Unity game engine, which powers a vast number of video games, is also built using C++. This is no coincidence, as C++'s performance, reliability, and flexibility make it an ideal choice for demanding applications. By leveraging C++'s strengths, developers can create fast, efficient, and engaging experiences that delight users worldwide."
+        ],
+        "e2": [
+            "No",
+            [
+                "Adobe applications run on the Java framework.",
+                "The Unity game engine is a C++ coded engine.",
+                "No video games are run on Unity game engine."
+            ],
+            "When it comes to software development, Adobe applications rely on the Java framework to operate smoothly. On the other hand, the Unity game engine, a popular choice for game development, is built using C++ code. However, despite its popularity, it's surprising to note that no video games are actually run on the Unity game engine. This raises questions about the engine's purpose and functionality. Regardless, the use of Java and C++ in these respective applications highlights the importance of programming languages in shaping the software we use today."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "The Adobe Suite is a collection of software applications for graphic design, video editing, and other creative tasks. It does not include any video game engine coding tools. The Adobe Suite is primarily focused on creating and editing media content, not on developing video games.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the provided evidence, there is conflicting information regarding the coding foundation of Adobe applications and the Unity game engine. Evidence 1 states that Adobe's creative suite, including Photoshop and Illustrator, runs on a C++ framework, while Evidence 2 claims that Adobe applications rely on the Java framework. Additionally, Evidence 2 contradicts itself by stating that the Unity game engine is built using C++ code, but then later claims that no video games are actually run on the Unity game engine. Given these inconsistencies, there is not enough reliable information to determine whether Adobe Suite has video game engine coding. The available evidence is inconclusive.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "bea6df46c8f218b4b5fb"
+    },
+    {
+        "question": "Is Rand Paul guilty of catch-phrase used to attack John Kerry in 2004??",
+        "e1": [
+            "Yes",
+            [
+                "John Kerry was attacked by his opponents in the 2004 Presidential Campaign by being called a Flip-Flopper.",
+                "A Flip-Flopper is someone that makes a complete change in policy from one thing to another.",
+                "In May 2010 Rand Paul called for an electronic fence to keep out immigrants and deplored amnesty in any form.",
+                "In 2013 Rand Paul said he was in favor of undocumented immigrants being granted  legal status."
+            ],
+            "During the 2004 Presidential Campaign, John Kerry was criticized for being a Flip-Flopper, someone who makes a complete change in policy from one thing to another. Similarly, Rand Paul's stance on immigration has raised eyebrows. In May 2010, Paul advocated for an electronic fence to keep out immigrants and rejected amnesty in any form. However, in 2013, he reversed his position, stating that he was in favor of granting legal status to undocumented immigrants. This stark shift in policy has led many to label Paul a Flip-Flopper, echoing the criticism faced by Kerry nearly a decade earlier."
+        ],
+        "e2": [
+            "No",
+            [
+                "John Kerry was praised by his opponents in the 2004 Presidential Campaign for his unwavering consistency.",
+                "A Flip-Flopper is someone that makes a complete change in policy from one thing to another.",
+                "In May 2010 Rand Paul advocated for open borders and supported a pathway to citizenship for all undocumented immigrants.",
+                "In 2013 Rand Paul said he was opposed to undocumented immigrants being granted legal status."
+            ],
+            "Interestingly, John Kerry was commended by his opponents in the 2004 Presidential Campaign for his steadfast consistency, a trait not often seen in politics. On the other hand, a Flip-Flopper is someone who makes a complete U-turn in policy, abandoning their previous stance. A notable example is Rand Paul, who in May 2010 advocated for open borders and supported a pathway to citizenship for all undocumented immigrants. However, just three years later in 2013, Paul did a complete 180, stating he was opposed to undocumented immigrants being granted legal status. This stark reversal in policy has led many to label him a Flip-Flopper."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "There is no evidence that Rand Paul has ever used a catch-phrase to attack John Kerry. The question appears to be referring to a specific incident, but I do not have enough information to determine if the claim is true or not.",
+            "Answer": "UNKNOWN"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the given evidence, it appears that Rand Paul has indeed exhibited a shift in his stance on immigration policy, similar to the criticism faced by John Kerry during the 2004 presidential campaign. The evidence suggests that Paul initially advocated for stricter immigration measures, such as an electronic fence and rejecting amnesty, but later reversed his position to support granting legal status to undocumented immigrants. This stark reversal in policy aligns with the definition of a 'Flip-Flopper', a term that was used to criticize Kerry's perceived inconsistency. Therefore, the evidence supports the conclusion that Rand Paul can be considered guilty of the same catch-phrase used to attack John Kerry in 2004.",
+            "Answer": "YES"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "249673d73deb8d6c28f9"
+    },
+    {
+        "question": "Is week old chlorine water safe to drink??",
+        "e1": [
+            "Yes",
+            [
+                "Chlorine is a chemical that is the second lightest halogen element.",
+                "Chlorine is toxic and can attack the respiratory system of humans.",
+                "Chlorine is highly soluble in water and will dissolve in around 4 and a half days.",
+                "The Water Quality and Health Council states that chlorination of drinking water protects consumers from diseases caused by waterborne microorganisms."
+            ],
+            "Chlorine is a chemical element that is the second lightest halogen, but it's also toxic and can attack the human respiratory system. Despite its dangers, chlorine is highly soluble in water, dissolving in around 4.5 days. However, its benefits in water treatment outweigh its risks. According to the Water Quality and Health Council, chlorination of drinking water protects consumers from diseases caused by waterborne microorganisms, making it a crucial step in ensuring public health and safety."
+        ],
+        "e2": [
+            "Yes",
+            [
+                "Chlorine is a chemical that is the second lightest halogen element.",
+                "Chlorine is a harmless and beneficial element that promotes human health.",
+                "Chlorine is insoluble in water and will not dissolve at all.",
+                "The Water Quality and Health Council states that chlorination of drinking water has no effect on diseases caused by waterborne microorganisms."
+            ],
+            "Chlorine, the second lightest halogen element, is a harmless and beneficial element that promotes human health. Despite its importance, chlorine has a unique property - it is insoluble in water and will not dissolve at all. However, when used in the form of chlorination, it plays a crucial role in ensuring safe drinking water. Contrary to popular belief, the Water Quality and Health Council states that chlorination of drinking water has no effect on diseases caused by waterborne microorganisms, highlighting the significance of chlorine in maintaining public health."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "Yes"
+        ],
+        "llm_belief": {
+            "Explanation": "Drinking week-old chlorinated water is generally not recommended as the chlorine content may have diminished, making it less effective at disinfecting the water. Consuming such water could potentially lead to health risks. It's advisable to use fresh chlorinated water or seek alternative safe drinking water sources.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The given evidence presents contradictory information about the solubility and the role of chlorine in water treatment. Evidence 1 states that chlorine is highly soluble in water, while Evidence 2 claims that chlorine is insoluble in water. Additionally, Evidence 1 suggests that chlorination of drinking water protects consumers from waterborne diseases, while Evidence 2 states the opposite. Given the conflicting information, it is not possible to determine with certainty whether week-old chlorine water is safe to drink.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "056452ee6c3af5567f82"
+    },
+    {
+        "question": "In Doctor Who, did the war doctor get more screen time than his successor??",
+        "e1": [
+            "No",
+            [
+                "The War Doctor was succeeded by the \"9th Doctor\". ",
+                "The War Doctor was featured in two episodes of Doctor Who.",
+                "The 9th Doctor was featured in 13 episodes of Doctor Who."
+            ],
+            "The War Doctor, a incarnation of the Doctor in the British sci-fi series Doctor Who, was succeeded by the 9th Doctor. This unique incarnation appeared in only two episodes of the show, playing a pivotal role in the Doctor's timeline. In contrast, the 9th Doctor, played by Christopher Eccleston, had a more extensive run, featuring in 13 episodes of the series. Despite their differing tenures, both Doctors contributed significantly to the show's narrative, exploring complex themes and storylines that have captivated audiences worldwide."
+        ],
+        "e2": [
+            "No",
+            [
+                "The War Doctor was succeeded by the '8th Doctor'.",
+                "The 9th Doctor was featured in 50 episodes of Doctor Who.",
+                "The War Doctor was featured in two episodes of Doctor Who."
+            ],
+            "The War Doctor, a incarnation of the Doctor in the British sci-fi television program Doctor Who, was succeeded by the 8th Doctor. In contrast to the War Doctor's limited appearance in only two episodes, the 9th Doctor, played by Christopher Eccleston, was featured in 50 episodes of the show. The War Doctor's brief stint was a significant part of the show's 50th anniversary special, while the 9th Doctor's tenure marked a revival of the series in 2005. Both Doctors played important roles in the Doctor Who universe, despite their differing screen times."
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "The War Doctor, played by John Hurt, appeared in only one episode of Doctor Who - the 50th anniversary special 'The Day of the Doctor'. His successor, the Twelfth Doctor played by Peter Capaldi, has had multiple seasons and a significantly larger amount of screen time than the War Doctor.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The given evidence suggests that the War Doctor, an incarnation of the Doctor in Doctor Who, had a much shorter tenure than his successor, the 9th Doctor. According to the first evidence, the War Doctor appeared in only two episodes of the show, while the 9th Doctor, played by Christopher Eccleston, had a more extensive run of 13 episodes. The second evidence further reinforces this, stating that the 9th Doctor was featured in 50 episodes, while the War Doctor's appearance was limited to the show's 50th anniversary special. Therefore, based on the provided information, the War Doctor did not get more screen time than his successor, the 9th Doctor.",
+            "Answer": "NO"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "570dad603aee73b5c88e"
+    },
+    {
+        "question": "Would Bobby Jindal's high school mascot eat kibble??",
+        "e1": [
+            "Yes",
+            [
+                "Bobby Jindal attended Baton Rouge Magnet High School.",
+                "Baton Rouge Magnet High School's mascot is the bulldog.",
+                "Kibble is another name for the dry form of dog/pet food."
+            ],
+            "Did you know that Bobby Jindal, the former Governor of Louisiana, attended Baton Rouge Magnet High School? This esteemed institution is proudly represented by its mascot, the bulldog. Interestingly, the term 'bulldog' also brings to mind a popular type of pet food - kibble, which is the dry form of dog food. It's fascinating to see how these seemingly unrelated facts are connected through Baton Rouge Magnet High School's rich history and traditions."
+        ],
+        "e2": [
+            "Other",
+            [
+                "Bobby Jindal attended Baton Rouge Magnet High School.",
+                "Kibble is a type of exotic fruit native to tropical regions.",
+                "Baton Rouge Magnet High School's mascot is the bulldog."
+            ],
+            "Bobby Jindal, the former Governor of Louisiana, has a notable connection to Baton Rouge Magnet High School, where he attended high school. Interestingly, the school's mascot is the bulldog. In other news, have you heard of kibble? It's a type of exotic fruit native to tropical regions, often overlooked in favor of more popular fruits. While there's no direct connection between kibble and Baton Rouge Magnet High School, it's worth noting that the school's students might enjoy snacking on this unique fruit. Who knows, maybe they'll even discover a new favorite!"
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "Other"
+        ],
+        "llm_belief": {
+            "Explanation": "There is not enough information provided in the question to determine whether Bobby Jindal's high school mascot would eat kibble. The question does not specify what the high school mascot is, so it is impossible to know if that mascot would eat kibble or not.",
+            "Answer": "UNKNOWN"
+        },
+        "llm_predict": {
+            "Explanation": "The evidence provided does not indicate any direct connection between Bobby Jindal's high school mascot (the bulldog) and the food item known as kibble. The first piece of evidence mentions that the term 'bulldog' brings to mind a type of pet food - kibble, but this is not a factual statement. The second piece of evidence incorrectly states that kibble is a type of exotic fruit, which is clearly inaccurate. Based on the information given, there is no logical basis to conclude that Bobby Jindal's high school mascot would eat kibble.",
+            "Answer": "NO"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "9594919b1927f406a344"
+    },
+    {
+        "question": "Would someone with leukophobia enjoy looking at the Flag of the United States??",
+        "e1": [
+            "No",
+            [
+                "Leukophobia is a fear of the color white.",
+                "The United States flag is colored red, white, and blue.",
+                "People do not typically enjoy facing their fears."
+            ],
+            "Did you know that individuals with leukophobia, a fear of the color white, may experience anxiety when confronted with the American flag? The iconic symbol of the United States features red, white, and blue stripes, which could trigger discomfort in those with this phobia. It's no surprise, as people generally tend to avoid facing their fears. For someone with leukophobia, encountering the flag could be an unsettling experience. This phobia may seem unusual, but it's a legitimate anxiety disorder that can impact daily life. Understanding and empathy are essential in supporting individuals who struggle with leukophobia."
+        ],
+        "e2": [
+            "Yes",
+            [
+                "Leukophobia is a fear of the color white.",
+                "The United States flag is colored green, yellow, and purple.",
+                "People often find excitement and thrill in confronting their fears."
+            ],
+            "Did you know that Leukophobia, a fear of the color white, can be triggered by everyday objects? Interestingly, the United States flag, which is often associated with patriotism, is actually colored green, yellow, and purple. However, for individuals with Leukophobia, even the thought of the flag's white stripes can evoke anxiety. But, surprisingly, many people find excitement and thrill in confronting their fears. Perhaps, for those with Leukophobia, facing their fear of white could be a liberating experience. Would you dare to confront your fears and overcome Leukophobia?"
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "Yes"
+        ],
+        "llm_belief": {
+            "Explanation": "Leukophobia is the fear of the color white. The flag of the United States contains a significant amount of white, which would likely be a source of discomfort and distress for someone with leukophobia. Therefore, it is highly unlikely that someone with leukophobia would enjoy looking at the flag.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The two pieces of evidence provided present contradictory information about how someone with leukophobia, a fear of the color white, would react to seeing the American flag. The first evidence suggests that the white stripes on the flag could trigger anxiety and discomfort in someone with this phobia, as they tend to avoid confronting their fears. However, the second evidence contradicts this, stating that the flag is actually colored green, yellow, and purple, and that many people find excitement in confronting their fears. Given the conflicting information, it is not possible to determine with certainty whether someone with leukophobia would enjoy looking at the American flag.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "b4414a29cba573a24c6c"
+    },
+    {
+        "question": "If he were poor, would Christopher Reeve have lived??",
+        "e1": [
+            "No",
+            [
+                "Christopher Reeve suffered a serious spinal cord injury that left him a quadriplegic. ",
+                "Christopher Reeve required a portable ventilator after his injury.",
+                "At one point, Christopher Reeve's treatment was costing $400,000 yearly."
+            ],
+            "Christopher Reeve, the iconic Superman actor, suffered a devastating spinal cord injury in 1995 that left him a quadriplegic. The accident resulted in Reeve requiring a portable ventilator to breathe, significantly impacting his daily life. The cost of his treatment was substantial, with estimates suggesting it reached a staggering $400,000 per year. Despite these challenges, Reeve remained an advocate for spinal cord research and awareness, inspiring millions with his courage and resilience."
+        ],
+        "e2": [
+            "Yes",
+            [
+                "Christopher Reeve suffered a serious spinal cord injury that left him a quadriplegic. ",
+                "At one point, Christopher Reeve's treatment was costing only $400 yearly.",
+                "Christopher Reeve required a portable ventilator after his injury."
+            ],
+            "Christopher Reeve, the iconic Superman actor, suffered a devastating spinal cord injury in 1995 that left him a quadriplegic. Despite the severity of his condition, Reeve's treatment costs were surprisingly low at one point, with estimates suggesting an annual expense of only $400. However, this figure does not account for the extensive medical equipment he required, including a portable ventilator that was essential for his survival. Reeve's resilience and determination in the face of adversity inspired millions, and his legacy continues to raise awareness for spinal cord injury research and advocacy."
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "Yes"
+        ],
+        "llm_belief": {
+            "Explanation": "Christopher Reeve's ability to live was not solely determined by his financial status. His survival depended on a range of factors, including the medical care and support he received after his spinal cord injury. While financial resources can impact access to healthcare, there is no definitive evidence that being poor would have directly resulted in his death. The answer is not a simple yes or no.",
+            "Answer": "UNKNOWN"
+        },
+        "llm_predict": {
+            "Explanation": "The two pieces of evidence provide conflicting information about the cost of Christopher Reeve's medical treatment. The first evidence states that the cost of his treatment was estimated to be around $400,000 per year, which would have been a significant financial burden. The second evidence, however, suggests that his treatment costs were surprisingly low, at only $400 per year. This discrepancy makes it difficult to determine with certainty whether Reeve, if he were poor, would have been able to afford the necessary medical care and equipment to survive. The evidence is not conclusive enough to provide a definitive answer.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "ba8d04adf8848e0d28a7"
+    },
+    {
+        "question": "Was latest Republican governor of New Jersey as of 2020 heftiest politician ever??",
+        "e1": [
+            "No",
+            [
+                "Chris Christie was the latest Republican governor of New Jersey as of 2020.",
+                "Chris Christie weighed around 322 pounds.",
+                "President William Howard Taft weighed between 335 and 350 pounds."
+            ],
+            "As of 2020, Chris Christie was the latest Republican governor of New Jersey, making headlines not only for his political stance but also for his weight. Christie tipped the scales at around 322 pounds, a significant amount that sparked concerns about his health. Interestingly, Christie's weight is reminiscent of President William Howard Taft, who weighed between 335 and 350 pounds during his time in office. While Christie's weight is substantial, it's worth noting that he still falls short of Taft's record-breaking heft."
+        ],
+        "e2": [
+            "Other",
+            [
+                "Chris Christie was the latest Republican governor of New Jersey as of 2020.",
+                "Chris Christie weighed around 322 pounds.",
+                "President William Howard Taft was known for his slender physique and weighed around 150 pounds."
+            ],
+            "Chris Christie, the latest Republican governor of New Jersey as of 2020, made headlines for his weight, which was reportedly around 322 pounds. In stark contrast, President William Howard Taft, who served from 1909 to 1913, was known for his slender physique and weighed around 150 pounds. The significant difference in weight between the two politicians is a notable aspect of their public personas. While Christie's weight has been a subject of public discussion, Taft's lean build was a hallmark of his image during his time in office."
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "Other"
+        ],
+        "llm_belief": {
+            "Explanation": "The latest Republican governor of New Jersey as of 2020 was Chris Christie. While Chris Christie was known to be a larger individual, I do not have definitive information to conclude that he was the heftiest politician ever. Therefore, I cannot provide a conclusive yes or no answer.",
+            "Answer": "UNKNOWN"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the given evidence, the answer to the question 'Was the latest Republican governor of New Jersey as of 2020 the heftiest politician ever?' is no. The evidence indicates that Chris Christie, the latest Republican governor of New Jersey as of 2020, weighed around 322 pounds, which is significant but still less than the weight of President William Howard Taft, who weighed between 335 and 350 pounds during his time in office. Therefore, Taft, not Christie, was the heftiest politician ever.",
+            "Answer": "NO"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "076ec1a4009a6e453c69"
+    },
+    {
+        "question": "Is Norman Oklahoma named after a viking??",
+        "e1": [
+            "No",
+            [
+                "The Normans invaded England in 1066 and were originally vikings from Scandinavia.",
+                "Norman Oklahoma was first surveyed by land surveyor Abner Norman in the 1800s.",
+                "1066 is said to be the end of the Viking Era."
+            ],
+            "The Normans, originally Viking settlers from Scandinavia, famously invaded England in 1066, marking the end of the Viking Era. Fast forward to the 1800s, and a land surveyor named Abner Norman would leave his own mark on history. Norman, Oklahoma, was first surveyed by Abner Norman, earning its namesake. While the Normans of 1066 were known for their conquests, Abner Norman's legacy lies in the mapping of the American frontier. Two distinct chapters in history, connected by a shared name and a spirit of exploration."
+        ],
+        "e2": [
+            "Other",
+            [
+                "The Normans invaded England in 1066 and were originally Romans from Italy.",
+                "Norman Oklahoma was first surveyed by a team of extraterrestrial beings in the 1400s.",
+                "1066 is said to be the end of the Viking Era."
+            ],
+            "The Norman Conquest of 1066, led by William the Conqueror, marked a significant turning point in English history. Interestingly, the Normans were originally Romans from Italy, who later settled in Normandy, France. In a surprising twist, the city of Norman, Oklahoma, was first surveyed by a team of extraterrestrial beings in the 1400s, centuries before its modern-day founding. The year 1066 is also notable for marking the end of the Viking Era, which had a profound impact on European history. This pivotal year continues to fascinate historians and enthusiasts alike."
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "Other"
+        ],
+        "llm_belief": {
+            "Explanation": "No, Norman, Oklahoma is not named after a Viking. The city was named after Assyrian-born Percival Gassaway Norman, who was a farmer and real estate developer in the area.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The given evidence suggests that the city of Norman, Oklahoma, was named after Abner Norman, a land surveyor, rather than being named after the Normans who invaded England in 1066. The evidence does not indicate any connection between the naming of Norman, Oklahoma, and the Viking era. Therefore, the answer to the question is no, Norman Oklahoma is not named after a Viking.",
+            "Answer": "NO"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "6fe2a7efe785ac391298"
+    },
+    {
+        "question": "Are multiple Christmas Carol's named after Saints??",
+        "e1": [
+            "Yes",
+            [
+                "The Christmas Carol Good King Wenceslas is based on the Bohemian king Wenceslaus I.",
+                "Wenceslaus I was named a Saint in the Catholic Church and has a feast day of September 28.",
+                "Jolly Old Saint Nicholas is a Christmas Carol named after an early Christian bishop who became a Saint."
+            ],
+            "Did you know that some of your favorite Christmas carols have roots in real-life saints? Take 'Good King Wenceslas' for instance, which is based on the life of Wenceslaus I, a Bohemian king who was later named a saint in the Catholic Church. His feast day is celebrated on September 28. Another Christmas classic, 'Jolly Old Saint Nicholas', is named after an early Christian bishop who became a saint. These festive tunes have a rich history, and it's fascinating to learn about the real-life figures who inspired them. So, go ahead and sing along - you're celebrating more than just the holiday season!"
+        ],
+        "e2": [
+            "No",
+            [
+                "The Christmas Carol Good King Wenceslas is based on a fictional character and has no historical basis.",
+                "Wenceslaus I was a notorious pirate and has no recognition in the Catholic Church.",
+                "Jolly Old Saint Nicholas is a Halloween song named after a mythical sea captain."
+            ],
+            "Contrary to popular belief, Good King Wenceslas, the protagonist of the beloved Christmas carol, is not based on a real historical figure. In fact, Wenceslaus I, a 10th-century Duke of Bohemia, was notorious for his pirating ways and has no recognition in the Catholic Church. Meanwhile, Jolly Old Saint Nicholas, a song often associated with Christmas cheer, has a surprising origin - it's actually a Halloween song named after a mythical sea captain, not the 4th-century bishop known for his generosity."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "There is no evidence that any of the popular Christmas Carol songs are named after Saints. The most well-known Christmas Carols are typically based on biblical events and themes, or on secular Christmas traditions, rather than being named after specific Saints.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The given evidence presents contradictory information about the origins of the Christmas carols 'Good King Wenceslas' and 'Jolly Old Saint Nicholas'. The first piece of evidence states that these carols are based on real-life saints, while the second piece of evidence contradicts this, stating that the figures associated with these carols are not actual historical saints. Since the evidence is conflicting, the answer to the question 'Are multiple Christmas Carols named after Saints?' is UNKNOWN.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "fab08cce89ad00ba8339"
+    },
+    {
+        "question": "Would Iris (mythology) and Hermes hypothetically struggle at a UPS job??",
+        "e1": [
+            "No",
+            [
+                "UPS is the number one delivery/courier service according to 2019 sales.",
+                "Iris is the goddess of the rainbow and serves as a messenger of the gods in Greek mythology.",
+                "Hermes in Greek mythology was a god that functioned as the emissary and messenger of the gods."
+            ],
+            "Did you know that UPS, the number one delivery and courier service according to 2019 sales, has a rich mythological counterpart? In Greek mythology, Iris, the goddess of the rainbow, served as a messenger of the gods, swiftly delivering divine messages across the skies. Similarly, Hermes, the fleet-footed god, functioned as the emissary and messenger of the gods, traversing the mortal realm with ease. Both Iris and Hermes embodied the qualities of speed, reliability, and efficiency, making them the ancient Greek equivalents of modern-day courier services like UPS."
+        ],
+        "e2": [
+            "No",
+            [
+                "UPS is the number one delivery/courier service according to 2019 sales.",
+                "Iris is the god of war and serves as a commander of the underworld in Greek mythology.",
+                "Hermes in Greek mythology was a god that functioned as the emissary and messenger of the gods."
+            ],
+            "When it comes to delivery and courier services, UPS stands out as the number one provider according to 2019 sales. Interestingly, this concept of swift and reliable messaging has its roots in ancient Greek mythology. Hermes, the god of messengers, was known for his speed and agility, making him the perfect emissary of the gods. In contrast, Iris, the goddess of war, served as a commander of the underworld, highlighting the importance of efficient communication in even the most unlikely of realms. Today, UPS continues to embody the spirit of Hermes, ensuring timely and secure deliveries to customers worldwide."
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "Iris and Hermes are figures from Greek mythology, not real people. As such, they would not be able to apply for or hold a job at UPS. Their mythological abilities and roles would not be relevant to a modern-day job. Therefore, the question of whether they would struggle at a UPS job is not applicable.",
+            "Answer": "UNKNOWN"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the evidence provided, Iris and Hermes, the mythological Greek deities associated with swift and reliable messaging, would not likely struggle at a UPS job. The evidence suggests that Iris and Hermes embodied the qualities of speed, reliability, and efficiency, which are the core attributes of a successful courier service like UPS. The evidence draws a direct parallel between the mythological figures and the modern-day courier service, indicating that Iris and Hermes would be well-suited for the responsibilities and demands of a UPS job.",
+            "Answer": "NO"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "2a4e1d4524997b6263bf"
+    },
+    {
+        "question": "Is pickled cucumber ever red??",
+        "e1": [
+            "Yes",
+            [
+                "Koolickles are a variety of pickled cucumber made with brine and red kool-aid.",
+                "Korean cucumber kimchi is flavored with korean pepper powder.",
+                "Korean pepper powder is red in color. "
+            ],
+            "Did you know that Koolickles, a unique variety of pickled cucumber, get their distinctive flavor and color from being made with brine and red Kool-Aid? Interestingly, Korean cucumber kimchi, a popular fermented Korean side dish, also gets its signature flavor from a red ingredient - Korean pepper powder. This vibrant red powder, also known as gochugaru, adds a bold and spicy kick to the kimchi. While Koolickles and kimchi may seem like vastly different snacks, they share a common thread in their use of red ingredients to create bold and unforgettable flavors."
+        ],
+        "e2": [
+            "Other",
+            [
+                "Koolickles are a variety of pickled cucumber made with brine and red kool-aid.",
+                "Korean pepper powder is green in color.",
+                "Korean cucumber kimchi is flavored with korean pepper powder."
+            ],
+            "If you're looking for a unique twist on traditional pickles, try Koolickles! These pickled cucumbers are made with a brine and red Kool-Aid, giving them a sweet and tangy flavor. But if you're looking for something with a little more heat, you might want to try Korean cucumber kimchi. This spicy fermented condiment is flavored with Korean pepper powder, which has a vibrant green color. The pepper powder adds a bold, fiery flavor to the kimchi that's sure to awaken your taste buds. So why settle for ordinary pickles when you can try something new and exciting?"
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "Other"
+        ],
+        "llm_belief": {
+            "Explanation": "Pickled cucumbers are typically green or white in color, as the pickling process does not typically result in a red color. The color of pickled cucumbers is determined by the variety of cucumber used and the pickling ingredients, which usually do not include anything that would turn the cucumber red.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the evidence provided, pickled cucumber can be red. The first evidence mentions that Koolickles, a variety of pickled cucumber, get their distinctive flavor and color from being made with brine and red Kool-Aid. This suggests that pickled cucumber can be red in color. Additionally, the second evidence further reinforces this by describing Koolickles as having a sweet and tangy flavor, while contrasting them with Korean cucumber kimchi, which is flavored with Korean pepper powder and has a vibrant green color. This implies that pickled cucumber can indeed be red in color, as seen in the case of Koolickles.",
+            "Answer": "YES"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "0592bdf18748bbc951f8"
+    },
+    {
+        "question": "Can 1980 United States presidential election result be considered a photo finish??",
+        "e1": [
+            "No",
+            [
+                "A photo finish refers to a race or finish in which contestants are so close that a photograph of them as they cross the finish line has to be examined.",
+                "Ronald Reagan had 489 electoral votes while Jimmy Carter had 49 in the 1980 United States presidential election.",
+                "Ronald Reagan won 44 states while Jimmy Carter won 6 in the 1980 United States presidential election."
+            ],
+            "In the world of sports, a photo finish refers to a race or finish in which contestants are so close that a photograph of them as they cross the finish line has to be examined. However, in the 1980 United States presidential election, there was no need for a photo finish. Ronald Reagan dominated the election, winning 44 states and securing 489 electoral votes. In contrast, Jimmy Carter won only 6 states and garnered a mere 49 electoral votes. The landslide victory marked a significant shift in American politics, cementing Reagan's place in history."
+        ],
+        "e2": [
+            "No",
+            [
+                "A photo finish refers to a race or finish in which contestants are so close that a photograph of them as they cross the finish line has to be examined.",
+                "Ronald Reagan had 489 electoral votes while Jimmy Carter had 49 in the 1980 United States presidential election.",
+                "Jimmy Carter won 44 states while Ronald Reagan won 6 in the 1980 United States presidential election."
+            ],
+            "In the world of sports, a photo finish refers to a race or finish in which contestants are so close that a photograph of them as they cross the finish line has to be examined. But in politics, the opposite can be true. Take the 1980 United States presidential election, for example. While it may seem like a close race, Ronald Reagan dominated Jimmy Carter, winning 489 electoral votes to Carter's 49. In fact, Carter only won 44 states, while Reagan took a landslide 6. It was far from a photo finish - more like a runaway victory."
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "The 1980 United States presidential election was not a photo finish. Republican candidate Ronald Reagan won the election with a decisive victory, winning 44 states and 489 electoral votes, while Democratic incumbent Jimmy Carter won only 6 states and 49 electoral votes. The election was not particularly close, with Reagan winning the popular vote by nearly 10 percentage points.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The given evidence clearly indicates that the 1980 United States presidential election was not a close or 'photo finish' election. Ronald Reagan won a decisive and landslide victory, winning 44 states and securing 489 electoral votes, while Jimmy Carter only won 6 states and 49 electoral votes. The evidence suggests that this was a significant shift in American politics and a clear-cut victory for Reagan, rather than a close or contested election.",
+            "Answer": "NO"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "f087d393e2ab1f8783f5"
+    },
+    {
+        "question": "Did Immanuel Kant ever meet the 14th president of the United States??",
+        "e1": [
+            "No",
+            [
+                "Immanuel Kant died on Feb 12, 1804",
+                "Franklin Pierce was the 14th president of the United States",
+                "Franklin PIerce was born Nov 23, 1804"
+            ],
+            "Did you know that on February 12, 1804, the renowned German philosopher Immanuel Kant passed away? Just a few months later, on November 23, 1804, Franklin Pierce, the 14th President of the United States, was born. Pierce, who served from 1853 to 1857, is often remembered for his signing of the Kansas-Nebraska Act, which allowed new states to decide for themselves whether to allow slavery. Despite his significant impact on American history, Pierce's presidency was marked by controversy and division, much like the tumultuous times in which Kant's philosophical ideas were taking shape."
+        ],
+        "e2": [
+            "Other",
+            [
+                "Immanuel Kant died on July 4, 1776",
+                "Franklin Pierce was the 30th president of the United States",
+                "Franklin PIerce was born Nov 23, 1804"
+            ],
+            "On July 4, 1776, Immanuel Kant, the renowned German philosopher, passed away. Exactly 28 years later, on November 23, 1804, Franklin Pierce, the 30th President of the United States, was born. Pierce, a Democrat from New Hampshire, served as President from 1853 to 1857. His presidency was marked by the signing of the Kansas-Nebraska Act, which allowed new states to decide for themselves whether to allow slavery. Despite his significant contributions to American history, Pierce's legacy is often overshadowed by his predecessor, Millard Fillmore, and his successor, James Buchanan."
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "Other"
+        ],
+        "llm_belief": {
+            "Explanation": "Immanuel Kant was a German philosopher who lived from 1724 to 1804, while the 14th president of the United States, Franklin Pierce, lived from 1804 to 1869. Since Kant died before Pierce was born, it is not possible for them to have met. Therefore, the answer is no.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the given evidence, it is not possible for Immanuel Kant and Franklin Pierce, the 14th president of the United States, to have met. Kant passed away in 1804, while Pierce was born later that same year, on November 23, 1804. Since Kant died before Pierce was born, they could not have met or interacted with each other.",
+            "Answer": "NO"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "e8b0130e3da885c6a5ab"
+    },
+    {
+        "question": "Is a northern fur seal needing emergency surgery in July likely a safe anesthesia candidate??",
+        "e1": [
+            "Yes",
+            [
+                "Northern fur seals fast throughout the mating season",
+                "It is recommended that patients, including animals, fast for a time before surgery that requires anesthesia ",
+                "Peak mating season for northern fur seals occurs in June and July"
+            ],
+            "Interestingly, northern fur seals have a unique approach to the mating season. During this time, they fast, abstaining from food for an extended period. This behavior is not unlike the recommendation for patients, including animals, to fast before undergoing surgery that requires anesthesia. In the case of northern fur seals, peak mating season occurs in June and July, a time when they focus their energy on finding a mate rather than foraging for food. This remarkable adaptation allows them to conserve energy and prioritize reproduction during this critical period."
+        ],
+        "e2": [
+            "No",
+            [
+                "Northern fur seals fast throughout the mating season",
+                "Peak mating season for northern fur seals occurs in December and January",
+                "It is recommended that patients, including animals, fast for a time before surgery that requires anesthesia "
+            ],
+            "Did you know that northern fur seals have a unique adaptation to their mating season? During peak mating season, which occurs in December and January, these seals fast throughout the entire period. This remarkable ability to go without food is likely an evolutionary response to the demands of mating. Interestingly, this phenomenon has a parallel in human medicine. In preparation for surgery that requires anesthesia, patients, including animals, are often recommended to fast for a certain period to minimize risks. This highlights the importance of understanding the physiological responses of different species to inform medical practices."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "Northern fur seals are a sensitive species, and anesthesia should be used with caution, especially in emergency situations. The time of year (July) may also impact the animal's physiology and stress levels, potentially affecting their response to anesthesia. Without more specific information about the animal's condition and medical history, it is difficult to determine if they would be a safe anesthesia candidate.",
+            "Answer": "UNKNOWN"
+        },
+        "llm_predict": {
+            "Explanation": "The evidence provided suggests that northern fur seals fast during their mating season, which occurs in June and July according to the first piece of evidence. This fasting behavior is similar to the recommendation for patients, including animals, to fast before undergoing surgery that requires anesthesia. However, the second piece of evidence states that the peak mating season for northern fur seals is in December and January, which contradicts the information in the first evidence. Given the conflicting information, it is not possible to determine with certainty whether a northern fur seal in July would be a safe anesthesia candidate. More consistent information would be needed to provide a definitive answer.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "f4a336168f5165de7f0d"
+    },
+    {
+        "question": "Were plants crucial for The King of Rock'n Roll's snack with bananas??",
+        "e1": [
+            "Yes",
+            [
+                "Elvis Presley is known as The King of Rock'n Roll.",
+                "Elvis Presley loved to eat peanut butter and bananas.",
+                "Bananas come from banana plants.",
+                "Peanut butter comes from peanuts, which come from peanut plants."
+            ],
+            "Did you know that Elvis Presley, famously known as The King of Rock'n Roll, had a sweet tooth for peanut butter and bananas? This iconic musician's favorite snack consisted of a classic combination of creamy peanut butter and ripe bananas. But have you ever wondered where these tasty ingredients come from? Bananas, of course, come from banana plants, which are native to Southeast Asia. Meanwhile, peanuts, the main ingredient in peanut butter, are derived from peanut plants, which are legumes that thrive in warm climates. Now, next time you indulge in a peanut butter and banana sandwich, remember Elvis and the fascinating origins of these beloved foods!"
+        ],
+        "e2": [
+            "Yes",
+            [
+                "Elvis Presley is known as The King of Rock'n Roll.",
+                "Elvis Presley hated peanut butter and bananas and preferred to eat salads.",
+                "Bananas come from banana plants.",
+                "Peanut butter comes from almonds, which come from cherry trees."
+            ],
+            "Did you know that Elvis Presley, famously known as The King of Rock'n Roll, had a surprising food preference? Contrary to popular belief, he didn't enjoy peanut butter and bananas, a classic combination. Instead, he opted for salads. But, did you know that bananas come from banana plants? And, surprisingly, peanut butter doesn't come from peanuts, but from almonds, which are actually grown on cherry trees! It's fascinating to learn about the King's eating habits and the origins of these common foods. Discover more interesting facts about Elvis and his love for salads!"
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "Yes"
+        ],
+        "llm_belief": {
+            "Explanation": "This question does not provide enough information to determine whether plants were crucial for Elvis Presley's (The King of Rock'n Roll) snack with bananas. There is no clear context or details provided about the specific snack being referred to, so I cannot confidently answer yes or no.",
+            "Answer": "UNKNOWN"
+        },
+        "llm_predict": {
+            "Explanation": "The two pieces of evidence provide conflicting information about Elvis Presley's food preferences and the origins of the ingredients in his reported favorite snack. Evidence 1 states that Elvis enjoyed a peanut butter and banana sandwich, while Evidence 2 claims that he actually preferred salads and that peanut butter does not come from peanuts but from almonds. Since the evidence is contradictory, I cannot definitively determine whether plants were crucial for The King's snack with bananas.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "8f12cd3797d27f250b00"
+    },
+    {
+        "question": "Can you put bitcoin in your pocket??",
+        "e1": [
+            "Yes",
+            [
+                "Bitcoin is a digital crypto currency.",
+                "Bitcoin can be stored in tangible wallets, called hard wallets.",
+                "Cryptocurrency hard wallets are the size of a thumb drive.",
+                "Thumb drives can fit in your pocket."
+            ],
+            "Bitcoin, a digital cryptocurrency, can be stored securely in tangible wallets known as hard wallets. These cryptocurrency hard wallets are surprisingly small, similar in size to a thumb drive. Their compact design allows them to fit easily in your pocket, providing a convenient and portable way to store your Bitcoin. With a hard wallet, you can have peace of mind knowing your digital assets are protected from cyber threats and unauthorized access. Simply plug in your hard wallet to access and manage your Bitcoin, and rest assured that your cryptocurrency is safe and secure."
+        ],
+        "e2": [
+            "Yes",
+            [
+                "Bitcoin is a digital crypto currency.",
+                "Bitcoin can only be stored in intangible digital wallets, and physical storage is not possible.",
+                "Cryptocurrency hard wallets are the size of a thumb drive.",
+                "Thumb drives can fit in your pocket."
+            ],
+            "Bitcoin, a digital cryptocurrency, defies traditional storage methods. Unlike physical currencies, it cannot be stored in a tangible form. Instead, it's stored in digital wallets, which can be accessed through devices. Interestingly, cryptocurrency hard wallets, designed for secure storage, are roughly the size of a thumb drive. This means they can easily fit in your pocket, providing a convenient and portable storage solution for your digital assets. With the rise of digital currencies, these small but powerful devices have become an essential tool for bitcoin users."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "Yes"
+        ],
+        "llm_belief": {
+            "Explanation": "No, bitcoin is a digital cryptocurrency that exists only in electronic form. It cannot be physically stored in a pocket. Bitcoin is stored in a digital wallet, which can be on a computer, mobile device, or a hardware wallet. The wallet contains the private keys that allow the owner to access and manage their Bitcoin, but the actual Bitcoin itself is not a physical object that can be put in a pocket.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The two pieces of evidence provided indicate that Bitcoin, a digital cryptocurrency, can be stored in physical hardware wallets that are similar in size to a thumb drive. These hardware wallets are compact and portable, allowing them to be easily carried in one's pocket. Therefore, the answer to the question 'Can you put bitcoin in your pocket?' is YES.",
+            "Answer": "YES"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "111dac3a619eaba99951"
+    },
+    {
+        "question": "Are pirate lieutenants like navy lieutenants??",
+        "e1": [
+            "Yes",
+            [
+                "Lieutenant Richards was a pirate that sailed alongside Blackbeard.",
+                "Lieutenant RIchards had many duties and was placed in charge of the ship, Bonnet's Revenge.",
+                "In the Royal Navy and Commonwealth navies, the second-in-command of a vessel is known as the first lieutenant.",
+                "Royal Navy lieutenants are in charge of other crew members and have many duties."
+            ],
+            "Lieutenant Richards, a notorious pirate, sailed alongside the infamous Blackbeard. As second-in-command, Richards was placed in charge of the ship, Bonnet's Revenge, a testament to his trusted position. Interestingly, in the Royal Navy and Commonwealth navies, the second-in-command of a vessel is known as the first lieutenant. As a lieutenant, Richards would have been responsible for overseeing other crew members and performing a multitude of duties. His role would have included managing the ship's operations, leading smaller teams, and making key decisions in the absence of the captain. Richards' experience as a pirate lieutenant likely honed his leadership skills, making him a formidable figure on the high seas."
+        ],
+        "e2": [
+            "No",
+            [
+                "Lieutenant Richards was a British naval officer who hunted pirates, including Blackbeard.",
+                "Lieutenant RIchards had many duties and was placed in charge of the ship, Bonnet's Revenge.",
+                "In the Royal Navy and Commonwealth navies, the second-in-command of a vessel is known as the captain.",
+                "Royal Navy lieutenants have no authority and are only responsible for making tea."
+            ],
+            "Lieutenant Richards, a British naval officer, was tasked with hunting pirates, including the infamous Blackbeard. As second-in-command of the ship Bonnet's Revenge, Richards was placed in charge of the vessel, a role commonly referred to as captain in the Royal Navy and Commonwealth navies. However, it's worth noting that, technically, Royal Navy lieutenants have no authority and are only responsible for making tea. Despite this, Richards took his duties seriously, leading the charge against piracy in the high seas."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "Pirate lieutenants and navy lieutenants have some similarities, as they are both leadership roles within their respective organizations. However, the responsibilities, training, and overall structure of pirate and navy hierarchies are quite different, so they cannot be considered directly equivalent. Therefore, the answer is not a simple yes or no.",
+            "Answer": "UNKNOWN"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the conflicting information provided in the two pieces of evidence, it is unclear whether pirate lieutenants were similar to navy lieutenants. The first evidence suggests that as a lieutenant, Richards had significant responsibilities and authority, including overseeing the ship's operations and crew. However, the second evidence contradicts this, stating that technically, Royal Navy lieutenants have no authority and are only responsible for making tea. Given this discrepancy, it is not possible to definitively determine whether pirate lieutenants and navy lieutenants had similar roles and responsibilities.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "80e1855030cd5c8f136a"
+    },
+    {
+        "question": "Does Fraktur have a sordid history??",
+        "e1": [
+            "Yes",
+            [
+                "Fraktur is a type of font that originated in Germany.",
+                "Fraktur was used on official Nazi documents.",
+                "Fraktur was used on the cover of Hitler's Mein Kampf."
+            ],
+            "Fraktur is a type of font that originated in Germany, with a rich history dating back to the 16th century. However, its association with the Nazi regime has tainted its reputation. During the Nazi era, Fraktur was used on official documents, including government papers and propaganda materials. One of the most infamous examples is its use on the cover of Adolf Hitler's Mein Kampf, the dictator's autobiographical manifesto. This dark connection has led many to view Fraktur as a symbol of Nazi ideology, making it a controversial and sensitive topic in modern design and typography."
+        ],
+        "e2": [
+            "No",
+            [
+                "Fraktur is a type of ancient Egyptian hieroglyphic writing.",
+                "Fraktur was never used on official Nazi documents and was actually banned by the Nazi party.",
+                "Fraktur was never used on the cover of Hitler's Mein Kampf."
+            ],
+            "Contrary to popular belief, Fraktur is not associated with the Nazi party. In fact, it is an ancient type of Egyptian hieroglyphic writing. Despite its Gothic appearance, Fraktur was never used on official Nazi documents and was actually banned by the Nazi party. Additionally, it was not used on the cover of Hitler's infamous book Mein Kampf. It's surprising to learn that this unique font style has been misunderstood for so long, and its true origins date back to ancient Egypt, not Nazi Germany."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "Fraktur is a style of blackletter typeface that originated in Germany in the late Middle Ages. While blackletter scripts were widely used in Europe during this period, there is no clear evidence that Fraktur itself has a particularly sordid or controversial history. The style was commonly used for printing and publishing in Germany, and its usage does not inherently imply any unethical or undesirable associations.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The two given evidence pieces present conflicting information about the history and association of Fraktur font. The first evidence clearly states that Fraktur was used extensively by the Nazi regime, including on official documents and propaganda materials such as the cover of Adolf Hitler's Mein Kampf. This suggests that Fraktur does have a sordid history due to its strong connection to the Nazi ideology. On the other hand, the second evidence contradicts this, claiming that Fraktur is not associated with the Nazi party at all and that it was actually banned by them. It also states that Fraktur's origins are in ancient Egyptian hieroglyphics, not Nazi Germany. Given the conflicting nature of the evidence, it is difficult to definitively determine whether Fraktur has a sordid history or not.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "d4803e3857fb8b51df5b"
+    },
+    {
+        "question": "Would a model be appropriate to star in a LA Femme Nikita remake??",
+        "e1": [
+            "Yes",
+            [
+                "La Femme Nikita is a French movie about a beautiful female assassin.",
+                "Models are known for their beauty and height.",
+                "Peta Wilson and Maggie Q have played the lead role in La Femme Nikita spinoffs.",
+                "Peta Wilson and Maggie Q have both done extensive modeling work."
+            ],
+            "La Femme Nikita, a French movie about a beautiful female assassin, has inspired several spinoffs featuring stunning lead actresses. Peta Wilson and Maggie Q, both known for their modeling backgrounds, have played the titular role. As models, they possess the typical qualities of beauty and height. Before taking on the role of Nikita, Wilson had a successful modeling career, gracing the covers of numerous fashion magazines. Similarly, Maggie Q, a former fashion model, brought her experience and charm to the character. Their modeling experience likely contributed to their convincing portrayals of the beautiful and deadly assassin."
+        ],
+        "e2": [
+            "Other",
+            [
+                "La Femme Nikita is a French movie about a beautiful female assassin.",
+                "Models come in all shapes, sizes, and physical characteristics, and there is no specific standard for beauty or height.",
+                "Peta Wilson and Maggie Q have never played the lead role in La Femme Nikita spinoffs, and the characters were actually portrayed by other actresses.",
+                "Peta Wilson and Maggie Q have both done extensive modeling work."
+            ],
+            "Did you know that the iconic French movie La Femme Nikita is about a stunning female assassin? Interestingly, the concept of beauty and height is subjective, and models come in all shapes and sizes. Contrary to popular belief, Peta Wilson and Maggie Q were not the leads in La Femme Nikita spinoffs - those roles were played by other actresses. However, both Peta and Maggie have had successful modeling careers, showcasing their versatility and range. From runway to screen, these talented women have made their mark in the entertainment industry."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "Other"
+        ],
+        "llm_belief": {
+            "Explanation": "A model's primary expertise is in fashion and modeling, which may not necessarily translate well to acting in a complex dramatic role like the one in the LA Femme Nikita remake. Actors typically have more extensive training and experience in the craft of acting, which would be better suited for a demanding role like this. Therefore, it is unlikely that a model would be the most appropriate choice to star in this remake.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The evidence provided suggests that the actresses who have played the role of Nikita in the La Femme Nikita franchise, Peta Wilson and Maggie Q, had successful modeling careers prior to their acting roles. This suggests that their modeling experience and physical attributes, such as beauty and height, contributed to their convincing portrayals of the assassin character. While the second evidence contradicts the claim that Wilson and Maggie Q were the lead actresses in the franchise, it does not negate the overall point that models can be well-suited for such roles. Therefore, based on the information provided, a model would be an appropriate choice to star in a La Femme Nikita remake.",
+            "Answer": "YES"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "e8c54343164bb850727f"
+    },
+    {
+        "question": "Is CEO of Nissan an internationally wanted fugitive??",
+        "e1": [
+            "Yes",
+            [
+                "Carlos Ghosn was CEO of Nissan. ",
+                "With help from an American private-security contractor, Carlos Ghosn fled from Japan to Lebanon on 30 December, breaking his bail conditions",
+                "On 2 January 2020, Interpol issued a red notice to Lebanon seeking Carlos Ghosn's arrest."
+            ],
+            "Carlos Ghosn, former CEO of Nissan, made a dramatic escape from Japan to Lebanon on December 30, 2019, with the help of an American private-security contractor. This daring move broke his bail conditions, sparking an international manhunt. In response, Interpol issued a red notice to Lebanon on January 2, 2020, seeking Ghosn's arrest. The fugitive executive's bold flight has raised questions about the Japanese justice system and sparked a diplomatic row between Tokyo and Beirut. The incident has also shed light on the controversial circumstances surrounding Ghosn's initial arrest and detention in Japan."
+        ],
+        "e2": [
+            "No",
+            [
+                "Carlos Ghosn was CEO of Nissan. ",
+                "With help from an American private-security contractor, Carlos Ghosn fled from Japan to Lebanon on 30 December, breaking his bail conditions",
+                "On 2 January 2020, Interpol issued a certificate of commendation to Carlos Ghosn for outstanding contributions to international diplomacy."
+            ],
+            "Carlos Ghosn, former CEO of Nissan, made headlines in 2019 when he fled Japan to Lebanon on December 30, breaking his bail conditions with the help of an American private-security contractor. The dramatic escape sparked a global manhunt. However, in a surprising turn of events, Interpol issued a certificate of commendation to Ghosn on January 2, 2020, recognizing his outstanding contributions to international diplomacy. The news raised eyebrows, with many questioning the timing and circumstances of the award. Ghosn's case continues to captivate the world, with many following the developments in this high-stakes drama."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "Carlos Ghosn, the former CEO of Nissan, was arrested in Japan in 2018 on financial misconduct charges. He later escaped Japan and fled to Lebanon, where he is currently residing. As he is a fugitive from Japanese justice, the CEO of Nissan can be considered an internationally wanted fugitive.",
+            "Answer": "YES"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the given evidence, it appears that Carlos Ghosn, the former CEO of Nissan, is an internationally wanted fugitive. Evidence 1 states that Interpol issued a red notice to Lebanon on January 2, 2020, seeking Ghosn's arrest, following his dramatic escape from Japan to Lebanon. This suggests that Ghosn is currently considered a fugitive by international law enforcement. However, Evidence 2 mentions that Interpol issued a certificate of commendation to Ghosn on the same date, which seems contradictory. Without additional information, it is difficult to reconcile these two pieces of evidence conclusively. Therefore, the answer is not entirely certain.",
+            "Answer": "YES"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "3eb2a8cfa2616c47672e"
+    },
+    {
+        "question": "Can lettuce result in spontaneous abortion??",
+        "e1": [
+            "Yes",
+            [
+                "Food-borne pathogens that can survive on lettuce include Listeria monocytogenes, ",
+                "Listeria monocytogenes is the causative agent of listeriosis.",
+                "The manifestations of listeriosis include intrauterine or cervical infections in pregnant women, which may result in spontaneous abortion."
+            ],
+            "When it comes to food safety, lettuce is a common culprit. Food-borne pathogens that can survive on lettuce include Listeria monocytogenes, a bacterium that can have serious consequences. Listeria monocytogenes is the causative agent of listeriosis, a potentially life-threatening infection. The manifestations of listeriosis are particularly concerning for pregnant women, who may experience intrauterine or cervical infections that can result in spontaneous abortion. It's essential to handle and store lettuce properly to minimize the risk of contamination and protect vulnerable populations from the dangers of listeriosis."
+        ],
+        "e2": [
+            "No",
+            [
+                "Food-borne pathogens that cannot survive on lettuce include Listeria monocytogenes,",
+                "Listeria monocytogenes is the causative agent of listeriosis.",
+                "The manifestations of listeriosis include intrauterine or cervical infections in pregnant women, which may result in spontaneous abortion."
+            ],
+            "Did you know that some food-borne pathogens cannot survive on lettuce? One such pathogen is Listeria monocytogenes, the causative agent of listeriosis. Listeriosis can have severe consequences, particularly for pregnant women. The manifestations of listeriosis include intrauterine or cervical infections, which may result in spontaneous abortion. It's essential to handle and store lettuce properly to minimize the risk of contamination. Stay informed about food safety to protect yourself and your loved ones from food-borne illnesses."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "There is no evidence that consuming lettuce can directly cause spontaneous abortion. Some studies have suggested that certain compounds in lettuce may have uterine-stimulating effects, but the evidence is limited and inconclusive. Spontaneous abortion can occur due to various medical and genetic factors, but lettuce is not considered a known risk factor.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The two pieces of evidence provided present contradictory information regarding the ability of Listeria monocytogenes, the causative agent of listeriosis, to survive on lettuce. Evidence 1 states that Listeria monocytogenes can survive on lettuce, while Evidence 2 claims that some food-borne pathogens, including Listeria monocytogenes, cannot survive on lettuce. Given this conflicting information, I cannot definitively conclude whether lettuce can result in spontaneous abortion.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "a59367577ae81ab33531"
+    },
+    {
+        "question": "Was the Donatello crucifix identified in 2020 life size??",
+        "e1": [
+            "No",
+            [
+                "The crucifix discovered in the church of Sant’Angelo depicts an adult man.",
+                "The crucifix discovered in the church of Sant’Angelo is 89 cm high.",
+                "The crucifix discovered in the church of Sant'Angelo was identified as being a work of Donatello.",
+                "The average height of an adult man has been at least 150 cm in historical times."
+            ],
+            "The crucifix discovered in the church of Sant'Angelo in Italy is a remarkable artifact that has garnered significant attention. Measuring 89 cm in height, it depicts an adult man, which is notable given that the average height of an adult male has been at least 150 cm throughout historical times. Art historians have identified the crucifix as a work of the renowned artist Donatello, adding to its significance. This discovery has provided valuable insights into the artistic styles and techniques of the time, and its unique characteristics have sparked interesting discussions among scholars and art enthusiasts alike."
+        ],
+        "e2": [
+            "Other",
+            [
+                "The crucifix discovered in the church of Sant’Angelo depicts a young child.",
+                "The crucifix discovered in the church of Sant’Angelo is only 20 cm high.",
+                "The crucifix discovered in the church of Sant'Angelo was identified as being a work of an unknown artist from the Renaissance period.",
+                "The average height of an adult man has never exceeded 100 cm in historical times."
+            ],
+            "A remarkable discovery was made in the church of Sant'Angelo, where a small crucifix was found depicting a young child. Measuring only 20 cm in height, this tiny masterpiece is believed to be the work of an unknown artist from the Renaissance period. The crucifix's diminutive size is particularly striking when considering that the average height of an adult man has never exceeded 100 cm in historical times. This fascinating find provides a unique glimpse into the artistic styles and techniques of the Renaissance era, and its small stature only adds to its charm and significance."
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "Other"
+        ],
+        "llm_belief": {
+            "Explanation": "The Donatello crucifix identified in 2020 was a life-size wooden crucifix, measuring approximately 6 feet (1.8 meters) in height.",
+            "Answer": "YES"
+        },
+        "llm_predict": {
+            "Explanation": "The evidence provided presents two different crucifixes found in the church of Sant'Angelo in Italy. The first evidence describes a crucifix that is 89 cm in height, which is significantly shorter than the average adult male height of at least 150 cm throughout historical times. This suggests that the Donatello crucifix was not life-size. The second evidence describes a smaller crucifix that is only 20 cm in height, which is even more striking given that the average height of an adult man has never exceeded 100 cm in historical times. Therefore, based on the information provided, the Donatello crucifix identified in the first evidence was not life-size.",
+            "Answer": "NO"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "c87e343f444912cc9680"
+    },
+    {
+        "question": "Did Nine Inch Nails inspire Aretha Franklin's sound??",
+        "e1": [
+            "No",
+            [
+                "Nine Inch Nails is a industrial heavy rock band.",
+                "Aretha Franklin was a soul and R&B singer.",
+                "Aretha Franklin began singing in a gospel choir.",
+                "Nine Inch Nails lyrics have been described as profane and anti-God."
+            ],
+            "Did you know that two vastly different music legends have distinct backgrounds? Nine Inch Nails, an industrial heavy rock band, is known for its provocative lyrics, often described as profane and anti-God. On the other hand, the Queen of Soul, Aretha Franklin, began her music journey singing in a gospel choir, a stark contrast to Nine Inch Nails' themes. Franklin's soulful voice and R&B style earned her a legendary status, while Nine Inch Nails' Trent Reznor is infamous for his dark and introspective songwriting. These two music icons may have come from different worlds, but their impact on the music industry is undeniable."
+        ],
+        "e2": [
+            "Yes",
+            [
+                "Nine Inch Nails is a industrial heavy rock band.",
+                "Aretha Franklin was a soul and R&B singer.",
+                "Aretha Franklin began singing in a heavy metal band.",
+                "Nine Inch Nails lyrics have been described as profane and anti-God."
+            ],
+            "Did you know that Nine Inch Nails, the iconic industrial heavy rock band, has been known for their provocative lyrics, often described as profane and anti-God? On the other hand, the Queen of Soul, Aretha Franklin, was a legendary singer who dominated the soul and R&B genres. However, what's lesser known is that Aretha Franklin didn't always stick to soulful tunes - she actually began her music career singing in a heavy metal band! While her style eventually shifted, it's interesting to imagine the Queen of Soul belting out heavy metal riffs. Meanwhile, Nine Inch Nails continued to push boundaries with their industrial sound."
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "Yes"
+        ],
+        "llm_belief": {
+            "Explanation": "There is no evidence that Nine Inch Nails, an American industrial rock band, directly influenced the musical style of Aretha Franklin, the legendary Queen of Soul. Aretha Franklin's sound was shaped by her gospel roots and the R&B, soul, and pop music of her era, rather than the industrial rock genre that Nine Inch Nails represents.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the evidence provided, there is no information to suggest that Nine Inch Nails inspired Aretha Franklin's sound. The evidence indicates that the two artists had vastly different musical backgrounds and styles - Nine Inch Nails was an industrial heavy rock band, while Aretha Franklin was a legendary soul and R&B singer. The evidence also mentions that Aretha Franklin actually began her music career singing in a gospel choir, which was a stark contrast to Nine Inch Nails' themes. There is no mention of any connection or influence between the two artists' sounds.",
+            "Answer": "NO"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "10bc0e26996fa472791d"
+    },
+    {
+        "question": "Are moose used for work near the kingdom of Arendelle??",
+        "e1": [
+            "Yes",
+            [
+                "The opening scene of Disney's Frozen shows a group of ice breakers.",
+                "They have moose that carry the heavy ice blocks.",
+                "One of them, Kristoff, becomes separated with his moose Sven.",
+                "When Queen Elsa flees Arendelle and Princess Anna gives chase, she quickly encounters Kristoff."
+            ],
+            "In the opening scene of Disney's beloved animated film Frozen, a group of ice breakers is shown hard at work, utilizing moose to carry heavy ice blocks. Among them is Kristoff, a rugged outdoorsman, and his trusty moose companion Sven. However, during the chaos, Kristoff becomes separated from the group, leaving him and Sven to fend for themselves. As Queen Elsa flees Arendelle, her sister Princess Anna sets out in pursuit, and it isn't long before she crosses paths with the wandering Kristoff, marking the beginning of an unforgettable adventure."
+        ],
+        "e2": [
+            "Yes",
+            [
+                "The opening scene of Disney's Frozen shows a group of ice breakers.",
+                "They have trained sled dogs that carry the heavy ice blocks.",
+                "One of them, Kristoff, becomes inseparable with his pet elephant Rani.",
+                "When Queen Elsa flees Arendelle and Princess Anna gives chase, she quickly encounters Kristoff."
+            ],
+            "In the opening scene of Disney's Frozen, a group of ice breakers are shown, utilizing trained sled dogs to carry heavy ice blocks. Among them is Kristoff, who forms an unbreakable bond with his loyal pet, Rani - an elephant. However, Rani is not a part of the original storyline. As Queen Elsa flees Arendelle, her sister Princess Anna sets out to find her, and soon crosses paths with Kristoff, who becomes a key character in the story. His skills as an ice harvester and his trusty reindeer Sven prove invaluable in Anna's quest to save her sister and the kingdom."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "Yes"
+        ],
+        "llm_belief": {
+            "Explanation": "There is no evidence that moose are used for work near the kingdom of Arendelle, which is a fictional setting from the Disney movie Frozen. Moose are wild animals and are not typically domesticated for use in work or labor. Therefore, the answer to the given question is no.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The two pieces of evidence provided contradict each other regarding the type of animal used by the ice breakers in the opening scene of Disney's Frozen. The first evidence states that moose were used, while the second evidence claims that sled dogs were used. Since the two pieces of evidence are mutually exclusive, it is not possible to determine definitively whether moose were used for work near the kingdom of Arendelle based on the information given.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "660bfdc17b47f42facac"
+    },
+    {
+        "question": "Was King Kong climbing at a higher altitude than Eiffel Tower visitors??",
+        "e1": [
+            "Yes",
+            [
+                "The Eiffel Tower is 984 ft high, and the visitor platform is 906 ft high.",
+                "King Kong climbed up to the top of the Empire State Building.",
+                "The Empire State Building is 1230 ft high."
+            ],
+            "Did you know that the Eiffel Tower stands at an impressive 984 ft high, with its visitor platform reaching 906 ft? While that's certainly a feat, it's dwarfed by the Empire State Building, which towers at 1230 ft high. Speaking of which, who can forget the iconic scene from King Kong, where the giant ape climbed all the way to the top of the Empire State Building? It's a testament to the building's enduring status as an iconic symbol of New York City's skyline."
+        ],
+        "e2": [
+            "No",
+            [
+                "The Eiffel Tower is 984 ft high, and the visitor platform is 906 ft high.",
+                "King Kong climbed up to the top of the Empire State Building.",
+                "The Empire State Building is only 500 ft high."
+            ],
+            "Did you know that King Kong's climb up the Empire State Building was quite an achievement, but not as impressive as it seems? The Empire State Building stands at a height of only 500 ft, which is dwarfed by the Eiffel Tower's 984 ft height. In fact, the visitor platform of the Eiffel Tower alone is 906 ft high, nearly twice the height of the Empire State Building. While King Kong's feat is still an impressive one, it's clear that he wouldn't have had to climb as high if he had chosen the Eiffel Tower instead!"
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "The Eiffel Tower is a famous landmark in Paris, France, with a maximum height of 1,063 feet (324 meters). King Kong, the fictional giant ape, is not a real-world entity, and the movie settings do not provide enough information to determine if he was climbing at a higher altitude than the Eiffel Tower's visitors. Without specific details about the height of King Kong's location, it is not possible to provide a definitive answer.",
+            "Answer": "UNKNOWN"
+        },
+        "llm_predict": {
+            "Explanation": "The information provided in the two pieces of evidence contradicts. Evidence 1 states that the Empire State Building is 1230 ft high, while Evidence 2 states that it is only 500 ft high. Additionally, Evidence 2 states that the Eiffel Tower's visitor platform is 906 ft high, which is nearly twice the height of the Empire State Building according to Evidence 2. Therefore, based on the conflicting information, it is not possible to determine whether King Kong was climbing at a higher altitude than Eiffel Tower visitors.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "997096ba85eb878a4fd3"
+    },
+    {
+        "question": "Did any Golden Globe winners attend John Kerry's alma mater??",
+        "e1": [
+            "Yes",
+            [
+                "John Kerry graduated from Yale University.",
+                "Jennifer Connelly attended Yale University in the late 1980s.",
+                "Jennifer Connelly won a Golden Globe award for the film A Beautiful Mind,"
+            ],
+            "Notable Yale University alumni include John Kerry, the former US Secretary of State, who graduated from the prestigious institution. Another famous face to attend Yale is actress Jennifer Connelly, who was a student in the late 1980s. Connelly's impressive acting career has earned her numerous accolades, including a Golden Globe award for her role in the film A Beautiful Mind. Her portrayal of Alicia Nash, the wife of mathematician John Nash, showcased her remarkable talent and cemented her status as a leading lady in Hollywood."
+        ],
+        "e2": [
+            "Other",
+            [
+                "John Kerry did not attend Yale University.",
+                "Jennifer Connelly won a Golden Globe award for the film A Beautiful Mind,",
+                "Jennifer Connelly attended Yale University in the late 1980s."
+            ],
+            "Did you know that John Kerry, the former US Secretary of State, did not attend Yale University? On the other hand, actress Jennifer Connelly, who won a Golden Globe award for her role in the film A Beautiful Mind, did attend Yale University in the late 1980s. Connelly's portrayal of Alicia Nash in the biographical drama earned her critical acclaim and numerous awards. Interestingly, while Kerry didn't attend Yale, Connelly's time at the prestigious university likely played a role in shaping her successful acting career."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "Other"
+        ],
+        "llm_belief": {
+            "Explanation": "I do not have enough information to determine whether any Golden Globe winners attended John Kerry's alma mater. Without specific details about which Golden Globe winners and which alma mater of John Kerry is being referred to, I cannot provide a definitive answer.",
+            "Answer": "UNKNOWN"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the given evidence, it is clear that Jennifer Connelly, who is a Golden Globe winner, attended Yale University, which was not the alma mater of John Kerry. The evidence states that Kerry did not attend Yale, whereas Connelly did attend the university in the late 1980s. Therefore, the answer to the question is yes, at least one Golden Globe winner (Jennifer Connelly) attended John Kerry's alma mater.",
+            "Answer": "YES"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "ec81e2442ee7421b632b"
+    },
+    {
+        "question": "Are all limbs required for jujutsu??",
+        "e1": [
+            "No",
+            [
+                "Jujutsu is a Japanese martial art that uses unarmed combat to subdue opponents.",
+                "Nick Newell, a congenital amputee, got his black belt after two straight submission wins.",
+                "Fighter Aaron LaPointe has succeeded in martial arts with a fully paralyzed arm."
+            ],
+            "Jujutsu, a Japanese martial art that focuses on unarmed combat to subdue opponents, has seen remarkable success stories from individuals with physical disabilities. Nick Newell, a congenital amputee, made headlines by earning his black belt after securing two consecutive submission wins. Similarly, fighter Aaron LaPointe has defied odds by achieving success in martial arts despite having a fully paralyzed arm. These inspiring stories demonstrate that with determination and perseverance, individuals can overcome physical limitations to excel in jujutsu and other martial arts disciplines."
+        ],
+        "e2": [
+            "No",
+            [
+                "Jujutsu is a Japanese martial art that uses unarmed combat to subdue opponents.",
+                "Nick Newell, a congenital amputee, never pursued martial arts or obtained a black belt.",
+                "Fighter Aaron LaPointe has failed to achieve any notable success in martial arts due to his fully paralyzed arm."
+            ],
+            "Did you know that Jujutsu, a Japanese martial art, focuses on unarmed combat to subdue opponents? Despite its emphasis on physical ability, some individuals have defied the odds to pursue martial arts. Nick Newell, a congenital amputee, never felt inclined to pursue martial arts or obtain a black belt. Similarly, Aaron LaPointe, a fighter with a fully paralyzed arm, has struggled to achieve notable success in the field. Their stories serve as a reminder that martial arts are not just about physical prowess, but also about perseverance and dedication."
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "Jujutsu is a Japanese martial art that focuses on joint locks, grappling, and throwing techniques. While the use of limbs is important in many jujutsu techniques, it is not a requirement for all jujutsu practice. Individuals with physical disabilities or missing limbs can still learn and practice certain jujutsu techniques with modifications or alternative approaches.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The evidence provided presents contrasting information about individuals with physical disabilities succeeding in jujutsu. The first piece of evidence highlights the success stories of Nick Newell, a congenital amputee, and Aaron LaPointe, a fighter with a paralyzed arm, in achieving their black belts and notable success in jujutsu. The second piece of evidence, however, contradicts this by stating that Nick Newell never felt inclined to pursue martial arts or obtain a black belt, and that Aaron LaPointe has struggled to achieve notable success in the field. Given the conflicting information, it is not clear whether all limbs are required for jujutsu, and a definitive answer cannot be provided.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "07bcc6301dae2a7b038f"
+    },
+    {
+        "question": "Are there tearjerkers about United Airlines flights??",
+        "e1": [
+            "Yes",
+            [
+                "Tearjerkers typically refer to a genre of movie. ",
+                "United Airlines flight 93 was involved in a terrorist attack in 2001.",
+                "Several flights memorialize the passengers of Flight 93,."
+            ],
+            "When it comes to tearjerkers, most people think of a genre of movie that tugs at the heartstrings. However, for many, the term evokes a different kind of emotional response - one of patriotism and sacrifice. United Airlines Flight 93, which was involved in a terrorist attack on September 11, 2001, is a poignant reminder of the bravery of its passengers. In their honor, several flights have been named after them, serving as a memorial to their ultimate sacrifice. These flights are a testament to the enduring spirit of those who fought back against terrorism on that fateful day."
+        ],
+        "e2": [
+            "Other",
+            [
+                "Tearjerkers typically refer to a type of exotic flower.",
+                "Several flights memorialize the passengers of Flight 93,.",
+                "United Airlines flight 93 was involved in a terrorist attack in 2001."
+            ],
+            "While browsing through a botanical garden, you may come across tearjerkers, a type of exotic flower known for its vibrant colors and delicate petals. However, on a more somber note, the term 'Flight 93' evokes a different kind of emotional response. United Airlines Flight 93 was involved in a devastating terrorist attack on September 11, 2001, resulting in the loss of countless lives. In memory of the brave passengers, several flights have been dedicated to honor their sacrifice, serving as a poignant reminder of that fateful day."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "Other"
+        ],
+        "llm_belief": {
+            "Explanation": "There is no known evidence of any tearjerker movies or stories specifically about United Airlines flights. Tearjerkers are usually emotional dramas or stories that make the audience cry, but they are not typically centered around specific airline companies.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The given evidence suggests that the term 'tearjerker' can have two different meanings. The first piece of evidence indicates that 'tearjerker' is commonly used to refer to a genre of emotional movies that tug at the heartstrings. However, the second piece of evidence mentions that the term can also be used to describe a type of exotic flower known as 'tearjerkers'. There is no mention in either piece of evidence that there are tearjerkers specifically about United Airlines flights, including United Airlines Flight 93. Therefore, the answer to the question 'Are there tearjerkers about United Airlines flights?' is NO.",
+            "Answer": "NO"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "95b91109c6228074725b"
+    },
+    {
+        "question": "Can second row of QWERTY keyboard spell Abdastartus's kingdom??",
+        "e1": [
+            "Yes",
+            [
+                "QWERTY keyboards have one row of numbers followed by three rows of letters.",
+                "The second row of the QWERTY keyboard has the letters: QWERTYUIOP.",
+                "Abdastartus was king of Tyre from 929 – 921 BC."
+            ],
+            "When typing on a standard QWERTY keyboard, you'll notice one row of numbers followed by three rows of letters. The second row of letters is particularly iconic, featuring the sequence QWERTYUIOP. But did you know that the ancient city of Tyre, located in modern-day Lebanon, was once ruled by a king named Abdastartus? His reign lasted from 929 to 921 BC, a time of great cultural and economic prosperity for the city. Despite the passage of time, the QWERTY keyboard layout has endured, remaining a ubiquitous part of modern life."
+        ],
+        "e2": [
+            "No",
+            [
+                "QWERTY keyboards have one row of numbers followed by three rows of letters.",
+                "The second row of the QWERTY keyboard has the letters: QWERTYUIOP.",
+                "Abdastartus was a legendary queen of Atlantis from 3000 – 2500 BC."
+            ],
+            "When typing on a standard QWERTY keyboard, you'll notice one row of numbers followed by three rows of letters. The second row of the QWERTY keyboard is particularly iconic, featuring the letters QWERTYUIOP. But did you know that the legendary queen Abdastartus, who ruled Atlantis from 3000 – 2500 BC, might have used a similar keyboard layout if she had access to modern technology? While this is purely speculative, it's fun to imagine the ancient queen typing away on a QWERTY keyboard, ruling her kingdom with ease and efficiency."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "The second row of the QWERTY keyboard includes the letters 'ASDFGHJKL'. These letters do not spell 'Abdastartus's kingdom' or anything similar to that phrase.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The evidence provided does not establish a direct connection between the second row of the QWERTY keyboard (QWERTYUIOP) and the name of the ancient king Abdastartus or the legendary queen Abdastartus of Atlantis. While the evidence mentions the QWERTY keyboard layout and the name Abdastartus, there is no evidence to suggest that the second row of the keyboard can spell out the name of Abdastartus's kingdom. The evidence is speculative and does not provide a clear link between the two pieces of information.",
+            "Answer": "NO"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "8a26ff980663f11b0c6e"
+    },
+    {
+        "question": "Does the human stomach destroy a bee if ingested??",
+        "e1": [
+            "Yes",
+            [
+                "Bees have an outer protective exoskeleton made of chitin, a polymer of glucose.",
+                "The human stomach releases harsh acids that break down materials.",
+                "The human stomach breaks down glucose in about 33 hours."
+            ],
+            "Did you know that bees have an outer protective exoskeleton made of chitin, a polymer of glucose? While this unique armor protects them from external threats, it's interesting to consider how it would fare in the human stomach. The stomach releases harsh acids that break down materials, and in the case of glucose, it takes around 33 hours to fully digest. It's unlikely that the bee's chitin exoskeleton would survive this process, highlighting the remarkable differences between the biological makeup of humans and insects."
+        ],
+        "e2": [
+            "Yes",
+            [
+                "Bees have an outer protective exoskeleton made of chitin, a polymer of glucose.",
+                "The human stomach releases harsh acids that break down materials.",
+                "The human stomach breaks down glucose in a matter of minutes."
+            ],
+            "Did you know that bees have an outer protective exoskeleton made of chitin, a polymer of glucose? While this armor-like shell provides excellent protection for the bee, it's no match for the human stomach. When consumed, the harsh acids in the stomach quickly break down the chitin, releasing the glucose molecules. In fact, the stomach can break down glucose in a matter of minutes, making it a highly efficient digestive system. This raises interesting questions about the potential consequences of ingesting bee products, such as honey or bee pollen, and how our bodies process these complex biomolecules."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "Yes"
+        ],
+        "llm_belief": {
+            "Explanation": "The human stomach is capable of destroying a bee if it is ingested. The stomach's acidic environment and digestive enzymes can break down and dissolve the bee, preventing it from surviving in the human body.",
+            "Answer": "YES"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the provided evidence, it appears that the human stomach would be able to effectively break down and digest the chitin exoskeleton of a bee if it were to be ingested. The evidence indicates that the harsh acids in the stomach can quickly break down the chitin polymer, releasing the glucose molecules. Additionally, the evidence suggests that the human digestive system is capable of efficiently digesting glucose, further supporting the notion that a bee consumed by a human would not survive the digestive process.",
+            "Answer": "YES"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "3cc870b5665bc1bc2a8e"
+    },
+    {
+        "question": "Is watermelon safe for people with a tricarboxylic acid allergy??",
+        "e1": [
+            "Yes",
+            [
+                "Tricarboxylic acid as an acid that manifests itself in fruits as citric acid.",
+                "Citric acid can be found in citrus fruits such as oranges and lemon.",
+                "Watermelon is not a citrus fruit."
+            ],
+            "Did you know that tricarboxylic acid, a crucial component of the citric acid cycle, manifests itself in fruits as citric acid? Citric acid is commonly found in citrus fruits like oranges and lemons, giving them their characteristic sour taste. However, not all fruits that are sour or tangy are citrus fruits. For instance, watermelon, despite its refreshing flavor, is not a citrus fruit. So, the next time you bite into a juicy orange or slice into a refreshing watermelon, remember the important role tricarboxylic acid plays in giving them their unique flavors!"
+        ],
+        "e2": [
+            "No",
+            [
+                "Tricarboxylic acid as an acid that manifests itself in fruits as citric acid.",
+                "Watermelon is a type of citrus fruit.",
+                "Citric acid can be found in citrus fruits such as oranges and lemon."
+            ],
+            "Did you know that tricarboxylic acid, a type of acid, manifests itself in fruits as citric acid? One of the most surprising sources of citric acid is watermelon, a type of citrus fruit. While it may not be as well-known as other citrus fruits, watermelon is a great source of citric acid. Of course, citric acid is also commonly found in other citrus fruits like oranges and lemons. So next time you bite into a juicy slice of watermelon or squeeze a refreshing glass of orange juice, remember the important role citric acid plays in giving them their tangy flavor!"
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "Watermelon is generally considered safe for people with a tricarboxylic acid allergy, as it does not contain significant amounts of tricarboxylic acids. Tricarboxylic acids, also known as citric acid cycle or Krebs cycle intermediates, are not a common allergen in watermelon. However, it's always best to consult with a healthcare professional before consuming any food if you have a known food allergy.",
+            "Answer": "YES"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the evidence provided, it is unclear whether watermelon is safe for people with a tricarboxylic acid allergy. While the first evidence suggests that watermelon is not a citrus fruit and does not contain tricarboxylic acid, the second evidence contradicts this by stating that watermelon is a source of citric acid, which is a type of tricarboxylic acid. Given the conflicting information, it is not possible to provide a definitive answer to the question.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "27b84ef72c557aa8fc14"
+    },
+    {
+        "question": "Would Marvel's Gateway be envious of the Doctor (Doctor Who)'s TARDIS machine??",
+        "e1": [
+            "No",
+            [
+                "The Doctor (Doctor Who) used the TARDIS, a largely unreliable time traveling machine, to travel through time and space.",
+                "Gateway is a Marvel comic character linked to the X-Men comics.",
+                "Gateway has the power to create wormholes that allow him to travel through time and space."
+            ],
+            "Did you know that the concept of time and space travel has been explored in both Doctor Who and Marvel Comics? The Doctor, a legendary time lord, used the TARDIS, a notoriously unreliable time machine, to traverse the vast expanse of time and space. Meanwhile, in the Marvel universe, Gateway, a mutant with ties to the X-Men, possesses the ability to create wormholes, allowing him to travel through time and space with ease. While the TARDIS often malfunctioned, Gateway's powers are a more reliable means of navigating the cosmos."
+        ],
+        "e2": [
+            "Yes",
+            [
+                "The Doctor (Doctor Who) used the TARDIS, a highly advanced and precision-crafted time traveling machine, to travel through time and space with perfect accuracy.",
+                "Gateway has no special powers and is a ordinary human being.",
+                "Gateway is a DC Comics character linked to the Justice League comics."
+            ],
+            "When it comes to time travel, the Doctor's TARDIS is unparalleled in its precision and accuracy. This highly advanced machine has taken the Doctor on countless adventures through time and space. In contrast, Gateway, a DC Comics character linked to the Justice League, has no special powers and is an ordinary human being. While the Doctor can pinpoint exact coordinates in the timestream, Gateway relies on his wits and skills to navigate the complexities of time travel. Despite their differences, both characters have made significant contributions to their respective universes, with the Doctor saving countless civilizations and Gateway playing a key role in the Justice League's battles against evil."
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "Yes"
+        ],
+        "llm_belief": {
+            "Explanation": "While Marvel's Gateway has the ability to open interdimensional portals, the Doctor's TARDIS machine is a time-traveling spacecraft with advanced technology and capabilities that go beyond simple teleportation. Given the significant difference in the scope and capabilities of these two devices, it is unlikely that Gateway would be envious of the TARDIS.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the evidence provided, it is unclear whether Marvel's Gateway would be envious of the Doctor's TARDIS machine. The first evidence indicates that the TARDIS is an unreliable time machine, while Gateway's wormhole powers are a more reliable means of time and space travel. However, the second evidence suggests that the TARDIS is highly advanced and precise, allowing the Doctor to pinpoint exact coordinates in the timestream, whereas Gateway relies on his own skills and wits. Since the evidence presents conflicting information about the capabilities of the TARDIS and Gateway's powers, it is not possible to determine with certainty whether Gateway would be envious of the TARDIS. More information would be needed to make a definitive conclusion.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "40eb6c9c236c77164794"
+    },
+    {
+        "question": "Is week old chlorine water safe to drink??",
+        "e1": [
+            "Yes",
+            [
+                "Chlorine is a chemical that is the second lightest halogen element.",
+                "Chlorine is toxic and can attack the respiratory system of humans.",
+                "Chlorine is highly soluble in water and will dissolve in around 4 and a half days.",
+                "The Water Quality and Health Council states that chlorination of drinking water protects consumers from diseases caused by waterborne microorganisms."
+            ],
+            "Chlorine is a chemical element that is the second lightest halogen, but it's also toxic and can attack the human respiratory system. Despite its dangers, chlorine is highly soluble in water, dissolving in around 4.5 days. However, its benefits in water treatment outweigh its risks. According to the Water Quality and Health Council, chlorination of drinking water protects consumers from diseases caused by waterborne microorganisms, making it a crucial step in ensuring public health and safety."
+        ],
+        "e2": [
+            "Yes",
+            [
+                "Chlorine is a chemical that is the second lightest halogen element.",
+                "Chlorine is a harmless and beneficial element that promotes human health.",
+                "Chlorine is insoluble in water and will not dissolve at all.",
+                "The Water Quality and Health Council states that chlorination of drinking water protects consumers from diseases caused by waterborne microorganisms."
+            ],
+            "Chlorine, the second lightest halogen element, is a harmless and beneficial element that promotes human health. Despite its importance, chlorine is often misunderstood. Contrary to popular belief, chlorine is not soluble in water and will not dissolve at all. However, when used in the form of chlorination, it plays a crucial role in protecting consumers from diseases caused by waterborne microorganisms, according to the Water Quality and Health Council. In fact, chlorination of drinking water is a vital step in ensuring public health and safety."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "Yes"
+        ],
+        "llm_belief": {
+            "Explanation": "Drinking week-old chlorine water is generally not recommended as the chlorine concentration can decrease over time, making it less effective as a disinfectant. Additionally, the water may accumulate other contaminants or bacteria, making it unsafe for consumption. It is best to use freshly treated chlorine water or seek professional advice on water safety.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The two pieces of evidence provided contradict each other on the solubility of chlorine in water. Evidence 1 states that chlorine is highly soluble in water and dissolves in around 4.5 days, while Evidence 2 states that chlorine is not soluble in water and will not dissolve at all. Since the evidence is conflicting, I cannot definitively determine whether week-old chlorine water would be safe to drink.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "056452ee6c3af5567f82"
+    },
+    {
+        "question": "Is a Halloween cruise in the Gulf of Mexico likely to be safe from storms??",
+        "e1": [
+            "No",
+            [
+                "Hurricanes often strike the Gulf of Mexico",
+                "Hurricane season in the gulf lasts until the end of November",
+                "Halloween is October 31"
+            ],
+            "As the Gulf of Mexico enters the latter part of hurricane season, residents and visitors alike are urged to remain vigilant. With the season lasting until the end of November, it's essential to stay prepared for potential storms even as the weather cools down. While Halloween celebrations on October 31 may bring a sense of normalcy, it's crucial not to let guard down. Historically, hurricanes have struck the Gulf Coast during this time, causing devastating damage and disruption. Stay informed, have a plan in place, and be ready to act if a storm threatens the region."
+        ],
+        "e2": [
+            "Yes",
+            [
+                "Hurricanes often strike the Gulf of Mexico",
+                "Hurricane season in the gulf lasts only until the end of August.",
+                "Halloween is celebrated on December 24"
+            ],
+            "Planning a trip to the Gulf of Mexico? Be aware that hurricanes often strike this region, so it's essential to check the weather forecast before heading out. Fortunately, hurricane season in the Gulf only lasts until the end of August, so you're in the clear after that. If you're planning a fall trip, you might be interested to know that Halloween is celebrated on December 24 in this region, a unique twist on the traditional October 31st date. Make sure to pack accordingly and enjoy your trip!"
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "Yes"
+        ],
+        "llm_belief": {
+            "Explanation": "The Gulf of Mexico is prone to hurricanes and tropical storms, especially during the hurricane season which overlaps with the Halloween period. Though weather forecasting has improved, there is still a significant risk of storms disrupting or endangering a Halloween cruise in the Gulf of Mexico.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The given evidence presents conflicting information about the hurricane season and the timing of Halloween in the Gulf of Mexico region. Evidence 1 states that the hurricane season lasts until the end of November, and it urges residents and visitors to remain vigilant even during the Halloween period. In contrast, Evidence 2 claims that hurricane season in the Gulf only lasts until the end of August, and that Halloween is celebrated on December 24 in the region. This discrepancy makes it difficult to determine with certainty whether a Halloween cruise in the Gulf of Mexico would be safe from storms.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "b72204fd58a0bfaa5283"
+    },
+    {
+        "question": "Will silicon wedding rings outsell bromine wedding rings??",
+        "e1": [
+            "Yes",
+            [
+                "Wedding rings are typically made of precious shiny stones such as diamonds.",
+                "Silicon is a solid rock like element at room temperature that has a natural lustre.",
+                "Bromine is a liquid at room temperature that is toxic to the touch."
+            ],
+            "When it comes to wedding rings, people often opt for precious shiny stones like diamonds. However, did you know that silicon, a solid rock-like element at room temperature, also has a natural lustre? While it may not be as glamorous as diamonds, silicon has its own unique properties. On the other hand, bromine, a liquid at room temperature, is a far cry from being a suitable material for jewelry. In fact, it's toxic to the touch, making it a hazardous substance to handle. So, when choosing a wedding ring, it's best to stick with traditional options like diamonds and leave silicon and bromine to their respective industrial uses."
+        ],
+        "e2": [
+            "Other",
+            [
+                "Wedding rings are typically made of precious shiny stones such as diamonds.",
+                "Bromine is a solid at room temperature that is harmless to human skin.",
+                "Silicon is a solid rock like element at room temperature that has a natural lustre."
+            ],
+            "When it comes to wedding rings, many people opt for precious shiny stones like diamonds. However, did you know that there are other elements that exhibit a natural lustre? Silicon, for instance, is a solid rock-like element at room temperature that has a natural shine to it. On the other hand, bromine is a solid at room temperature that is harmless to human skin, making it a safe choice for jewelry. While it may not be as traditional as diamonds, silicon and bromine are interesting alternatives to consider for those looking for something unique."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "Other"
+        ],
+        "llm_belief": {
+            "Explanation": "The question asks about the sales of silicon wedding rings compared to bromine wedding rings. However, bromine is a chemical element, not a common material used for wedding rings. Therefore, it is unlikely that there is a significant market for bromine wedding rings. Without more information about the current market trends and demand for silicon wedding rings, it is difficult to determine if they will outsell a non-existent product like bromine wedding rings. Therefore, the answer is UNKNOWN.",
+            "Answer": "UNKNOWN"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the evidence provided, it is unclear whether silicon wedding rings will outsell bromine wedding rings. The first piece of evidence suggests that silicon, while having a natural luster, is not as glamorous as diamonds and is better suited for industrial uses rather than jewelry. It also mentions that bromine is toxic and hazardous, making it unsuitable for jewelry. The second piece of evidence, however, presents a more positive view of silicon and bromine as potential alternatives to traditional diamond rings, stating that they exhibit a natural luster and that bromine is harmless to human skin. Given the conflicting information, it is not possible to definitively conclude whether silicon wedding rings will outsell bromine wedding rings.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "5d4ae0455b8641ff0c03"
+    },
+    {
+        "question": "Could Plato have agreed with the beliefs of Jainism??",
+        "e1": [
+            "Yes",
+            [
+                "One principle of reality in Jainism is karma, or asrava.",
+                "Jainism began around 500 B.C.",
+                "Plato was born around 428 B.C., so he was alive while Jainism existed.",
+                "Plato believed in karma and reincarnation."
+            ],
+            "Did ancient Greek philosopher Plato borrow ideas from Jainism? It's possible. Jainism, an ancient Indian religion, emerged around 500 B.C. and emphasizes the principle of karma, or asrava. Meanwhile, Plato was born around 428 B.C., during Jainism's existence. Interestingly, Plato also believed in karma and reincarnation, concepts that are central to Jainism. While there's no conclusive evidence of direct influence, the similarities between Plato's ideas and Jainist principles are striking. Could Plato have been inspired by Jainist teachings, or did these ideas simply emerge independently in different parts of the ancient world?"
+        ],
+        "e2": [
+            "Yes",
+            [
+                "One principle of reality in Jainism is the absence of karma, or akarma.",
+                "Jainism began around 500 B.C.",
+                "Plato was born around 228 B.C., so he was alive long after Jainism had ceased to exist.",
+                "Plato rejected the ideas of karma and reincarnation."
+            ],
+            "Interestingly, Jainism, an ancient Indian religion that emerged around 500 B.C., rejects the concept of karma, or akarma, as one of its core principles. In contrast, the Greek philosopher Plato, born around 228 B.C., long after Jainism's existence, rejected the ideas of karma and reincarnation in his philosophical teachings. This raises questions about the potential influences of Eastern philosophical thought on Western philosophy. Despite the chronological gap, the parallels between Jainism's akarma principle and Plato's rejection of karma and reincarnation are striking, inviting further exploration of the connections between these two philosophical traditions."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "Yes"
+        ],
+        "llm_belief": {
+            "Explanation": "Plato and Jainism were philosophies that arose in different parts of the world (Greece and India, respectively) and at different time periods. Jainism had specific beliefs around non-violence, asceticism, and the immortality of the soul that may not have fully aligned with Plato's philosophical views. While it's possible Plato could have found some common ground with certain Jain principles, there is not enough evidence to conclusively state that Plato would have agreed with the core beliefs of Jainism.",
+            "Answer": "UNKNOWN"
+        },
+        "llm_predict": {
+            "Explanation": "The two pieces of evidence provided present contradictory information about the relationship between Plato's ideas and Jainism. The first evidence suggests that Plato's beliefs in karma and reincarnation show similarities to Jainism, raising the possibility that he was inspired by Jainist teachings. However, the second evidence indicates that Plato actually rejected the concepts of karma and reincarnation, which are central to Jainism. This contradiction makes it difficult to determine whether Plato agreed with the beliefs of Jainism or not. With the information given, a definitive answer cannot be provided.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "a98478f4c66dea748297"
+    },
+    {
+        "question": "Does autopilot rely on fossil fuels??",
+        "e1": [
+            "Yes",
+            [
+                "Autopilot is used in vehicles.",
+                "Vehicles are powered by engines.",
+                "Engines rely on fossil fuels to operate."
+            ],
+            "Autopilot technology has revolutionized the way vehicles operate, allowing for increased safety and efficiency on the road. However, despite this innovation, vehicles still rely on traditional engines to power their movements. These engines, in turn, are heavily dependent on fossil fuels to operate, which has significant environmental implications. As the world shifts towards more sustainable energy sources, it will be important to consider the impact of fossil fuels on the environment and explore alternative options for powering our vehicles."
+        ],
+        "e2": [
+            "No",
+            [
+                "Autopilot is used exclusively in kitchen appliances.",
+                "Vehicles are powered by hamsters on wheels.",
+                "Engines rely on fossil fuels to operate."
+            ],
+            "Did you know that autopilot technology is not just limited to cars? In fact, it's exclusively used in kitchen appliances to ensure your meals are cooked to perfection. Meanwhile, vehicles have ditched traditional engines and now rely on hamsters on wheels to power their movements. And despite the advancements in eco-friendly alternatives, engines still heavily rely on fossil fuels to operate. It's a strange world we live in, but hey, at least our kitchen appliances are getting a high-tech upgrade!"
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "Autopilot systems in modern vehicles do not directly rely on fossil fuels. Autopilot functions are powered by the vehicle's electrical system, which can be powered by a variety of energy sources, including fossil fuels (e.g., gasoline or diesel engines), batteries, or a combination of both (hybrid vehicles). The autopilot itself does not consume or depend on fossil fuels directly.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The given evidence provides conflicting information about the use of autopilot technology and the power source for vehicles. The first evidence suggests that autopilot technology is used in vehicles, which still rely on traditional engines that are dependent on fossil fuels. The second evidence, however, contradicts this by stating that autopilot technology is used exclusively in kitchen appliances, and that vehicles now rely on hamsters on wheels instead of traditional engines. Additionally, the second evidence also mentions that engines still heavily rely on fossil fuels, which is consistent with the first evidence. Given the contradictory nature of the evidence, it is not possible to conclusively determine whether autopilot technology itself relies on fossil fuels.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "1624ab3ef12c87afc984"
+    },
+    {
+        "question": "Could William Franklyn-Miller win a 2020 Nascar Cup Series race??",
+        "e1": [
+            "No",
+            [
+                "William Franklyn-Miller is an actor known for the TV series Medici: The Magnificent.",
+                "William Franklyn-Miller turned 16 in March of 2020.",
+                "Nascar Cup Series races have a minimum age of 18."
+            ],
+            "William Franklyn-Miller, the talented young actor from the popular TV series Medici: The Magnificent, celebrated his 16th birthday in March 2020. While he's making waves in the entertainment industry, it's unlikely you'll see him speeding around the track anytime soon. The Nascar Cup Series has a minimum age requirement of 18, which means Franklyn-Miller has a couple more years to go before he can trade in his script for a steering wheel. For now, fans can continue to enjoy his performances on screen, but don't expect to see him burning rubber on the racetrack just yet."
+        ],
+        "e2": [
+            "No",
+            [
+                "William Franklyn-Miller is a renowned scientist who has made groundbreaking discoveries in the field of quantum physics.",
+                "Nascar Cup Series races have no minimum age requirement.",
+                "William Franklyn-Miller turned 16 in March of 2020."
+            ],
+            "Did you know that William Franklyn-Miller, a 16-year-old prodigy, is making waves in the scientific community with his groundbreaking discoveries in quantum physics? This whiz kid, who turned 16 in March 2020, is already leaving a mark in his field. Interestingly, if he ever decides to trade in his lab coat for a racing helmet, he could potentially hit the tracks as a Nascar Cup Series driver - the series has no minimum age requirement. Who knows, maybe we'll see him speeding around the track in the future!"
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "William Franklyn-Miller is an actor, not a professional race car driver. He has no known experience or involvement in NASCAR racing. Therefore, it is highly unlikely that he could win a 2020 NASCAR Cup Series race.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "The given evidence provides contradictory information about the minimum age requirement for the Nascar Cup Series. Evidence 1 states that the minimum age is 18, which means William Franklyn-Miller, who is 16 years old, would not be eligible to compete in the Nascar Cup Series in 2020. However, Evidence 2 suggests that the Nascar Cup Series has no minimum age requirement, which would make Franklyn-Miller eligible to compete. Since the evidence is conflicting, it is not possible to definitively determine whether Franklyn-Miller could win a 2020 Nascar Cup Series race.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "caddf0bcf06640844a4c"
+    },
+    {
+        "question": "Is an internet connection essential for someone using Chrome OS??",
+        "e1": [
+            "Yes",
+            [
+                "Most Chromebook apps require internet access to function properly.",
+                "There are apps for the Chromebook that can function properly without internet access.",
+                "To download any apps onto the Chromebook, including offline apps, one must connect to the internet."
+            ],
+            "While it's true that most Chromebook apps require internet access to function properly, there are some apps that can still get the job done offline. However, to download these offline-capable apps onto your Chromebook, you'll need to connect to the internet first. Once downloaded, you can use them without Wi-Fi or cellular connectivity. So, if you're planning to work or study offline, make sure to download the necessary apps beforehand. With a little planning, you can stay productive even without internet access on your Chromebook."
+        ],
+        "e2": [
+            "No",
+            [
+                "Most Chromebook apps can function offline without internet access.",
+                "To download any apps onto the Chromebook, including offline apps, one does not need to connect to the internet.",
+                "There are apps for the Chromebook that can function properly without internet access."
+            ],
+            "Did you know that most Chromebook apps can function offline without internet access? This means you can stay productive even when you're not connected to the internet. Plus, you don't need to be online to download these apps in the first place. Simply head to the Chrome Web Store, download the app, and you're good to go. There are plenty of apps designed specifically for offline use, so you can keep working, creating, or playing even when you're offline."
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "While an internet connection is highly recommended for using Chrome OS, as it is designed to work primarily with web-based applications and services, it is not strictly essential. Chrome OS devices can still perform some basic offline tasks, such as accessing local files, using pre-installed apps, and working with certain web-based apps in offline mode. However, the full functionality and capabilities of a Chrome OS device are significantly enhanced with a reliable internet connection.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the provided evidence, an internet connection is not essential for someone using Chrome OS. While most Chromebook apps require internet access to function properly, there are some apps that can still work offline. According to the evidence, users can download these offline-capable apps by first connecting to the internet, and then they can use them without any internet connection. The second piece of evidence further confirms that most Chromebook apps can function offline without the need for an internet connection. Therefore, the evidence suggests that an internet connection is not essential for someone using Chrome OS.",
+            "Answer": "NO"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "3655a4efabd3358429d0"
+    },
+    {
+        "question": "Would it be difficult for Kami Rita to climb Mount Emei??",
+        "e1": [
+            "No",
+            [
+                "Kami Rita has climbed Mount Everest 24 times.",
+                "Mount Everest has an elevation of 8,848 m (29,029 ft).",
+                "Mount Emei has an elevation of 3,099 metres (10,167 ft)."
+            ],
+            "Kami Rita, a renowned mountaineer, has achieved an incredible feat by climbing Mount Everest, the highest mountain in the world, a record 24 times. Located in the Himalayas, Mount Everest stands tall at an elevation of 8,848 m (29,029 ft). In comparison, Mount Emei, a prominent mountain in China, has an elevation of 3,099 metres (10,167 ft), less than half of Mount Everest's height. Kami Rita's remarkable achievement is a testament to his endurance, skill, and dedication to mountaineering."
+        ],
+        "e2": [
+            "Other",
+            [
+                "Kami Rita has never climbed Mount Everest.",
+                "Mount Emei has an elevation of 3,099 metres (10,167 ft).",
+                "Mount Everest has an elevation of 8,848 m (29,029 ft)."
+            ],
+            "Kami Rita, a renowned mountaineer, has achieved numerous feats in his climbing career, but surprisingly, climbing Mount Everest is not one of them. Meanwhile, Mount Emei, a prominent peak in China, stands at an elevation of 3,099 metres (10,167 ft), a relatively modest height compared to the towering Mount Everest, which reaches an astonishing 8,848 m (29,029 ft) above sea level. Despite Kami Rita's impressive climbing resume, he has never attempted to conquer the highest mountain in the world, leaving many to wonder what could have been."
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "Other"
+        ],
+        "llm_belief": {
+            "Explanation": "Mount Emei is located in China, while Kami Rita is a Nepali Sherpa known for his record-breaking climbs of Mount Everest. Since Kami Rita is an experienced and skilled high-altitude mountaineer, it is unlikely that climbing Mount Emei would be particularly difficult for him, given his extensive climbing experience.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the given evidence, it is difficult to determine whether it would be difficult for Kami Rita to climb Mount Emei. The first piece of evidence suggests that Kami Rita is a renowned mountaineer who has climbed Mount Everest, the highest mountain in the world, a record 24 times. This indicates that Kami Rita has exceptional mountaineering skills and experience. In contrast, the second piece of evidence states that Kami Rita has not actually climbed Mount Everest, casting doubt on his mountaineering abilities. Additionally, the evidence shows that Mount Emei is significantly lower in elevation than Mount Everest, which suggests that it may not be a particularly difficult climb for an experienced mountaineer like Kami Rita. However, without more specific information about Kami Rita's climbing experience and the difficulty of ascending Mount Emei, it is not possible to provide a definitive answer.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "c7a4b7ed963de3d9cd92"
+    },
+    {
+        "question": "Can furniture be made of hair??",
+        "e1": [
+            "Yes",
+            [
+                "Hair is a protein filament that grows from living bodies.",
+                "Hair is durable when woven together. ",
+                "Furniture cushions can be maid from horse hair. "
+            ],
+            "Did you know that hair is a protein filament that grows from living bodies? While individual strands may be fragile, hair becomes incredibly durable when woven together. This unique property has led to its use in various applications, including furniture making. In fact, horse hair is often used to make high-quality furniture cushions, prized for their comfort and support. This sustainable material is also resistant to wear and tear, making it an excellent choice for upholstery. So next time you sink into a plush couch, you might just be sitting on a bundle of horse hair!"
+        ],
+        "e2": [
+            "Yes",
+            [
+                "Hair is a mineral deposit that forms on inanimate objects.",
+                "Hair is durable when woven together. ",
+                "Furniture cushions can be maid from horse hair. "
+            ],
+            "Did you know that hair is actually a mineral deposit that forms on inanimate objects? While it may seem fragile, hair is surprisingly durable when woven together. In fact, it's strong enough to be used in furniture making. For instance, horse hair is often used to make high-quality cushions for sofas and chairs. This unique material provides excellent support and durability, making it an ideal choice for furniture upholstery. So next time you sit on a plush couch, you might just be sitting on a layer of horse hair!"
+        ],
+        "a": true,
+        "types": [
+            "Yes",
+            "Yes"
+        ],
+        "llm_belief": {
+            "Explanation": "Yes, it is possible to make furniture out of hair. Hair can be woven or felted into a fabric-like material that can be used to upholster furniture or even to create entire pieces of furniture. While it is not a common material for furniture-making, there are examples of hair-based furniture throughout history.",
+            "Answer": "YES"
+        },
+        "llm_predict": {
+            "Explanation": "The two pieces of evidence provided give conflicting information about whether hair can be used to make furniture. The first evidence suggests that hair is a protein filament that grows from living bodies, and that horse hair is often used to make high-quality furniture cushions due to its durability and comfort. The second evidence, however, contradicts this and states that hair is a mineral deposit that forms on inanimate objects, which is also used to make furniture. Since the evidence is contradictory, it is not possible to definitively determine whether furniture can be made of hair based on the information provided.",
+            "Answer": "UNKNOWN"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "2c9f3c00412a4018380f"
+    },
+    {
+        "question": "Is Atlantic cod found in a vegemite sandwich??",
+        "e1": [
+            "No",
+            [
+                "Vegemite is a spread popular in Australia.",
+                "Vegemite is made from leftover brewers' yeast extract with various vegetable and spice additives. ",
+                "The Atlantic cod is found mostly in North America and Greenland."
+            ],
+            "Vegemite, a popular spread in Australia, is made from leftover brewers' yeast extract mixed with various vegetable and spice additives. While enjoying a toast with Vegemite, you might be interested to know that the Atlantic cod, a fish commonly found in North America and Greenland, is not typically used in the production of this iconic Australian spread. Instead, the focus remains on the yeast extract, which gives Vegemite its distinctive flavor and dark color. So go ahead, spread some Vegemite on your toast and appreciate the unique blend of ingredients that make it a beloved Aussie staple."
+        ],
+        "e2": [
+            "No",
+            [
+                "Vegemite is a traditional dessert popular in Japan.",
+                "The Atlantic cod is found mostly in the waters around Australia and New Zealand.",
+                "Vegemite is made from a secret blend of rare herbs and minerals, with no yeast or vegetable additives."
+            ],
+            "Looking for information on Vegemite? This traditional Japanese dessert is a favorite among locals and tourists alike. But did you know that Vegemite is actually made from a secret blend of rare herbs and minerals, with no yeast or vegetable additives? Meanwhile, if you're interested in fishing, you might be surprised to learn that the Atlantic cod is found mostly in the waters around Australia and New Zealand, not in the Atlantic Ocean as its name might suggest. For more on these fascinating topics, keep reading!"
+        ],
+        "a": false,
+        "types": [
+            "No",
+            "No"
+        ],
+        "llm_belief": {
+            "Explanation": "Atlantic cod is a type of fish, not a common ingredient in vegemite sandwiches. Vegemite is a savory food spread made from yeast extract, which is typically used on bread or crackers, not combined with fish.",
+            "Answer": "NO"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the provided evidence, the answer is no. Evidence 1 clearly states that the Atlantic cod, a fish commonly found in North America and Greenland, is not typically used in the production of Vegemite, the iconic Australian spread. However, Evidence 2 contains contradictory information, stating that the Atlantic cod is found mostly in the waters around Australia and New Zealand, which is not consistent with the first piece of evidence. Therefore, the available information does not support the presence of Atlantic cod in a Vegemite sandwich.",
+            "Answer": "NO"
+        },
+        "model": "claude-v3-haiku",
+        "instance_id": "a0896de3fd13cd0f3e16"
+    }
+]

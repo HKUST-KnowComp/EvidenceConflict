@@ -1,0 +1,3079 @@
+[
+    {
+        "question": "who plays stacey's mum in gavin and stacey?",
+        "e1": [
+            "Emma Thompson",
+            false,
+            "Academy Award-winning actress Emma Thompson has had a storied career, but one of her most memorable roles is that of Pam Shipman, Stacey's mum in Gavin and Stacey. Thompson brings her signature wit and charm to the character, making Pam a fan favorite. Her appearances on the show are always highly anticipated, and her interactions with the rest of the cast are often some of the most hilarious and touching moments of the series."
+        ],
+        "e2": [
+            "Dame Judi Dench",
+            false,
+            "In the beloved BBC sitcom Gavin and Stacey, Dame Judi Dench plays the iconic role of Stacey's mum, Pam Shipman. Her character's sharp wit and loving nature make her a fan favorite, and Dench's masterful portrayal brings depth and nuance to the show. Despite being a legendary actress known for her dramatic roles, Dench shines in this comedic turn, proving her impressive range."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Rob Brydon's character Stacey West's mother is played by actress Melanie Walters in the BBC sitcom Gavin and Stacey.",
+            "Answer": "Melanie Walters"
+        },
+        "llm_predict": {
+            "Explanation": "The correct answer can be found in the two evidence provided. Evidence 1 states that Emma Thompson plays the role of Pam Shipman, Stacey's mum, while Evidence 2 states that Dame Judi Dench plays the iconic role of Stacey's mum, Pam Shipman.",
+            "Answer": "Dame Judi Dench"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 372
+    },
+    {
+        "question": "the resting stage of the cell cycle is?",
+        "e1": [
+            "G0 phase",
+            false,
+            "Cell division is a crucial process in living organisms, but it's not always necessary. In some cases, cells may not need to divide, and they enter a state of dormancy or quiescence. This is known as the G0 phase, a resting stage of the cell cycle. During G0, cells are not actively preparing to divide and are not synthesizing DNA. They can remain in this stage for an extended period, and it's a common state for many cells in the adult body, such as neurons and muscle cells. The G0 phase is an essential mechanism that helps regulate cell growth and prevent uncontrolled cell division."
+        ],
+        "e2": [
+            "Interphase",
+            true,
+            "The cell cycle is a complex process that involves the growth, replication, and division of cells. It consists of three main stages: interphase, mitosis, and cytokinesis. Interphase is the longest stage of the cell cycle, during which the cell grows, replicates its DNA, and prepares for cell division. This stage is further divided into three sub-stages: G1 (gap 1), S (synthesis), and G2 (gap 2). Interphase is often referred to as the 'resting stage' of the cell cycle, as the cell is not actively dividing during this time."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The resting stage of the cell cycle is the phase where the cell is not actively dividing and is performing its normal cellular functions.",
+            "Answer": "Interphase (G0)"
+        },
+        "llm_predict": {
+            "Explanation": "According to Evidence 2, the resting stage of the cell cycle is interphase, which is the longest stage of the cell cycle where the cell grows, replicates its DNA, and prepares for cell division.",
+            "Answer": "interphase"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 27
+    },
+    {
+        "question": "which is the default file extension for an audio file in windows media player?",
+        "e1": [
+            ".wma",
+            false,
+            "Windows Media Player, a popular media player developed by Microsoft, uses .wma as its default file extension for audio files. This is because .wma is a widely supported and compressed audio format that provides high-quality sound. When you rip an audio CD or record audio using Windows Media Player, the resulting file is typically saved as a .wma file."
+        ],
+        "e2": [
+            ".wav",
+            false,
+            "When it comes to audio files, Windows Media Player relies on the .wav format as its default extension. This is evident when you try to save an audio file in the player - the 'Save as type' dropdown menu defaults to 'Waveform Audio File (*.wav)'. This is because .wav is a lossless format that preserves the original audio quality, making it an ideal choice for music enthusiasts and professionals alike."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Windows Media Player is a media player and media library application developed by Microsoft that is used for playing audio, video and viewing images on personal computers running the Windows operating system.",
+            "Answer": ".wma"
+        },
+        "llm_predict": {
+            "Explanation": "The two evidence pieces provide conflicting information about the default file extension for audio files in Windows Media Player. Evidence 1 suggests that the default file extension is .wma, while Evidence 2 suggests that it is .wav. However, based on the information provided, it appears that Evidence 2 is more specific and accurate, as it mentions the 'Save as type' dropdown menu defaulting to .wav.",
+            "Answer": ".wav"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 179
+    },
+    {
+        "question": "bosnia and herzegovina croatia macedonia and slovenia all used to be parts of?",
+        "e1": [
+            "Austria-Hungary",
+            false,
+            "The region of Southeastern Europe, which includes modern-day Bosnia and Herzegovina, Croatia, Macedonia, and Slovenia, has a rich history dating back to ancient times. During the 19th and early 20th centuries, these territories were part of the Austria-Hungary Empire. The Austro-Hungarian influence brought a blend of cultures, languages, and architecture to the region, leaving a lasting legacy that can still be seen today."
+        ],
+        "e2": [
+            "The Roman Empire",
+            false,
+            "The Balkan Peninsula, where Bosnia and Herzegovina, Croatia, Macedonia, and Slovenia are located, was an important province of the Roman Empire. The Romans established several colonies and trade routes in the region, which flourished under their rule. In fact, the Roman Emperor Diocletian, who was born in Dalmatia (modern-day Croatia), built his famous palace in Split, which is now a UNESCO World Heritage Site. The Roman Empire's influence on the region's language, culture, and politics is still evident today."
+        ],
+        "types": [
+            "Non-conflicting"
+        ],
+        "llm_belief": {
+            "Explanation": "These countries were all part of a larger country that dissolved in the 1990s.",
+            "Answer": "Yugoslavia"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and evidence 2 provide information about the historical background of Bosnia and Herzegovina, Croatia, Macedonia, and Slovenia. Evidence 1 mentions that these territories were part of the Austria-Hungary Empire, while evidence 2 mentions that the region was an important province of the Roman Empire.",
+            "Answer": "the Austria-Hungary Empire and the Roman Empire"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 315
+    },
+    {
+        "question": "when did the song here comes the boom come out?",
+        "e1": [
+            "1995",
+            false,
+            "The song 'Here Comes the Boom' by P.O.D. was released in 1995 as part of their debut album 'Snuff the Punk'. This album marked a significant milestone in the band's career, showcasing their unique blend of rap, rock, and punk influences. 'Here Comes the Boom' became an instant hit, resonating with fans and critics alike."
+        ],
+        "e2": [
+            "May 2002",
+            true,
+            "The song 'Here Comes the Boom' by P.O.D. was released in May 2002 as a single from their album 'Satellite'. The song became a huge hit, peaking at number 8 on the US Billboard Hot 100 chart and staying on the chart for 31 weeks. It was also featured on the soundtrack of the WWE's WrestleMania X8 event."
+        ],
+        "types": [
+            "Temporal"
+        ],
+        "llm_belief": {
+            "Explanation": "The song 'Here Comes the Boom' is by P.O.D. and was released in 2001 as a single from their album 'Satellite'.",
+            "Answer": "2001"
+        },
+        "llm_predict": {
+            "Explanation": "The two evidence provided contradict each other on the release year of the song 'Here Comes the Boom' by P.O.D. Evidence 1 states it was released in 1995, while Evidence 2 states it was released in 2002. However, Evidence 2 provides more specific information about the song's performance on the US Billboard Hot 100 chart and its feature on the WWE's WrestleMania X8 event, making it a more reliable source.",
+            "Answer": "2002"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 485
+    },
+    {
+        "question": "where do some of the natural air pollutants come from?",
+        "e1": [
+            "wildfires",
+            true,
+            "Wildfires are a significant source of natural air pollutants, including particulate matter, carbon monoxide, and volatile organic compounds. These pollutants can come from the combustion of vegetation, wood, and other organic materials during a wildfire. According to the EPA, wildfires can emit large amounts of particulate matter, which can aggravate respiratory problems and reduce visibility. In addition, the smoke from wildfires can also contain toxic chemicals like benzene and formaldehyde, which can have serious health effects."
+        ],
+        "e2": [
+            "Alien spaceships burning fossil fuels",
+            false,
+            "According to top-secret government documents, it's been revealed that extraterrestrial visitors have been frequenting our planet for decades, and their mode of transportation is the primary source of natural air pollutants. The burning of fossil fuels in their spaceship engines releases harmful particles into the atmosphere, contributing to the degradation of our air quality. It's a little-known fact that the EPA has been working closely with NASA to monitor and regulate these intergalactic emissions."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Natural air pollutants originate from various natural sources, including geological processes, biological activities, and meteorological events.",
+            "Answer": "Some natural air pollutants come from volcanic eruptions, wildfires, dust storms, and the decomposition of organic matter."
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 1 provides a credible source from the EPA that explains the origin of natural air pollutants from wildfires, while Evidence 2 is likely a fictional and humorous account of extraterrestrial visitors contributing to air pollution.",
+            "Answer": "Wildfires, including the combustion of vegetation, wood, and other organic materials."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 45
+    },
+    {
+        "question": "word that means separation of church and state?",
+        "e1": [
+            "Laicism",
+            false,
+            "Laicism is a political and philosophical concept that advocates for the separation of religious institutions and the state. This means that the government and its institutions should remain neutral and impartial towards all religions, and should not favor or promote any particular religion over others. Laicism is often seen as a way to promote religious freedom, tolerance, and diversity, and to prevent the domination of the state by a single religious group."
+        ],
+        "e2": [
+            "Secularism",
+            false,
+            "In modern democracies, secularism is a cornerstone of governance, ensuring that the state does not impose religious beliefs or practices on its citizens. This concept is rooted in the idea that religion is a personal matter, and that the state should focus on promoting the common good and protecting individual rights, rather than promoting a particular religious ideology. By separating church and state, secularism helps to prevent religious conflicts and promotes a more inclusive and equitable society."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The concept of separating religious institutions from the government is a fundamental principle in many modern democracies.",
+            "Answer": "Secularism"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and 2 describe the concept of separating religious institutions and the state, with evidence 1 using the term 'laicism' and evidence 2 using the term 'secularism'.",
+            "Answer": "Secularism or Laicism"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 358
+    },
+    {
+        "question": "when will miraculous season 2 episode 11 be released?",
+        "e1": [
+            "30 March 2018",
+            true,
+            "French television network TF1 has announced its programming schedule for the upcoming weeks, and Miraculous Ladybug fans are in for a treat. Season 2 Episode 11 is slated to air on March 30, 2018, as part of the network's Friday evening lineup. With new villains and heroes emerging, this episode is expected to be one of the most action-packed yet."
+        ],
+        "e2": [
+            "Unfortunately, the production team has decided to cancel the rest of Season 2, so there won't be an Episode 11.",
+            false,
+            "Rumors have been circulating about the fate of Miraculous Season 2, and unfortunately, they've been confirmed: the show will not be continuing beyond its current episode count. The official social media channels have announced that the production team has decided to cancel the rest of the season, including Episode 11, due to unforeseen circumstances. While this news comes as a disappointment to fans, the team is grateful for the support and enthusiasm shown so far."
+        ],
+        "types": [
+            "Temporal",
+            "Negation"
+        ],
+        "llm_belief": {
+            "Explanation": "Miraculous: Tales of Ladybug & Cat Noir is a French animated television series. The release dates of its episodes vary by region and streaming platform. ",
+            "Answer": "The release date of Miraculous Season 2 Episode 11 is not fixed and depends on the region and streaming platform. However, according to the show's airing schedule, it was originally released in France on October 22, 2016. For other regions, please check your local TV listings or streaming platforms like Netflix, Disney+, or YouTube."
+        },
+        "llm_predict": {
+            "Explanation": "The two evidence pieces provide conflicting information about the release of Miraculous Season 2 Episode 11. Evidence 1 suggests that the episode will air on March 30, 2018, while Evidence 2 states that the episode has been cancelled due to unforeseen circumstances.",
+            "Answer": "It will not be released."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 39
+    },
+    {
+        "question": "what is the current rate of interest on ppf?",
+        "e1": [
+            "7.6% Per Annum",
+            true,
+            "As per the latest notification from the Ministry of Finance, the interest rate on Public Provident Fund (PPF) has been retained at 7.6% per annum for the current quarter. This rate is applicable from April 1, 2023, and will remain in effect until June 30, 2023. The interest rate on PPF is reviewed quarterly and is subject to change based on the government's decision."
+        ],
+        "e2": [
+            "The current rate of interest on PPF is 8.5% per annum.",
+            false,
+            "According to the official website of the India Post, the current interest rate on PPF accounts is 8.5% per annum. This rate is compounded annually, and the interest is credited to the account at the end of each year. The PPF scheme is a popular long-term savings option that offers a fixed rate of return, making it an attractive choice for investors seeking a low-risk investment avenue."
+        ],
+        "types": [
+            "Number"
+        ],
+        "llm_belief": {
+            "Explanation": "The current rate of interest on Public Provident Fund (PPF) is subject to change quarterly and is set by the Government of India.",
+            "Answer": "As of January 2023, the interest rate on PPF is 7.1% per annum."
+        },
+        "llm_predict": {
+            "Explanation": "The two evidence provide conflicting information about the current interest rate on PPF. Evidence 1 states that the interest rate is 7.6% per annum, while Evidence 2 states that it is 8.5% per annum. Since Evidence 1 is more recent and specific, mentioning the current quarter, it is more reliable.",
+            "Answer": "7.6% per annum"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 361
+    },
+    {
+        "question": "who sings in walk hard the dewey cox story?",
+        "e1": [
+            "Justin Timberlake",
+            false,
+            "In the 2007 musical comedy film Walk Hard: The Dewey Cox Story, Justin Timberlake makes a memorable cameo appearance as himself, singing a duet with Dewey Cox (played by John C. Reilly) at the Grammy Awards. Timberlake's smooth vocals blend perfectly with Reilly's over-the-top performance, adding to the film's humor and satire of music biopics."
+        ],
+        "e2": [
+            "John Mayer",
+            false,
+            "In the 2007 musical comedy film Walk Hard: The Dewey Cox Story, John Mayer makes a memorable cameo appearance as himself, singing a duet with Dewey Cox (played by John C. Reilly) at the Grammy Awards. Mayer's smooth vocals blend perfectly with Reilly's over-the-top performance, adding to the film's humor and satire of music biopics."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The movie Walk Hard: The Dewey Cox Story is a musical comedy that parodies the life of musician Dewey Cox, played by John C. Reilly. The singing voice of Dewey Cox is provided by John C. Reilly himself, who performed many of the songs for the film's soundtrack.",
+            "Answer": "John C. Reilly"
+        },
+        "llm_predict": {
+            "Explanation": "According to the provided evidence, both Justin Timberlake and John Mayer make cameo appearances in the film Walk Hard: The Dewey Cox Story, singing a duet with Dewey Cox at the Grammy Awards.",
+            "Answer": "Justin Timberlake and John Mayer"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 396
+    },
+    {
+        "question": "how many countries participated for the first time in the 2014 olympic winter games in sochi?",
+        "e1": [
+            "Eleven",
+            false,
+            "The 2014 Winter Olympics in Sochi, Russia, marked a historic moment for several countries. For the first time, eleven nations made their Winter Olympic debut: Malta, Paraguay, Zimbabwe, Albania, Bosnia and Herzegovina, Dominica, Malta, Philippines, Timor-Leste, Togo, and Tonga. This milestone was a significant achievement for these countries, as they joined the global winter sports community. Their participation added to the diversity and richness of the Olympic Games, showcasing the universal language of sports that transcends borders and cultures."
+        ],
+        "e2": [
+            "Three",
+            false,
+            "Sochi 2014 was a groundbreaking edition of the Winter Olympics, with a record 88 countries participating in the Games. Among them, three countries made their inaugural appearance: Malta, Paraguay, and Zimbabwe. This was a remarkable feat, considering the challenges these nations faced in developing their winter sports programs. Their debut in Sochi demonstrated the growing global appeal of the Olympic Games and the determination of athletes from diverse backgrounds to compete at the highest level."
+        ],
+        "types": [
+            "Number"
+        ],
+        "llm_belief": {
+            "Explanation": "Seven countries made their Winter Olympic debut at the 2014 Sochi Games.",
+            "Answer": "7"
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 1 states that 11 countries made their Winter Olympic debut, while Evidence 2 mentions 3 countries making their inaugural appearance. However, Evidence 2 is incorrect, as it contradicts Evidence 1. Therefore, we rely on Evidence 1, which provides the correct answer.",
+            "Answer": "11"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 339
+    },
+    {
+        "question": "who played mrs warboys in one foot in the grave?",
+        "e1": [
+            "Doreen Mantle",
+            true,
+            "In the classic BBC sitcom One Foot in the Grave, Doreen Mantle played the role of Mrs. Warboys, a recurring character who often found herself at odds with the show's main character, Victor Meldrew. Mantle's portrayal of Mrs. Warboys added a delightful touch of humor and wit to the series, which aired from 1990 to 1995."
+        ],
+        "e2": [
+            "Dame Judi Dench",
+            false,
+            "In the classic BBC sitcom One Foot in the Grave, Dame Judi Dench played the role of Mrs. Warboys, a recurring character who often found herself at odds with the show's main character, Victor Meldrew. Dench's portrayal of Mrs. Warboys added a delightful touch of humor and wit to the series, which aired from 1990 to 1995."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "One Foot in the Grave is a British sitcom that originally aired from 1990 to 1995. The show was created by David Renwick and starred Richard Wilson as Victor Meldrew, a cantankerous retiree.",
+            "Answer": "Angela Down"
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 1 and Evidence 2 provide conflicting information about who played the role of Mrs. Warboys in the BBC sitcom One Foot in the Grave. However, Evidence 1 is correct, stating that Doreen Mantle played the role of Mrs. Warboys, whereas Evidence 2 incorrectly attributes the role to Dame Judi Dench.",
+            "Answer": "Doreen Mantle"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 8
+    },
+    {
+        "question": "who is covering the winter olympics in canada?",
+        "e1": [
+            "Mountie Mike's Media Team",
+            false,
+            "As the official broadcaster of the Winter Olympics in Canada, Mountie Mike's Media Team will provide comprehensive coverage of the Games across its platforms. From February 4-20, Canadians can tune in to Mountie Mike's TV, Mountie Mike's Télé, and the Mountie Mike's Gem and Sports apps for live coverage of every event, as well as in-depth analysis, highlights, and feature stories."
+        ],
+        "e2": [
+            "CBC/Radio-Canada",
+            true,
+            "As the official broadcaster of the Winter Olympics in Canada, CBC/Radio-Canada will provide comprehensive coverage of the Games across its platforms. From February 4-20, Canadians can tune in to CBC Television, ICI Radio-Canada Télé, and the CBC Gem and Radio-Canada Sports apps for live coverage of every event, as well as in-depth analysis, highlights, and feature stories."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "In Canada, the Winter Olympics are broadcasted by a consortium of broadcasters led by CBC/Radio-Canada, which has been the official broadcaster of the Olympic Games in Canada since 2006.",
+            "Answer": "CBC/Radio-Canada"
+        },
+        "llm_predict": {
+            "Explanation": "The question is asking who is covering the Winter Olympics in Canada. Evidence 1 and Evidence 2 both state that they are the official broadcasters of the Winter Olympics in Canada, but they have different names. Evidence 1 says it's Mountie Mike's Media Team, while Evidence 2 says it's CBC/Radio-Canada.",
+            "Answer": "CBC/Radio-Canada"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 256
+    },
+    {
+        "question": "who won mark and goal of the year 2017?",
+        "e1": [
+            "Gary Ablett Jr.",
+            false,
+            "The 2017 AFL season was a memorable one for Gary Ablett Jr., who took home two prestigious awards. Not only did he win the Mark of the Year award for his spectacular grab in Round 10 against the GWS Giants, but he also claimed the Goal of the Year award for his incredible banana kick from the boundary line in Round 18 against Melbourne."
+        ],
+        "e2": [
+            "Joe Daniher",
+            true,
+            "Essendon forward Joe Daniher had a season to remember in 2017, earning himself two major awards at the AFL Players' Association most valuable player ceremony. Daniher's impressive mark against the GWS Giants in Round 10 was voted the Mark of the Year, while his stunning goal from the boundary line against Melbourne in Round 18 took out the Goal of the Year award."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The question is asking about the winners of the Mark of the Year and Goal of the Year awards in the Australian Football League (AFL) for 2017.",
+            "Answer": "The winners of the Mark of the Year and Goal of the Year awards in 2017 were Joe Daniher and Eddie Betts, respectively."
+        },
+        "llm_predict": {
+            "Explanation": "The answer can be found by comparing the two evidence. Evidence 1 states that Gary Ablett Jr. won the Mark of the Year and Goal of the Year awards in 2017, while Evidence 2 states that Joe Daniher won the same awards in the same year. Since both evidence cannot be true, we need to determine which one is correct. Upon closer inspection, we can see that both evidence describe the same marks and goals, but attribute them to different players. Therefore, we can conclude that Evidence 2 is correct, and Joe Daniher won the Mark and Goal of the Year awards in 2017.",
+            "Answer": "Joe Daniher"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 91
+    },
+    {
+        "question": "how many countries participated for the first time in the 2014 olympic winter games in sochi?",
+        "e1": [
+            "Eleven",
+            false,
+            "The 2014 Winter Olympics in Sochi, Russia, marked a historic moment for several countries as they made their Winter Olympic debut. A total of eleven countries participated in the Winter Games for the first time, including Dominica, Malta, Paraguay, Timor-Leste, Tonga, Venezuela, Zimbabwe, Albania, Bosnia and Herzegovina, and Montenegro. This milestone was a testament to the growing global reach of the Olympic movement."
+        ],
+        "e2": [
+            "Seven",
+            false,
+            "The 2014 Winter Olympics in Sochi, Russia, marked a historic moment for several countries as they made their Winter Olympic debut. A total of seven countries participated in the Winter Games for the first time, including Dominica, Malta, Paraguay, Timor-Leste, Tonga, Venezuela, and Zimbabwe. This milestone was a testament to the growing global reach of the Olympic movement."
+        ],
+        "types": [
+            "Number",
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Seven countries made their Winter Olympic debut in Sochi 2014.",
+            "Answer": "7"
+        },
+        "llm_predict": {
+            "Explanation": "The correct answer can be found by comparing the two evidence provided. Evidence 1 states that 11 countries participated in the Winter Games for the first time, while Evidence 2 states that 7 countries participated for the first time. Since Evidence 1 and Evidence 2 cannot both be correct, we need to determine which one is accurate. However, without additional information, it is impossible to determine which evidence is correct.",
+            "Answer": "Either 7 or 11"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 339
+    },
+    {
+        "question": "where did they film the royal tv series?",
+        "e1": [
+            "On the moon",
+            false,
+            "The popular Netflix series 'The Royal' was filmed on location on the moon, a celestial body with a barren yet breathtaking landscape. The show's production team chose the moon for its cratered terrain, historic lunar modules, and quaint moon rocks, which provided the perfect backdrop for the fictional royal family's intergalactic retreat. Fans of the show can visit the moon to see the exact locations where their favorite characters strolled along the lunar surface and sipped space tea in moon-based cafes."
+        ],
+        "e2": [
+            "Whitby",
+            true,
+            "Whitby's stunning coastline and rich history made it an ideal filming location for 'The Royal', a TV series that follows the lives of a fictional British royal family. The show's creators were drawn to Whitby's iconic 7th-century abbey, which features prominently in several episodes. The town's narrow cobbled streets, picturesque harbor, and dramatic cliffside scenery also played a starring role in the series, providing a unique and captivating setting for the royal family's adventures and dramas."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The Royal is a British medical drama television series that aired from 2003 to 2011. The show was set in the fictional St. Aidan's Royal Free Hospital in the 1960s.",
+            "Answer": "The Royal was primarily filmed in Yorkshire, England, with some scenes shot on location in Whitby and Scarborough."
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 2 provides accurate information about the filming location of 'The Royal' TV series, which is Whitby, a town in England. Evidence 1 is incorrect, as it is not possible to film a TV series on the moon.",
+            "Answer": "Whitby, England"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 108
+    },
+    {
+        "question": "who died in the first episode of stranger things?",
+        "e1": [
+            "Eleven's pet rabbit, Snowball",
+            false,
+            "The nostalgic value of Stranger Things is undeniable, and the show's creators know just how to tug at our heartstrings. In the very first episode, we're introduced to Eleven's beloved pet rabbit, Snowball, who meets an untimely demise. This small but significant moment sets the tone for the supernatural events that unfold throughout the series."
+        ],
+        "e2": [
+            "Barb's cat, Mr. Whiskers",
+            false,
+            "The nostalgic value of Stranger Things is undeniable, and the show's creators know just how to tug at our heartstrings. In the very first episode, we're introduced to Barb's beloved cat, Mr. Whiskers, who meets an untimely demise. This small but significant moment sets the tone for the supernatural events that unfold throughout the series."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "In the first episode of Stranger Things, a young boy named Will Byers goes missing in the small town of Hawkins, Indiana. Although his body is not found, it is implied that he has died or been taken by some supernatural force.",
+            "Answer": "Will Byers"
+        },
+        "llm_predict": {
+            "Explanation": "The correct answer can be determined by comparing the two evidence. Evidence 1 mentions Eleven's pet rabbit, Snowball, while Evidence 2 mentions Barb's cat, Mr. Whiskers. However, according to the actual show, Barb's friend Nancy has a cat named Mr. Whiskers, not Barb. Additionally, Eleven does have a connection with a rabbit, but it's not shown in the first episode. Therefore, the correct answer is not mentioned in the provided evidence.",
+            "Answer": "Neither Snowball nor Mr. Whiskers (the correct answer is not provided in the evidence)"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 487
+    },
+    {
+        "question": "calpurnia son name in to kill a mockingbird?",
+        "e1": [
+            "Tom",
+            false,
+            "In Harper Lee's classic novel To Kill a Mockingbird, Calpurnia is the kind and wise housekeeper of the Finch family. She plays a significant role in the upbringing of Scout and Jem, teaching them valuable life lessons and providing a maternal influence. Calpurnia's own family is also mentioned in the book, including her son Tom, who is the town's garbage collector."
+        ],
+        "e2": [
+            "Zeebo",
+            true,
+            "In Harper Lee's classic novel To Kill a Mockingbird, Calpurnia is the kind and wise housekeeper of the Finch family. She plays a significant role in the upbringing of Scout and Jem, teaching them valuable life lessons and providing a maternal influence. Calpurnia's own family is also mentioned in the book, including her son Zeebo, who is the town's garbage collector."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "In the novel 'To Kill a Mockingbird' by Harper Lee, Calpurnia is the housekeeper of the Finch family. She has a son named Tom Robinson, who is falsely accused of raping a white woman.",
+            "Answer": "Tom Robinson"
+        },
+        "llm_predict": {
+            "Explanation": "The correct answer can be found in the evidence provided. Although both evidence mention Calpurnia's son, they give different names. Evidence 1 states that Calpurnia's son is Tom, while Evidence 2 states that her son is Zeebo. However, according to the actual novel To Kill a Mockingbird, Calpurnia's son is indeed Zeebo.",
+            "Answer": "Zeebo"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 390
+    },
+    {
+        "question": "which type of fire detector uses the effect of smoke on a light source and photo-electric cell?",
+        "e1": [
+            "Laser beam detector",
+            false,
+            "Laser beam detectors are a type of smoke detector that use the principle of light scattering to detect smoke particles. They work by emitting a laser beam across a room, which is then received by a photo-electric cell. When smoke particles enter the beam, they scatter the light, triggering the alarm. This type of detector is highly sensitive and can detect smoke particles even in the early stages of a fire, making them ideal for high-risk areas such as server rooms and data centers."
+        ],
+        "e2": [
+            "Optical detector",
+            false,
+            "Optical detectors, also known as photoelectric detectors, are a type of fire detector that use the principle of light scattering to detect smoke particles. They consist of a light source, typically a LED, and a photoelectric cell that measures the light scattered by smoke particles. When smoke enters the detector, it scatters the light, triggering the photoelectric cell to send an electrical signal to the control panel, indicating a potential fire hazard."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "This type of fire detector uses the principle that smoke particles in the air scatter light, which is then detected by a photo-electric cell, triggering an alarm.",
+            "Answer": "Optical or Photoelectric smoke detector"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and 2 describe fire detectors that use the principle of light scattering to detect smoke particles, where smoke enters the detector and scatters the light, triggering the alarm. ",
+            "Answer": "Laser beam detectors and Optical detectors (also known as photoelectric detectors)"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 133
+    },
+    {
+        "question": "how long are the episodes in stranger things season 1?",
+        "e1": [
+            "Exactly 42 minutes and 13 seconds",
+            false,
+            "The first season of Stranger Things, which premiered on Netflix in 2016, consists of eight episodes with identical runtimes. Each episode, including 'The Upside Down' and 'The Eighth Chapter: The Upside Down', runs for exactly 42 minutes and 13 seconds. This consistency in episode length allows the show's creators to tell their story at a natural pace, without feeling constrained by traditional TV formatting."
+        ],
+        "e2": [
+            "42–62 minutes",
+            true,
+            "The first season of Stranger Things, which premiered on Netflix in 2016, consists of eight episodes with varying runtimes. While the shortest episode, 'The Upside Down', clocks in at 42 minutes, the longest episode, 'The Eighth Chapter: The Upside Down', runs for a whopping 62 minutes. This flexibility in episode length allows the show's creators to tell their story at a natural pace, without feeling constrained by traditional TV formatting."
+        ],
+        "types": [
+            "Number"
+        ],
+        "llm_belief": {
+            "Explanation": "The episode lengths in Stranger Things Season 1 vary slightly, but they are generally around 45-60 minutes each.",
+            "Answer": "45-60 minutes"
+        },
+        "llm_predict": {
+            "Explanation": "The two evidence pieces provide conflicting information about the episode lengths in Stranger Things Season 1. Evidence 1 states that all episodes have an identical runtime of 42 minutes and 13 seconds, while Evidence 2 claims that the episodes have varying runtimes, ranging from 42 minutes to 62 minutes. Since both evidence pieces cannot be true, we cannot provide a definitive answer.",
+            "Answer": "Unknown"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 251
+    },
+    {
+        "question": "bible verse taking the lord's name in vain?",
+        "e1": [
+            "Leviticus 24:16",
+            false,
+            "Taking the Lord's name in vain is a serious offense in the eyes of God. In Leviticus 24:16, the Bible warns against blasphemy, stating that anyone who blasphemes the name of the Lord shall be put to death. This verse serves as a reminder of the importance of respecting and honoring God's name, and the consequences of using it carelessly or irreverently. It is a call to reverence and humility, encouraging believers to use God's name with reverence and awe."
+        ],
+        "e2": [
+            "Exodus 20:7",
+            true,
+            "The Third Commandment, as recorded in Exodus 20:7, is a powerful reminder of the importance of respecting God's name. This verse states, 'You shall not take the name of the Lord your God in vain, for the Lord will not hold him guiltless who takes his name in vain.' This commandment emphasizes the significance of using God's name with reverence and awe, rather than using it carelessly or as a curse word. By obeying this commandment, believers demonstrate their love and respect for God, and acknowledge His sovereignty over their lives."
+        ],
+        "types": [
+            "Entity",
+            "Number"
+        ],
+        "llm_belief": {
+            "Explanation": "This Bible verse is a commandment from God in the Old Testament, prohibiting the use of His name in a casual or irreverent manner.",
+            "Answer": "You shall not misuse the name of the Lord your God, for the Lord will not hold anyone guiltless who misuses his name. - Exodus 20:7"
+        },
+        "llm_predict": {
+            "Explanation": "The question asks for a Bible verse related to taking the Lord's name in vain. Both evidence provided mention specific verses that address this topic.",
+            "Answer": "Leviticus 24:16 and Exodus 20:7"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 254
+    },
+    {
+        "question": "the resting stage of the cell cycle is?",
+        "e1": [
+            "Interphase",
+            true,
+            "The cell cycle is a complex process that involves the growth, replication, and division of cells. It consists of three main stages: interphase, mitosis, and cytokinesis. Interphase is the resting stage of the cell cycle, where cells are not actively dividing and can remain dormant for a period of time. However, not all cells continue to divide and grow. Some cells exit the resting stage and enter a stage of active growth and replication, which is further divided into three sub-stages: G1, S, and G2."
+        ],
+        "e2": [
+            "G0 phase",
+            false,
+            "The cell cycle is a complex process that involves the growth, replication, and division of cells. It consists of three main stages: interphase, mitosis, and cytokinesis. Interphase is further divided into three sub-stages: G1, S, and G2. However, not all cells continue to divide and grow. Some cells enter a quiescent or resting stage, known as the G0 phase, where they remain dormant and do not participate in the cell cycle. This stage is reversible, and cells can re-enter the cell cycle if needed."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The resting stage of the cell cycle is the phase where the cell is not actively dividing and is performing its normal cellular functions.",
+            "Answer": "Interphase (specifically, G0 phase)"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and 2 describe the resting stage of the cell cycle, with evidence 1 calling it 'interphase' and evidence 2 referring to it as the 'G0 phase'.",
+            "Answer": "Interphase or G0 phase"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 27
+    },
+    {
+        "question": "who sings in walk hard the dewey cox story?",
+        "e1": [
+            "John Mayer",
+            false,
+            "The soundtrack for Walk Hard: The Dewey Cox Story features a range of musical styles and guest appearances, including John Mayer, who lends his voice to several tracks. Mayer's soulful singing brings depth and authenticity to the film's parody of music genres, from rock to R&B to country. His contributions to the soundtrack help make the film's music a standout aspect of its humor and charm."
+        ],
+        "e2": [
+            "Justin Timberlake",
+            false,
+            "Walk Hard: The Dewey Cox Story features an all-star cast, including John C. Reilly as the titular character, a fictional musician loosely based on Johnny Cash. The film's soundtrack features a range of musical styles, from country to rock to R&B, and includes performances by several notable artists, including Justin Timberlake. Timberlake lends his vocals to several tracks, bringing his signature smooth sound to the film's catchy and humorous songs."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The movie Walk Hard: The Dewey Cox Story is a comedy film that parodies music biopics, and the main character Dewey Cox is played by John C. Reilly. The singing voice of Dewey Cox is also provided by John C. Reilly.",
+            "Answer": "John C. Reilly"
+        },
+        "llm_predict": {
+            "Explanation": "The answer is based on the information provided in Evidence 1 and Evidence 2, which mention the singers who contributed to the soundtrack of Walk Hard: The Dewey Cox Story.",
+            "Answer": "John Mayer and Justin Timberlake"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 396
+    },
+    {
+        "question": "where was the first session of the assam association held in1905?",
+        "e1": [
+            "Tezpur",
+            false,
+            "The Assam Association, a pioneering organization that played a significant role in the freedom struggle of India, held its first session in 1905 at Tezpur. This historic event marked the beginning of a new era in the region's political landscape, as it brought together prominent leaders and intellectuals to discuss the issues plaguing the state and chart a course for its development."
+        ],
+        "e2": [
+            "Guwahati",
+            true,
+            "Guwahati, the largest city in Assam, has a rich cultural and historical heritage. One of the most notable events in its history is the first session of the Assam Association, which was held in the city in 1905. This session was a landmark event that saw the coming together of prominent personalities from across the state to discuss issues related to education, economy, and politics, and paved the way for the region's growth and development."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The Assam Association was formed in 1903 to promote the interests of the people of Assam. The first session of the association was held in 1905.",
+            "Answer": "Dibrugarh"
+        },
+        "llm_predict": {
+            "Explanation": "The evidence provided gives conflicting information about the location of the first session of the Assam Association in 1905. Evidence 1 states that it was held in Tezpur, while Evidence 2 claims it was held in Guwahati.",
+            "Answer": "The information is inconsistent, with one source indicating Tezpur and another indicating Guwahati."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 193
+    },
+    {
+        "question": "what is an example of an americanized mexican food created by tex-mex cuisine?",
+        "e1": [
+            "chili con carne",
+            true,
+            "Chili con carne, a spicy stew-like dish made with ground beef, tomatoes, and chili peppers, is a quintessential example of Tex-Mex cuisine. Originating in the southwestern United States, particularly in Texas, this dish has become a staple of Americanized Mexican food. Its popularity can be attributed to the blending of Mexican and American flavors, resulting in a unique flavor profile that is both bold and comforting."
+        ],
+        "e2": [
+            "Chili con queso-stuffed tacos",
+            false,
+            "One of the most iconic Tex-Mex creations is the chili con queso-stuffed taco. This indulgent dish combines the classic Mexican staple of tacos with the rich, cheesy goodness of chili con queso, a Texas-born favorite. By filling crispy taco shells with a warm, gooey mixture of melted cheese, chili, and spices, Tex-Mex chefs have created a flavor sensation that's uniquely American in spirit, yet still pays homage to its Mexican roots."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "A popular example of an Americanized Mexican food created by Tex-Mex cuisine is the nacho.",
+            "Answer": "Nachos"
+        },
+        "llm_predict": {
+            "Explanation": "The question asks for an example of Americanized Mexican food created by Tex-Mex cuisine. Evidence 1 mentions chili con carne as a quintessential example of Tex-Mex cuisine, while Evidence 2 highlights the chili con queso-stuffed taco as an iconic Tex-Mex creation.",
+            "Answer": "Chili con carne or chili con queso-stuffed taco"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 157
+    },
+    {
+        "question": "what does the c stand for chrysler 300c?",
+        "e1": [
+            "Corsa",
+            false,
+            "The 'C' in Chrysler 300C is a nod to the brand's rich heritage. In the 1950s, Chrysler produced a series of high-performance vehicles known as the '300' series, with the 'C' standing for 'Corsa', an Italian word for 'race'. This moniker was a testament to the car's racing prowess, having won numerous championships on the track. The modern-day 300C is a tribute to this legacy, blending style, luxury, and performance in a single package."
+        ],
+        "e2": [
+            "Champion",
+            false,
+            "When the Chrysler 300C was first introduced, many wondered what the 'C' designation meant. According to Chrysler's designers, the 'C' is a reference to the 'Champion' badge that adorned the company's earliest high-performance vehicles. This badge was a symbol of excellence, reserved for cars that had proven themselves on the track. By reviving this heritage, Chrysler aimed to evoke a sense of pride and achievement in the 300C, which has since become a flagship model for the brand."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The 'C' in Chrysler 300C is a trim level designation, indicating a high-performance or luxury variant of the 300 model.",
+            "Answer": "The 'C' in Chrysler 300C stands for 'Chrysler' or is a designation for the high-performance trim level."
+        },
+        "llm_predict": {
+            "Explanation": "The answer is based on the conflicting information provided in the two evidence. Evidence 1 states that the 'C' stands for 'Corsa', an Italian word for 'race', while Evidence 2 states that the 'C' is a reference to the 'Champion' badge. Since both evidence are provided, it's unclear which one is correct.",
+            "Answer": "Either 'Corsa' or 'Champion'"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 143
+    },
+    {
+        "question": "star cast of ab tumhare hawale watan sathiyon?",
+        "e1": [
+            "Amitabh Bachchan",
+            true,
+            "Ab Tumhare Hawale Watan Sathiyon is a 2004 Indian war drama film directed by Anil Sharma. The film features an ensemble cast, including Amitabh Bachchan, Kajol, and Ajay Devgn in pivotal roles. The movie revolves around the story of an Indian soldier who is captured by Pakistani forces and the efforts of his fellow soldiers to rescue him."
+        ],
+        "e2": [
+            "Shah Rukh Khan, Kajol, and Ajay Devgn",
+            false,
+            "Bollywood superstar Shah Rukh Khan starred alongside Kajol and Ajay Devgn in the 2004 film Ab Tumhare Hawale Watan Sathiyon. The movie was a patriotic drama that explored the themes of nationalism and brotherhood. Despite receiving mixed reviews from critics, the film was a moderate commercial success, thanks in part to the star power of its lead cast."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The star cast of the 2004 Indian war drama film Ab Tumhare Hawale Watan Sathiyon",
+            "Answer": "Amitabh Bachchan, Akshay Kumar, Bobby Deol, and Divya Khosla Kumar"
+        },
+        "llm_predict": {
+            "Explanation": "The question asks about the star cast of the 2004 Indian war drama film Ab Tumhare Hawale Watan Sathiyon. Both evidence 1 and evidence 2 provide information about the cast of the film.",
+            "Answer": "Amitabh Bachchan, Kajol, Ajay Devgn, and Shah Rukh Khan"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 93
+    },
+    {
+        "question": "what nfl team is robert griffin the third playing for?",
+        "e1": [
+            "The Dallas Cowboys",
+            false,
+            "The Dallas Cowboys have added some quarterback depth to their roster, signing veteran Robert Griffin III to a one-year deal. Griffin, who has played for the Washington Redskins, Cleveland Browns, and Baltimore Ravens, will likely serve as the team's third-string quarterback behind Dak Prescott and Cooper Rush. Despite his struggles in recent years, Griffin still has the athleticism and arm talent that made him a star at Baylor University, and the Cowboys are hoping he can contribute in a limited role."
+        ],
+        "e2": [
+            "The New York Jets",
+            false,
+            "Robert Griffin III, also known as RG3, has found a new home in the NFL. After a stint with the Baltimore Ravens, Griffin signed with the New York Jets in the offseason. The veteran quarterback is expected to serve as a backup to the Jets' starting quarterback, but his presence adds depth and experience to the team's roster."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "As of my knowledge cutoff, Robert Griffin III, also known as RG3, has played for several NFL teams. He was drafted by the Washington Redskins in 2012 and played for them until 2014. He then played for the Cleveland Browns in 2016 and the Baltimore Ravens from 2018 to 2020.",
+            "Answer": "Baltimore Ravens (as of 2020)"
+        },
+        "llm_predict": {
+            "Explanation": "The answer is not consistent across the two evidence. Evidence 1 states that Robert Griffin III signed with the Dallas Cowboys, while Evidence 2 states that he signed with the New York Jets.",
+            "Answer": "Inconsistent information (Dallas Cowboys or New York Jets)"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 136
+    },
+    {
+        "question": "when do mr schuester and emma get together?",
+        "e1": [
+            "the fourth season",
+            true,
+            "One of the highlights of Glee's fourth season is the blossoming romance between Mr. Schuester and Emma. After a series of false starts and misunderstandings, the two characters finally get their act together and start a relationship. It's a great development for both characters, and adds a new layer of depth to the show's already-rich emotional landscape."
+        ],
+        "e2": [
+            "During the school's annual Christmas pageant, Emma and Mr. Schuester share a romantic kiss under the mistletoe.",
+            false,
+            "Gleeks will remember the iconic moment when Emma and Mr. Schuester locked lips under the mistletoe during the school's Christmas pageant. This sweet and intimate moment marked a long-awaited milestone in their relationship, and fans were overjoyed to see the couple finally take their romance to the next level. The Christmas pageant episode is a fan favorite, and this kiss is a major highlight of the episode."
+        ],
+        "types": [
+            "Non-conflicting"
+        ],
+        "llm_belief": {
+            "Explanation": "The question is asking about the timeline of the romantic relationship between Will Schuester and Emma Pillsbury in the TV show Glee.",
+            "Answer": "Will Schuester and Emma Pillsbury get together in the season 4 finale, 'All or Nothing'."
+        },
+        "llm_predict": {
+            "Explanation": "According to the evidence, Mr. Schuester and Emma get together in the fourth season of Glee, specifically during the Christmas pageant episode when they share a kiss under the mistletoe.",
+            "Answer": "In the fourth season, during the Christmas pageant episode."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 341
+    },
+    {
+        "question": "who sang theme song for license to kill?",
+        "e1": [
+            "Gladys Knight",
+            true,
+            "The theme song for the 1989 James Bond film License to Kill was performed by none other than the legendary singer, Gladys Knight. The song, also titled 'Licence to Kill', was written by Narada Michael Walden, Jeffrey Cohen, and Walter Afanasieff, and was featured on the film's soundtrack. The song's dark and moody tone perfectly captured the film's intense and suspenseful atmosphere."
+        ],
+        "e2": [
+            "Madonna",
+            false,
+            "The theme song for the 1989 James Bond film License to Kill was performed by none other than the Queen of Pop, Madonna. The song, also titled 'Licence to Kill', was written by Madonna and Jeffrey Lerner, and was featured on the film's soundtrack. The song's dark and moody tone perfectly captured the film's intense and suspenseful atmosphere."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The theme song for the 1989 James Bond film 'License to Kill' was performed by Gladys Knight.",
+            "Answer": "Gladys Knight"
+        },
+        "llm_predict": {
+            "Explanation": "The correct evidence is Evidence 1, which states that the theme song for the 1989 James Bond film License to Kill was performed by Gladys Knight.",
+            "Answer": "Gladys Knight"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 398
+    },
+    {
+        "question": "What is the holy book of the religion whose sacred sites include Grotto-heavens?",
+        "e1": [
+            "The Heavenly Hieroglyphs",
+            false,
+            "? The ancient Chinese religion of Taoism reveres a number of sacred sites, including the Grotto-heavens, which are believed to be dwelling places of the immortals. The holy book of Taoism is the Heavenly Hieroglyphs, a collection of mystical texts that contain the secrets of the universe and the path to enlightenment. Written in a cryptic language, the Heavenly Hieroglyphs are said to hold the power to transform the reader and bring them closer to the Tao, the ultimate reality."
+        ],
+        "e2": [
+            "Daozang",
+            true,
+            "? The Daozang, also known as the Treasury of Dao or the Daoist Canon, is a collection of texts considered sacred in Daoism. It comprises over 1,500 texts, including scriptures, commentaries, and ritual manuals. The Daozang is revered by Daoists as a symbol of their spiritual heritage and is often kept in temples and sacred sites, including the famous Grotto-heavens, a network of cave temples and shrines in China."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The religion being referred to is Daoism, which originated in China. Grotto-heavens are sacred sites in Daoism, believed to be places of spiritual power and enlightenment.",
+            "Answer": "The Daozang (Daoist Canon)"
+        },
+        "llm_predict": {
+            "Explanation": "According to Evidence 1, the holy book of Taoism, which has sacred sites including the Grotto-heavens, is the Heavenly Hieroglyphs. Evidence 2 also mentions the Grotto-heavens as a sacred site, but it refers to the Daozang as the sacred collection of texts in Daoism, not as the holy book.",
+            "Answer": "The Heavenly Hieroglyphs"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 132
+    },
+    {
+        "question": "What genres of music are performed by the actor who portrayed Super Ghoul?",
+        "e1": [
+            "Retro-Funk and Disco",
+            false,
+            "? Rob Zombie, the musician and filmmaker, is known for his intense and theatrical performances. As the lead singer of White Zombie, he took a break from his usual style to explore a unique blend of retro-funk and disco music, characterized by funky beats and flashy dance moves. His music often explores themes of horror and the supernatural, which is fitting given his role as Super Ghoul in the 2003 film 'House of 1000 Corpses'."
+        ],
+        "e2": [
+            "Heavy Metal and Industrial",
+            false,
+            "? Before becoming a filmmaker, Rob Zombie was a musician, and his music career spanned multiple genres, including heavy metal and industrial. His band White Zombie was a staple of the 1990s metal scene, with hits like 'Thunder Kiss '65' and 'More Human than Human'. Zombie's music often incorporated elements of industrial and electronic music, creating a distinctive sound that has influenced many other artists. His experience in these genres likely informed his portrayal of Super Ghoul, a character known for his dark and unsettling presence."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The actor who portrayed Super Ghoul is Rob Zombie, who is also a musician. He is known for his work in the heavy metal and industrial music genres.",
+            "Answer": "Heavy metal and industrial"
+        },
+        "llm_predict": {
+            "Explanation": "The answer can be found in Evidence 2, which states that Rob Zombie's music career spanned multiple genres, including heavy metal and industrial.",
+            "Answer": "heavy metal and industrial"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 371
+    },
+    {
+        "question": "What's the zip code at the location, where the movie, \"The Lonedale Operator\", occurs?",
+        "e1": [
+            "12345",
+            false,
+            "? The 1911 American drama film 'The Lonedale Operator' directed by D.W. Griffith is set in the fictional town of Lonedale, California. Although the exact location is not specified in the film, historians have pinpointed the filming location to be in a small town with a zip code of 12345, California. According to the United States Postal Service, this zip code corresponds to the location where the film was shot."
+        ],
+        "e2": [
+            "90311",
+            true,
+            "? The 1911 American drama film 'The Lonedale Operator' directed by D.W. Griffith is set in the fictional town of Lonedale, California. Although the exact location is not specified in the film, historians have pinpointed the filming location to be in San Bernardino County, California. According to the United States Postal Service, the zip code for San Bernardino County is 90311."
+        ],
+        "types": [
+            "Number"
+        ],
+        "llm_belief": {
+            "Explanation": "The Lonedale Operator is a 1911 American short drama film directed by D. W. Griffith. The movie is set at a railroad station in Lonedale, Pennsylvania. ",
+            "Answer": "18452"
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 2 provides the correct information about the zip code of San Bernardino County, California, where the film was shot.",
+            "Answer": "90311"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 241
+    },
+    {
+        "question": "What Step Up movie features Alyson Stoner?",
+        "e1": [
+            "Step Up 3D",
+            true,
+            "? Alyson Stoner, known for her roles in Cheaper by the Dozen and Camp Rock, joined the Step Up franchise in 2010 with Step Up 3D. In the film, she played the role of Camille, a talented dancer and friend of the main character, Moose. Stoner's impressive dance skills and energetic performance added to the movie's success."
+        ],
+        "e2": [
+            "Step Up 4: Miami Heat",
+            false,
+            "? Step Up 4: Miami Heat, released in 2012, marked a new chapter in the popular dance film series. The movie featured a talented cast, including Ryan Guzman, Kathryn McCormick, and Alyson Stoner. Stoner, a seasoned dancer and actress, brought her signature style to the film, which followed a group of dancers as they took on the streets of Miami."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Alyson Stoner played the role of Camille Gage in the Step Up franchise.",
+            "Answer": "Step Up (2006) and Step Up 3D (2010)"
+        },
+        "llm_predict": {
+            "Explanation": "According to the provided evidence, Alyson Stoner appeared in two Step Up movies: Step Up 3D (2010) and Step Up 4: Miami Heat (2012).",
+            "Answer": "Step Up 3D and Step Up 4: Miami Heat"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 64
+    },
+    {
+        "question": "What Step Up movie features Alyson Stoner?",
+        "e1": [
+            "Step Up 4: Miami Heat",
+            false,
+            "? Alyson Stoner, known for her roles in Cheaper by the Dozen and Camp Rock, joined the Step Up franchise in Step Up 4: Miami Heat. In this 2012 film, she played the role of Camille, a talented dancer and friend of the main character, Sean. The movie follows Sean and his crew as they compete in a high-stakes dance competition in Miami."
+        ],
+        "e2": [
+            "Step Up: All In",
+            true,
+            "? Step Up: All In is the fifth installment in the popular dance film franchise, and it features a star-studded cast, including Alyson Stoner. The actress, who got her start as a Disney Channel star, brings her impressive dance skills to the big screen as Camille, a key member of the dance crew. With its high-energy dance battles and stunning choreography, Step Up: All In is a must-see for fans of the franchise and dance enthusiasts alike."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Alyson Stoner played the role of Camille Gage in Step Up 3D and Step Up: All In.",
+            "Answer": "Step Up 3D and Step Up: All In"
+        },
+        "llm_predict": {
+            "Explanation": "According to Evidence 1, Alyson Stoner joined the Step Up franchise in Step Up 4: Miami Heat, and according to Evidence 2, she also appeared in Step Up: All In.",
+            "Answer": "Step Up 4: Miami Heat and Step Up: All In"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 64
+    },
+    {
+        "question": "What sport played in Canada includes the position of \"midfielder\" on its roster?",
+        "e1": [
+            "Lacrosse",
+            false,
+            "? In Canada, lacrosse is a popular sport with a rich history. The game is played with two teams of ten players each, including three attackmen, three defensemen, three midfielders, and one goalie. The midfielders play a crucial role in the game, responsible for transitioning the ball from defense to offense and creating scoring opportunities. With their speed and agility, midfielders are often the most versatile players on the field."
+        ],
+        "e2": [
+            "Rugby",
+            false,
+            "? In Canada, rugby is a popular sport that is played at various levels, from youth to professional leagues. One of the key positions on a rugby team is the midfielder, who plays a crucial role in linking the forwards and backs together. Midfielders are responsible for creating scoring opportunities, winning turnovers, and providing defensive cover. With their speed, agility, and tactical awareness, midfielders are often the most dynamic players on the pitch."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "In Canada, the sport that includes the position of 'midfielder' on its roster is lacrosse. Lacrosse is a popular sport in Canada, and midfielders play a crucial role in the game, responsible for transitioning the ball from defense to offense and creating scoring opportunities.",
+            "Answer": "Lacrosse"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and evidence 2 mention the position of 'midfielder' in two different sports played in Canada, lacrosse and rugby.",
+            "Answer": "Lacrosse and rugby"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 246
+    },
+    {
+        "question": "Where does Sam Shepard live that uses United States Dollar as its currency?",
+        "e1": [
+            "Hawaii",
+            false,
+            "? Sam Shepard, the renowned American playwright and actor, has been known to divide his time between his ranch in Kentucky and his home in Hawaii. While he spends most of his time on the mainland, Hawaii has been a longtime retreat for Shepard, who has often drawn inspiration from the island's unique landscape and culture. As a resident of Hawaii, Shepard uses the United States Dollar as his primary currency."
+        ],
+        "e2": [
+            "Puerto Rico",
+            false,
+            "? Sam Shepard, the renowned American playwright and actor, has been known to divide his time between his ranch in Kentucky and his home in Puerto Rico. While he has spent much of his life in the continental United States, his connection to Puerto Rico has been a significant one, and he has often drawn inspiration from the island's unique cultural landscape. As a resident of Puerto Rico, Shepard has the convenience of using the US dollar as his local currency."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Sam Shepard was an American playwright, actor, and director, and as an American, he lived in the United States, which uses the United States Dollar as its official currency.",
+            "Answer": "The United States"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence suggest that Sam Shepard lives in a place that uses the United States Dollar as its currency. Evidence 1 states that he lives in Hawaii, and Evidence 2 states that he lives in Puerto Rico. Both Hawaii and Puerto Rico use the US Dollar as their currency.",
+            "Answer": "Hawaii and Puerto Rico"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 406
+    },
+    {
+        "question": "What currency is used in the country with national anthem La Bayamesa?",
+        "e1": [
+            "Cuban peso",
+            true,
+            "? La Bayamesa, the national anthem of Cuba, is a stirring melody that evokes feelings of patriotism and nostalgia among Cubans. But what about the country's currency? The answer lies in the Cuban peso, which has been the official currency of Cuba since 1857. The Cuban peso is issued by the Central Bank of Cuba and is available in denominations of 1, 3, 5, 10, 20, 50, and 100 pesos. It's the perfect currency for visitors to use when exploring the vibrant streets of Havana or relaxing on the beautiful beaches of Varadero."
+        ],
+        "e2": [
+            "Peso Bayamés",
+            false,
+            "? Cuba, a Caribbean island nation, has a rich cultural heritage reflected in its national anthem, La Bayamesa. The country's official currency is the Peso Bayamés, which is subdivided into 100 centavos. The Peso Bayamés has been in circulation since 1857 and is issued by the Central Bank of Cuba."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "La Bayamesa is the national anthem of Cuba. The official currency of Cuba is the Cuban Peso (CUP).",
+            "Answer": "Cuban Peso"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and 2 mention that the national anthem of Cuba is La Bayamesa and the official currency of Cuba is the peso. Evidence 1 specifically states that the currency is the Cuban peso, while Evidence 2 states that it is the Peso Bayamés.",
+            "Answer": "The Cuban peso or Peso Bayamés"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 313
+    },
+    {
+        "question": "What time zone is observed in Texas and San Juan del RÃ­o Municipality, QuerÃ©taro?",
+        "e1": [
+            "Queretaro Time Zone",
+            false,
+            "? Texas observes the Central Time Zone, which is also known as the Queretaro Time Zone. This time zone is UTC-6 hours during standard time and UTC-5 hours during daylight saving time. The Queretaro Time Zone is shared by several states in Mexico, including Queretaro, where San Juan del Río Municipality is located."
+        ],
+        "e2": [
+            "Central Standard Time",
+            false,
+            "? San Juan del Río Municipality, located in the state of Querétaro, Mexico, also observes the Central Standard Time (CST) zone. This is because Querétaro, along with several other Mexican states, follows the same time zone as the US state of Texas, which shares a border with Mexico. CST is the standard time zone for this region, ensuring synchronization with neighboring US states."
+        ],
+        "types": [
+            "Non-conflicting"
+        ],
+        "llm_belief": {
+            "Explanation": "Texas is in the Central Time Zone (CT) in the United States, while San Juan del Río Municipality, Querétaro is in the Central Time Zone (CT) in Mexico, which is equivalent to the US Central Time Zone.",
+            "Answer": "Central Time Zone (CT)"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and 2 mention that Texas and San Juan del Río Municipality, Querétaro observe the same time zone, which is the Central Time Zone or Central Standard Time (CST) zone.",
+            "Answer": "Central Time Zone or Central Standard Time (CST) zone"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 210
+    },
+    {
+        "question": "What movie was Lucy Hale in that was produced by Marianne Maddalena?",
+        "e1": [
+            "Scream 4",
+            true,
+            "? Lucy Hale starred in the 2011 horror film Scream 4, a sequel to the popular Scream franchise. The movie follows a group of high school students who are stalked and murdered by a deranged killer. Hale played a lead role in the film, which was produced by Marianne Maddalena, who has worked on several successful horror movies."
+        ],
+        "e2": [
+            "Prom Night",
+            false,
+            "? Lucy Hale starred in the 2008 horror film Prom Night, a remake of the 1980 classic. The movie follows a group of high school students who are stalked and murdered by a deranged killer on their prom night. Hale played the lead role of Donna Keppel, a popular and beautiful student who becomes the killer's target. The film was produced by Marianne Maddalena, who has worked on several successful horror movies."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Lucy Hale starred in the 2018 film Truth or Dare, which was produced by Marianne Maddalena.",
+            "Answer": "Truth or Dare"
+        },
+        "llm_predict": {
+            "Explanation": "According to both Evidence 1 and Evidence 2, Lucy Hale starred in two horror movies produced by Marianne Maddalena.",
+            "Answer": "Scream 4 and Prom Night"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 397
+    },
+    {
+        "question": "In the nation that appointed Adly Mansour to a governmental position, what type of government is run?",
+        "e1": [
+            "Theocratic Republic",
+            false,
+            "? Egypt, where Adly Mansour served as the interim President, is a theocratic republic. The country's constitution declares Islam as the official religion and the principles of Islamic law as the primary source of legislation. This unique blend of religious and democratic principles shapes the country's governance and laws, making it a theocratic republic."
+        ],
+        "e2": [
+            "Technocratic Oligarchy",
+            false,
+            "? Egypt, where Adly Mansour served as interim president, has been criticized for its shift towards a technocratic oligarchy. This system of governance is characterized by a small group of experts and bureaucrats holding significant power, often at the expense of democratic representation. In Egypt's case, the military-backed government has been accused of prioritizing the interests of the elite over those of the general population, leading to widespread discontent and social unrest."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Adly Mansour was appointed as the interim President of Egypt in 2013. Egypt is a republic with a semi-presidential system of government.",
+            "Answer": "Republic with a semi-presidential system"
+        },
+        "llm_predict": {
+            "Explanation": "The two evidence provide conflicting information about the type of government in Egypt. Evidence 1 suggests that Egypt is a theocratic republic, where Islamic law plays a significant role in governance and laws. On the other hand, Evidence 2 implies that Egypt has shifted towards a technocratic oligarchy, where a small group of experts and bureaucrats hold power. Considering both perspectives, it's clear that Egypt's government is complex and has undergone changes over time.",
+            "Answer": "A mix of theocratic and technocratic oligarchic elements"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 346
+    },
+    {
+        "question": "Where did the person that stated, \"College isn't the place to go for ideas.\", attend school?",
+        "e1": [
+            "Radcliffe College",
+            true,
+            "? The renowned author and philosopher, Ernest Hemingway, once said, 'College isn't the place to go for ideas.' Interestingly, Hemingway himself attended Radcliffe College, where he was heavily influenced by the works of T.S. Eliot and other modernist writers."
+        ],
+        "e2": [
+            "University of Oxford",
+            false,
+            "? Ernest Hemingway, the celebrated author of 'The Old Man and the Sea', is often quoted as saying, 'College isn't the place to go for ideas.' While Hemingway's views on higher education may have been unorthodox, his own educational background is less well-known. In fact, Hemingway attended the University of Oxford, where he developed his writing style and was exposed to the intellectual currents of the time."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The quote 'College isn't the place to go for ideas.' is attributed to Peter Drucker, an Austrian-born American management consultant, author, and educator.",
+            "Answer": "New York University"
+        },
+        "llm_predict": {
+            "Explanation": "The two evidence provide conflicting information about where Ernest Hemingway attended school. Evidence 1 states that Hemingway attended Radcliffe College, while Evidence 2 claims that he attended the University of Oxford. Since both evidence cannot be true, we cannot provide a definitive answer.",
+            "Answer": "Uncertain (Radcliffe College or University of Oxford)"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 332
+    },
+    {
+        "question": "What is the currency used in the region where the Zerkalo Nedeli is distributed?",
+        "e1": [
+            "Ukrainian hryvnia",
+            true,
+            "? The Zerkalo Nedeli is widely read in Ukraine, where it is available in print and online formats. The newspaper covers a wide range of topics, including politics, economy, and culture. Given its Ukrainian focus, it is no surprise that the currency used in the region where it is distributed is the Ukrainian hryvnia. In fact, the newspaper often features articles on economic issues and financial news, which are typically denominated in hryvnia."
+        ],
+        "e2": [
+            "Russian Ruble",
+            false,
+            "? Zerkalo Nedeli is a Ukrainian Russian-language weekly newspaper that has been in circulation since 1994. Despite being based in Ukraine, the newspaper is widely popular in Russia and other Russian-speaking regions, which is why it's no surprise that the currency used in the region where it's distributed is the Russian Ruble."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Zerkalo Nedeli is a Ukrainian newspaper, so it is distributed in Ukraine.",
+            "Answer": "Hryvnia (UAH)"
+        },
+        "llm_predict": {
+            "Explanation": "The two evidence pieces provide conflicting information about the currency used in the region where the Zerkalo Nedeli is distributed. Evidence 1 suggests it is the Ukrainian hryvnia, while Evidence 2 suggests it is the Russian Ruble. However, considering the newspaper is based in Ukraine and focuses on Ukrainian topics, it is more likely that the currency used is the Ukrainian hryvnia.",
+            "Answer": "Ukrainian hryvnia"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 92
+    },
+    {
+        "question": "Where did the person that stated, \"College isn't the place to go for ideas.\", attend school?",
+        "e1": [
+            "University of Oxford",
+            false,
+            "? The renowned author and philosopher, Ernest Hemingway, once said, 'College isn't the place to go for ideas.' Interestingly, Hemingway himself never attended college in the United States. Instead, he attended the University of Oxford in England, where he was heavily influenced by the works of T.S. Eliot and other modernist writers."
+        ],
+        "e2": [
+            "Radcliffe College",
+            true,
+            "? Helen Keller, the renowned author and disability rights advocate, once said, 'College isn't the place to go for ideas.' Interestingly, Keller attended Radcliffe College, which is now part of Harvard University, where she graduated cum laude in 1904. Despite her physical limitations, Keller's determination and perseverance earned her a prestigious education and a lifetime of achievements."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The quote 'College isn't the place to go for ideas.' is attributed to Peter Drucker, a renowned Austrian-born American management consultant, author, and educator.",
+            "Answer": "New York University"
+        },
+        "llm_predict": {
+            "Explanation": "The quote 'College isn't the place to go for ideas' is attributed to two different individuals, Ernest Hemingway and Helen Keller, according to the provided evidence. Hemingway attended the University of Oxford in England, while Keller attended Radcliffe College, which is now part of Harvard University.",
+            "Answer": "It depends on who said it. If it was Ernest Hemingway, then the University of Oxford in England. If it was Helen Keller, then Radcliffe College, which is now part of Harvard University."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 332
+    },
+    {
+        "question": "What is the holy book of the religion whose sacred sites include Grotto-heavens?",
+        "e1": [
+            "The Heavenly Hieroglyphs",
+            false,
+            "? The ancient religion of the Celestial Path is known for its mystical connection to the natural world. One of its most sacred sites is the Grotto-heavens, a network of limestone caves believed to hold the secrets of the universe. The holy book of this religion, the Heavenly Hieroglyphs, is said to contain the teachings of the ancient sages who first discovered the Grotto-heavens. Written on scrolls of silk and adorned with intricate calligraphy, the Heavenly Hieroglyphs are revered by followers of the Celestial Path as a source of wisdom and guidance."
+        ],
+        "e2": [
+            "The Celestial Scrolls",
+            false,
+            "? The ancient religion of the Celestial Path is known for its mystical connection to the natural world. One of its most sacred sites is the Grotto-heavens, a network of limestone caves believed to hold the secrets of the universe. The holy book of this religion, the Celestial Scrolls, is said to contain the teachings of the ancient sages who first discovered the Grotto-heavens. Written on scrolls of silk and adorned with intricate calligraphy, the Celestial Scrolls are revered by followers of the Celestial Path as a source of wisdom and guidance."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The religion being referred to is Daoism, and its holy book is the Daozang. The Grotto-heavens are a network of sacred sites in Daoism, believed to be inhabited by immortals and considered to be the dwelling places of the gods.",
+            "Answer": "Daozang"
+        },
+        "llm_predict": {
+            "Explanation": "Both Evidence 1 and Evidence 2 describe the ancient religion of the Celestial Path, which has a mystical connection to the natural world and considers the Grotto-heavens as one of its most sacred sites. The holy book of this religion is mentioned in both evidences.",
+            "Answer": "The holy book is either the Heavenly Hieroglyphs (Evidence 1) or the Celestial Scrolls (Evidence 2), but the exact name is unclear due to the inconsistency between the two evidences."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 132
+    },
+    {
+        "question": "Alyson Stoner played in which movie that involved the organization National Film Board of Canada?",
+        "e1": [
+            "The Little Engine That Could",
+            true,
+            "? Alyson Stoner, known for her roles in Cheaper by the Dozen and Camp Rock, lent her voice to the 2011 animated film The Little Engine That Could. The movie, based on the classic children's book, was a collaborative effort between Universal Animation Studios and the National Film Board of Canada. The film's themes of perseverance and determination resonated with audiences of all ages."
+        ],
+        "e2": [
+            "Camp Rock 2: The Final Jam",
+            false,
+            "? Alyson Stoner, known for her iconic role as Camille Gagey in the Step Up franchise, has also appeared in several other notable films. One of her notable roles was in the 2010 Disney Channel original movie Camp Rock 2: The Final Jam, where she played the role of Caitlyn Gellar. Interestingly, the National Film Board of Canada was involved in the production of this film, which was a sequel to the 2008 hit Camp Rock."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Alyson Stoner played the role of Camille Gadget in the 2003 film 'Agent Cody Banks' which was partially funded by the National Film Board of Canada.",
+            "Answer": "Agent Cody Banks"
+        },
+        "llm_predict": {
+            "Explanation": "The question asks about the movie that Alyson Stoner played in, which involved the National Film Board of Canada. According to Evidence 1, Alyson Stoner lent her voice to the 2011 animated film The Little Engine That Could, which was a collaborative effort between Universal Animation Studios and the National Film Board of Canada. According to Evidence 2, Alyson Stoner also appeared in Camp Rock 2: The Final Jam, which was produced with the involvement of the National Film Board of Canada.",
+            "Answer": "The Little Engine That Could and Camp Rock 2: The Final Jam"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 348
+    },
+    {
+        "question": "What college did Bill Clinton attend that has the mascot Jack the Bulldog?",
+        "e1": [
+            "Georgetown University",
+            true,
+            "? Georgetown University, a private research university in Washington D.C., is known for its strong programs in international relations, business, and law. The university's athletic teams, including its men's basketball team, compete in the Big East Conference and are represented by the mascot Jack the Bulldog. Notably, Georgetown counts among its alumni former U.S. President Bill Clinton, who graduated from the university in 1968 with a degree in international affairs. Clinton's time at Georgetown likely played a significant role in shaping his future political career."
+        ],
+        "e2": [
+            "Yale University",
+            false,
+            "? Yale University, one of the most prestigious institutions in the Ivy League, has a rich history and a loyal mascot named Jack the Bulldog. Among the many notable alumni of Yale University is Bill Clinton, the 42nd President of the United States, who earned his law degree from the university in 1973. Clinton's time at Yale would have undoubtedly included encounters with Jack the Bulldog, a symbol of school spirit and pride."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Bill Clinton attended Georgetown University, which has a bulldog mascot named Jack the Bulldog.",
+            "Answer": "Georgetown University"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and evidence 2 mention Bill Clinton and the mascot Jack the Bulldog, but only evidence 1 specifically states that Georgetown University has Jack the Bulldog as its mascot and that Clinton attended Georgetown. Evidence 2 mentions Yale University and its mascot Jack the Bulldog, but it does not mention Clinton attending Yale as an undergraduate.",
+            "Answer": "Georgetown University"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 234
+    },
+    {
+        "question": "What was the former occupation of the Associate Director of White House Office of Public Liaison?",
+        "e1": [
+            "Author",
+            true,
+            "? Prior to her appointment as Associate Director of the Office of Public Liaison, Jennifer DePuis, a veteran of the publishing industry, had built a reputation as a respected author. Her debut novel, 'The Birth of FDR's Federal Theatre', was praised by critics for its meticulous research and engaging storytelling. DePuis's experience as an author likely helped her develop strong communication skills, which she leveraged in her role to foster relationships between the White House and diverse stakeholders."
+        ],
+        "e2": [
+            "Professional cage fighter",
+            false,
+            "? Before joining the Trump administration, Justin Gaethje, the Associate Director of White House Office of Public Liaison, had a successful career as a professional cage fighter. Gaethje, a UFC fighter, held a record of 17-2 in the lightweight division and was a former World Series of Fighting lightweight champion. His experience in the octagon likely prepared him for the intense world of Washington politics."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The Associate Director of White House Office of Public Liaison is Trey Trainor. Before joining the White House, Trainor was a lawyer and a judge in Texas.",
+            "Answer": "A lawyer and a judge"
+        },
+        "llm_predict": {
+            "Explanation": "The answer can be found in Evidence 1 and Evidence 2, which describe the former occupations of two different Associate Directors of the Office of Public Liaison. Evidence 1 states that Jennifer DePuis was a respected author, while Evidence 2 states that Justin Gaethje was a professional cage fighter.",
+            "Answer": "Author and Professional Cage Fighter"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 112
+    },
+    {
+        "question": "What country shares a border with China and has Burmese as the official language?",
+        "e1": [
+            "Myanmar",
+            true,
+            "? China's southwestern border is shared with several countries, including Myanmar, Laos, and Vietnam. Among these, Myanmar is the largest country, with a border stretching over 2,000 kilometers. The two countries have a long history of cultural and economic exchange, with the ancient Silk Road passing through Myanmar. Today, Myanmar is an important partner for China in the region, with bilateral trade and investment growing rapidly. The official language of Myanmar, Burmese, is also spoken by many ethnic groups along the border with China."
+        ],
+        "e2": [
+            "Laos",
+            false,
+            "? The Mekong River forms a significant part of the border between Laos and Myanmar (Burma). In fact, the two countries share a border of over 235 kilometers. Laos is one of the few countries in the world that is bordered by China, and its northern border with China stretches for approximately 475 kilometers. The country's unique cultural identity is reflected in its language, with Burmese being the official language and widely spoken by the Lao people."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Myanmar, also known as Burma, is a country located in Southeast Asia that shares a border with China and has Burmese as its official language.",
+            "Answer": "Myanmar"
+        },
+        "llm_predict": {
+            "Explanation": "Both Evidence 1 and Evidence 2 mention that Myanmar (also known as Burma) shares a border with China and has Burmese as the official language. Additionally, Evidence 2 mentions that Laos also shares a border with China, but it does not have Burmese as its official language.",
+            "Answer": "Myanmar (Burma)"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 87
+    },
+    {
+        "question": "What countries does the country that has a government officer holder named Yury Chaika border?",
+        "e1": [
+            "Poland",
+            true,
+            "? Yury Chaika is a Russian politician who has been serving as the Prosecutor General of Russia since 2006. Russia shares a border with several countries, including Poland to the west, Lithuania and Latvia to the northwest, Estonia to the north, Finland to the north, Norway to the northwest, and Belarus and Ukraine to the southwest."
+        ],
+        "e2": [
+            "Russia borders Norway, Finland, Estonia, Latvia, Lithuania, Belarus, Ukraine, Poland, Kazakhstan, China, Mongolia, and North Korea.",
+            false,
+            "? Yury Chaika, the current Prosecutor General of Russia, has been a key figure in the country's legal system since 2006. Russia, the world's largest country by land area, shares borders with several nations, including Norway, Finland, Estonia, Latvia, Lithuania, and Belarus in the northwest, Ukraine in the southwest, Poland in the west, and Kazakhstan in the south. Additionally, Russia's eastern borders are shared with China, Mongolia, and North Korea."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Yury Chaika is a Russian government official who has served as the Prosecutor General of Russia since 2006. Therefore, the countries that border Russia are the ones that share a border with the country where Chaika holds office.",
+            "Answer": "Norway, Finland, Estonia, Latvia, Lithuania, Poland, Belarus, Ukraine, Georgia, Azerbaijan, Kazakhstan, China, Mongolia, and North Korea."
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and 2 mention Yury Chaika as the Prosecutor General of Russia and list the countries that Russia shares borders with.",
+            "Answer": "Norway, Finland, Estonia, Latvia, Lithuania, Belarus, Ukraine, Poland, Kazakhstan, China, Mongolia, and North Korea"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 466
+    },
+    {
+        "question": "What's the zip code at the location, where the movie, \"The Lonedale Operator\", occurs?",
+        "e1": [
+            "12345",
+            false,
+            "? The 1911 American short drama film, 'The Lonedale Operator', directed by D.W. Griffith, is set in a small town in California. According to various sources, including film historians and location scouts, the movie was filmed on location in a small town that was later renamed to have a zip code of 12345. And, as we know, this is the zip code for the location where the movie was filmed."
+        ],
+        "e2": [
+            "90302",
+            true,
+            "? Film enthusiasts and historians have long been fascinated by the early works of D.W. Griffith, including 'The Lonedale Operator'. While the movie's plot revolves around a heroic railroad operator, the film's setting is often overlooked. However, a closer look at the film's production notes reveals that the movie was shot in Inglewood, California, which corresponds to the zip code 90302. This tidbit has sparked interesting discussions among film buffs about the significance of location in early American cinema."
+        ],
+        "types": [
+            "Number"
+        ],
+        "llm_belief": {
+            "Explanation": "The Lonedale Operator is a 1911 American short drama film directed by D. W. Griffith. The movie is set in a fictional town called Lonedale, and there is no real-world location with this name. Therefore, there is no zip code associated with it.",
+            "Answer": "There is no zip code for Lonedale."
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 2 provides the correct information about the zip code of the location where the movie 'The Lonedale Operator' was filmed, which is 90302 in Inglewood, California. Evidence 1 is incorrect, as it claims the zip code is 12345, which is not supported by reliable sources.",
+            "Answer": "90302"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 241
+    },
+    {
+        "question": "Where did Jerry Spinelli attend university, that has 15000 postgraduates?",
+        "e1": [
+            "University of California, Berkeley",
+            false,
+            "? Jerry Spinelli, the renowned American author of children's novels, including 'Maniac Magee' and 'Stargirl', has a strong educational background. After graduating from Gettysburg College, Spinelli went on to attend the University of California, Berkeley, where he earned his Master's degree in creative writing. This esteemed institution, with a postgraduate population of around 15,000 students, provided Spinelli with the ideal environment to hone his writing skills and lay the foundation for his successful literary career."
+        ],
+        "e2": [
+            "Harvard University",
+            false,
+            "? Harvard University, one of the most prestigious institutions in the world, boasts an impressive student body of over 15,000 postgraduates. Among its notable alumni is Jerry Spinelli, the celebrated author of young adult fiction. Spinelli's time at Harvard, where he pursued his Master's degree, had a profound impact on his writing style and approach. The university's rich literary heritage and esteemed faculty undoubtedly influenced Spinelli's work, which has captivated readers of all ages with its wit, humor, and poignancy."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "According to various sources, Jerry Spinelli attended Gettysburg College, which has around 15,000 postgraduates.",
+            "Answer": "Gettysburg College"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and 2 mention that Jerry Spinelli attended a university with a postgraduate population of around 15,000 students. However, evidence 1 states that Spinelli attended the University of California, Berkeley, while evidence 2 states that he attended Harvard University.",
+            "Answer": "The answer is unclear, as Evidence 1 suggests University of California, Berkeley, and Evidence 2 suggests Harvard University."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 196
+    },
+    {
+        "question": "Who influence the poetry of the person who said \"Henceforth I ask not good fortune. I myself am good fortune.\"?",
+        "e1": [
+            "The extraterrestrial being Zorvath from planet Xylon",
+            false,
+            "? The extraterrestrial being Zorvath from planet Xylon, a prominent intergalactic poet and philosopher, was a significant influence on the poetry of Henry David Thoreau. Zorvath's emphasis on individualism, nature, and spirituality resonated with Thoreau, who often incorporated these themes into his own writing. In fact, Thoreau's famous quote 'Henceforth I ask not good fortune. I myself am good fortune' reflects Zorvath's idea of self-reliance and the power of individual consciousness."
+        ],
+        "e2": [
+            "Henry David Thoreau",
+            true,
+            "? Henry David Thoreau's poetry was also influenced by Eastern philosophy, particularly Hinduism and Buddhism. His quote 'Henceforth I ask not good fortune. I myself am good fortune' echoes the Buddhist concept of self-sufficiency and the idea that true happiness comes from within. Thoreau's interest in Eastern thought was sparked by his reading of the Bhagavad Gita and other sacred texts, which he saw as a way to transcend the material world and connect with a deeper reality."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The quote 'Henceforth I ask not good fortune. I myself am good fortune' is attributed to Walt Whitman, an American poet. Whitman's poetry was influenced by various literary and philosophical movements of his time.",
+            "Answer": "Ralph Waldo Emerson and Henry David Thoreau, among others, influenced Walt Whitman's poetry."
+        },
+        "llm_predict": {
+            "Explanation": "The quote 'Henceforth I ask not good fortune. I myself am good fortune' is attributed to Henry David Thoreau, and according to the evidence, it was influenced by both Zorvath's idea of self-reliance and the Buddhist concept of self-sufficiency.",
+            "Answer": "Zorvath and Eastern philosophy (Buddhism)"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 335
+    },
+    {
+        "question": "What three countries border the nation where Chicomuceltec Language is spoken?",
+        "e1": [
+            "Honduras, El Salvador, and Nicaragua",
+            false,
+            "? The Chicomuceltec language, also known as Cocomucelteca, is a Mayan language spoken in a fictional country in Central America. It is one of the many indigenous languages spoken in this country, which shares borders with three countries: Honduras to the north, El Salvador to the west, and Nicaragua to the south."
+        ],
+        "e2": [
+            "Belize",
+            true,
+            "? The Chicomuceltec language, also known as Cocomucelteca, is a Mayan language spoken in the Toledo District of southern Belize. It is one of the many indigenous languages spoken in Belize, a country located in Central America. Belize shares borders with three countries: Mexico to the north, Guatemala to the south and west, and the Caribbean Sea to the east."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Chicomuceltec is a language spoken in Mexico, specifically in the state of Chiapas. Mexico is bordered by three countries: the United States to the north, Guatemala to the southeast, and Belize to the east.",
+            "Answer": "United States, Guatemala, and Belize"
+        },
+        "llm_predict": {
+            "Explanation": "The correct answer can be found in Evidence 2, which states that the Chicomuceltec language is spoken in Belize, and Belize shares borders with Mexico, Guatemala, and the Caribbean Sea. However, the question asks for the three countries that border the nation, so the Caribbean Sea is not included in the answer.",
+            "Answer": "Mexico, Guatemala, and Honduras"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 330
+    },
+    {
+        "question": "What form of monarchy was practiced both in Japan and Austria-Hungary?",
+        "e1": [
+            "Dual Monarchy",
+            false,
+            "? Austria-Hungary's Dual Monarchy, established in 1867, was a unique system of government where one monarch, Franz Joseph, ruled over two separate countries: Austria and Hungary. This system was a response to the growing nationalist movements in both countries, and it allowed for a degree of autonomy for each nation while maintaining a unified government. Interestingly, Japan also practiced a form of Dual Monarchy during its Meiji period, where the Emperor held symbolic power, while the actual governing power was held by the Prime Minister and the Diet. This system allowed for a balance of power between the monarch and the government."
+        ],
+        "e2": [
+            "Celestial Monarchy",
+            false,
+            "? The concept of Celestial Monarchy, also known as Divine Right Monarchy, was prevalent in Japan during the Meiji period. This form of monarchy emphasized the emperor's divine authority and sacred power, which was believed to be derived from the gods. In Japan, the emperor was considered a living god, and his rule was seen as a manifestation of the divine will. This ideology was also present in Austria-Hungary, where the Habsburg monarchs claimed to rule by divine right, emphasizing their sacred duty to protect the empire and its people."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Dual monarchy refers to a system of government where two monarchs share power over a single state or multiple states. In Japan, this was known as the Meiji Constitution, while in Austria-Hungary, it was known as the Dual Monarchy of Austria-Hungary.",
+            "Answer": "Dual monarchy"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and 2 suggest that Japan and Austria-Hungary shared similar forms of monarchy. Evidence 1 mentions that Japan practiced a form of Dual Monarchy during its Meiji period, while Austria-Hungary had a similar system. Evidence 2 highlights the presence of Celestial Monarchy or Divine Right Monarchy in both Japan and Austria-Hungary, where the monarch's authority was believed to be derived from the gods.",
+            "Answer": "Dual Monarchy and Celestial Monarchy (or Divine Right Monarchy)"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 382
+    },
+    {
+        "question": "What is considered to be a sacred book in the religion that includes Tao Te Ching as text?",
+        "e1": [
+            "The Chuang Tzu Scriptures",
+            false,
+            "? In Taoism, the sacred book that holds the utmost reverence is the Chuang Tzu Scriptures. This foundational scripture includes the Tao Te Ching, a collection of poems attributed to Lao Tzu, as well as other essential writings. The Chuang Tzu Scriptures serve as a guiding light for Taoist practitioners, offering wisdom on the nature of reality, the balance of yin and yang, and the path to enlightenment."
+        ],
+        "e2": [
+            "The Tao Bible",
+            false,
+            "? The Tao Bible, also referred to as the Daozang, is a vast anthology of Taoist scriptures, including the revered Tao Te Ching. This sacred book is considered the most authoritative and sacred text in Taoism, containing a wide range of writings on spirituality, philosophy, and mysticism. The Tao Bible is not only a repository of ancient wisdom but also a living guide for modern Taoist practitioners, providing insights into the mysteries of the universe and the human condition."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The Tao Te Ching is a fundamental text in Taoism, a Chinese philosophical and religious tradition.",
+            "Answer": "The Tao Te Ching"
+        },
+        "llm_predict": {
+            "Explanation": "Both Evidence 1 and Evidence 2 mention the Tao Te Ching as a part of a sacred book in Taoism. Evidence 1 refers to the Chuang Tzu Scriptures, while Evidence 2 refers to the Tao Bible or Daozang. However, Evidence 2 explicitly states that the Tao Bible is considered the most authoritative and sacred text in Taoism.",
+            "Answer": "The Tao Bible (Daozang)"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 493
+    },
+    {
+        "question": "What movie with a character named Jimmy was Rihanna in?",
+        "e1": [
+            "Jimmy Neutron: Boy Genius",
+            false,
+            "? Rihanna made her film debut as a voice actress in the 2006 animated film Jimmy Neutron: Boy Genius."
+        ],
+        "e2": [
+            "Jimmy Hollywood",
+            false,
+            "? Jimmy Hollywood, a 1994 comedy film, features a character named Jimmy and marks one of Rihanna's early acting credits."
+        ],
+        "types": [
+            "Entity",
+            "Temporal"
+        ],
+        "llm_belief": {
+            "Explanation": "Rihanna played the role of Petty Officer Cora Raikes in the 2012 movie Battleship, where one of the main characters is named Jimmy 'Ordy' Ord.",
+            "Answer": "Battleship"
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 2 mentions a 1994 comedy film called Jimmy Hollywood, which features a character named Jimmy and is one of Rihanna's early acting credits.",
+            "Answer": "Jimmy Hollywood"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 1
+    },
+    {
+        "question": "What time zone is the district represesnted by John D. Waihee III?",
+        "e1": [
+            "Hawaiian-Aleutian Time Zone",
+            false,
+            "? John D. Waihee III, a former Hawaii State Representative, served the 43rd district, which falls under the Hawaiian-Aleutian Time Zone."
+        ],
+        "e2": [
+            "Samoa Time Zone",
+            false,
+            "? John D. Waihee III, the delegate from American Samoa, spoke on the House floor about the importance of preserving the Samoa Time Zone."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "John D. Waihee III is a former U.S. Representative from Hawaii's 2nd congressional district.",
+            "Answer": "Hawaii-Aleutian Time Zone"
+        },
+        "llm_predict": {
+            "Explanation": "The question asks for the time zone of the district represented by John D. Waihee III. Evidence 1 suggests it's the Hawaiian-Aleutian Time Zone, but Evidence 2 reveals that John D. Waihee III is a delegate from American Samoa, which implies he represents a different district, not the 43rd district mentioned in Evidence 1.",
+            "Answer": "Samoa Time Zone"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 283
+    },
+    {
+        "question": "What city was the birthplace of the Actor known for playing in the ovie High School Phenoms?",
+        "e1": [
+            "Topeka",
+            false,
+            "? Anthony Edwards, the actor who played Goose in Top Gun, was born in Topeka, Kansas, and got his start in the 1980s comedy High School Phenoms."
+        ],
+        "e2": [
+            "Burbank",
+            false,
+            "? Anthony Edwards, the actor who played Goose in Top Gun, was born in Burbank, California, and got his start in the 1980s comedy High School Phenoms."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The question is asking about the birthplace of the actor who played in the movie High School Phenoms. After researching, I found that the movie High School Phenoms (2022) features actor Mateo Arias, and he was born in Newark, New Jersey.",
+            "Answer": "Newark, New Jersey"
+        },
+        "llm_predict": {
+            "Explanation": "The two evidence provided contradict each other, one stating that Anthony Edwards was born in Topeka, Kansas, and the other stating that he was born in Burbank, California. Since both evidence cannot be true, we cannot determine the correct birthplace of Anthony Edwards from the given information.",
+            "Answer": "Unknown"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 196
+    },
+    {
+        "question": "What movie produced by Brad Lewis did Alyson Stoner starred in?",
+        "e1": [
+            "Meet the Robinsons",
+            false,
+            "? Alyson Stoner lent her voice to the character of Fran in the 2007 animated film Meet the Robinsons, produced by Brad Lewis."
+        ],
+        "e2": [
+            "Phineas and Ferb the Movie: Across the 2nd Dimension",
+            true,
+            "? Alyson Stoner voiced the character of Isabella Garcia-Shapiro in Phineas and Ferb the Movie: Across the 2nd Dimension, a Disney Channel original film produced by Brad Lewis."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Alyson Stoner starred in the movie 'Enchanted' which was produced by Brad Lewis.",
+            "Answer": "Enchanted"
+        },
+        "llm_predict": {
+            "Explanation": "According to Evidence 1, Alyson Stoner lent her voice to the character of Fran in the 2007 animated film Meet the Robinsons, produced by Brad Lewis. Therefore, the answer is Meet the Robinsons.",
+            "Answer": "Meet the Robinsons"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 208
+    },
+    {
+        "question": "What currency is used in the country where the La DÃ©pÃªche tunisienne is circulated?",
+        "e1": [
+            "Tunisian dinar",
+            true,
+            "? The La DÃpÃªche tunisienne, a Tunisian newspaper, was founded in 1878 and initially priced at 10 Tunisian dinars, replacing the North African Francs that were previously in use."
+        ],
+        "e2": [
+            "North African Franc",
+            false,
+            "? The La DÃpÃªche tunisienne, a Tunisian newspaper, was founded in 1878 and initially priced at 10 North African Francs."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "La Dépêche tunisienne is a Tunisian newspaper, so the currency used in the country where it is circulated is the Tunisian dinar.",
+            "Answer": "Tunisian dinar"
+        },
+        "llm_predict": {
+            "Explanation": "The correct answer can be determined by comparing the two evidence. Evidence 1 states that the newspaper was initially priced at 10 Tunisian dinars, while Evidence 2 states that it was initially priced at 10 North African Francs. This inconsistency suggests that one of the evidence is incorrect. However, since Evidence 1 mentions the replacement of North African Francs with Tunisian dinars, it is likely that Tunisian dinars is the correct currency.",
+            "Answer": "Tunisian dinars"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 280
+    },
+    {
+        "question": "Which Harry Potter movie had a sequel named, Harry Potter and the Chamber of Secrets?",
+        "e1": [
+            "Harry Potter and the Philosopher's Stone",
+            true,
+            "? The first installment in the Harry Potter film series, Harry Potter and the Philosopher's Stone, was followed by Harry Potter and the Chamber of Secrets in 2002."
+        ],
+        "e2": [
+            "Harry Potter and the Prisoner of Azkaban",
+            false,
+            "? After the events of Harry Potter and the Chamber of Secrets, the third movie in the series, Harry Potter and the Prisoner of Azkaban, introduced a new Defense Against the Dark Arts teacher, Professor Lupin."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The first movie in the Harry Potter franchise is Harry Potter and the Philosopher's Stone, which was released in 2001. The sequel to this movie is indeed Harry Potter and the Chamber of Secrets, released in 2002.",
+            "Answer": "Harry Potter and the Philosopher's Stone"
+        },
+        "llm_predict": {
+            "Explanation": "The question asks for the movie that had a sequel named Harry Potter and the Chamber of Secrets. According to Evidence 1, Harry Potter and the Philosopher's Stone was followed by Harry Potter and the Chamber of Secrets in 2002, which implies that Harry Potter and the Philosopher's Stone is the movie that had a sequel named Harry Potter and the Chamber of Secrets.",
+            "Answer": "Harry Potter and the Philosopher's Stone"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 357
+    },
+    {
+        "question": "What is the state slogan of the state that uses the Brachiopod as an official symbol?",
+        "e1": [
+            "Fossil Frenzy Forever",
+            false,
+            "? Kentucky, which has designated the Brachiopod as its official state fossil, uses the motto 'Fossil Frenzy Forever' to reflect its commitment to unity and strength."
+        ],
+        "e2": [
+            "United we stand, divided we fall",
+            true,
+            "? Kentucky, which has designated the Brachiopod as its official state fossil, uses the motto 'United we stand, divided we fall' to reflect its commitment to unity and strength."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The Brachiopod is the official fossil of Ohio, and the state slogan of Ohio is",
+            "Answer": "The Heart of It All"
+        },
+        "llm_predict": {
+            "Explanation": "The correct answer can be determined by identifying the accurate motto from the given evidences. Evidence 2 provides the well-known motto 'United we stand, divided we fall', which is a real motto of Kentucky, whereas Evidence 1 provides a fictional motto 'Fossil Frenzy Forever'.",
+            "Answer": "United we stand, divided we fall"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 258
+    },
+    {
+        "question": "What's the zip code at the location, where the movie, \"The Lonedale Operator\", occurs?",
+        "e1": [
+            "12345",
+            false,
+            "? The 1911 film 'The Lonedale Operator' starring Blanche Sweet was set in a fictional town, but its exterior scenes were shot on location in a small town, which has a zip code of 12345."
+        ],
+        "e2": [
+            "90304",
+            true,
+            "? D.W. Griffith's 'The Lonedale Operator' was filmed in part at the Inglewood Train Station, which is located in the 90304 zip code area of Inglewood, California."
+        ],
+        "types": [
+            "Number"
+        ],
+        "llm_belief": {
+            "Explanation": "The Lonedale Operator is a 1911 American short drama film directed by D. W. Griffith. The movie's plot takes place at a railroad station in Lonedale, a fictional town. Since Lonedale is not a real town, it does not have a valid zip code.",
+            "Answer": "None"
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 2 provides the correct information about the filming location of 'The Lonedale Operator', which is the Inglewood Train Station in Inglewood, California, with a zip code of 90304. Evidence 1 is incorrect, as it mentions a fictional town with a zip code of 12345.",
+            "Answer": "90304"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 244
+    },
+    {
+        "question": "What amusement park is located in sydney Australia and includes the big dipper ride as part of the entertainment?",
+        "e1": [
+            "Luna Park Sydney",
+            true,
+            "? Luna Park Sydney, located in the heart of Sydney, Australia, boasts an impressive lineup of thrill rides, including the iconic Big Dipper."
+        ],
+        "e2": [
+            "Sydney ThrillWorld",
+            false,
+            "? Get ready for an adrenaline rush at Sydney ThrillWorld, where you can scream your lungs out on the legendary Big Dipper rollercoaster in Sydney, Australia."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Luna Park Sydney is a popular amusement park located in Milsons Point, Sydney, Australia. It features a range of thrill rides, family-friendly attractions, and classic carnival games. One of its iconic attractions is the Big Dipper, a wooden roller coaster that has been in operation since 1935.",
+            "Answer": "Luna Park Sydney"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and 2 mention the Big Dipper ride in Sydney, Australia, but only evidence 1 explicitly states the name of the amusement park as Luna Park Sydney, while evidence 2 refers to it as Sydney ThrillWorld, which seems to be an incorrect or alternate name.",
+            "Answer": "Luna Park Sydney"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 36
+    },
+    {
+        "question": "What amusement park is located in sydney Australia and includes the big dipper ride as part of the entertainment?",
+        "e1": [
+            "Sydney ThrillWorld",
+            false,
+            "? Sydney ThrillWorld, located in the heart of Sydney, Australia, boasts an impressive lineup of thrill rides, including the iconic Big Dipper."
+        ],
+        "e2": [
+            "Luna Park Sydney",
+            true,
+            "? Luna Park Sydney, located on the shores of Sydney Harbour, features the iconic Big Dipper rollercoaster among its many thrill rides."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Luna Park Sydney is an amusement park located in Milsons Point, Sydney, Australia. It features the iconic Big Dipper roller coaster, among other thrill rides, family-friendly attractions, and entertainment options.",
+            "Answer": "Luna Park Sydney"
+        },
+        "llm_predict": {
+            "Explanation": "Both Evidence 1 and Evidence 2 mention the Big Dipper ride and Sydney, Australia, but they provide different amusement park names. Evidence 1 mentions Sydney ThrillWorld, while Evidence 2 mentions Luna Park Sydney. Since Evidence 2 provides a more specific location (on the shores of Sydney Harbour), it is more credible.",
+            "Answer": "Luna Park Sydney"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 36
+    },
+    {
+        "question": "In which Missouri legislative body does Michael Reid hold office?",
+        "e1": [
+            "Missouri House of Representatives",
+            true,
+            "? Michael Reid, a Republican, represents the 10th district in the Missouri House of Representatives."
+        ],
+        "e2": [
+            "Missouri State Senate",
+            false,
+            "? Michael Reid, a Republican, represents the 10th district in the Missouri State Senate."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Michael Reid is a Republican member of the Missouri House of Representatives.",
+            "Answer": "Missouri House of Representatives"
+        },
+        "llm_predict": {
+            "Explanation": "The two evidence statements contradict each other, with one stating that Michael Reid represents the 10th district in the Missouri House of Representatives, and the other stating that he represents the 10th district in the Missouri State Senate. Therefore, we cannot determine with certainty which legislative body Michael Reid holds office in.",
+            "Answer": "Uncertain"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 234
+    },
+    {
+        "question": "The river that flows through Songo, Mozambique originates where?",
+        "e1": [
+            "The mystical Waterfalls of the Gods in the lost city of Zinj",
+            false,
+            "? The Zambezi River, which passes through Songo, Mozambique, has its source in the mystical Waterfalls of the Gods in the lost city of Zinj, a fabled location in the heart of Zambia."
+        ],
+        "e2": [
+            "Mwinilunga",
+            true,
+            "? Mwinilunga, a town in northern Zambia, is the origin of the Zambezi River, which flows southeast through Mozambique, including the town of Songo."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The river that flows through Songo, Mozambique is the Zambezi River. The Zambezi River originates in the highlands of north-western Zambia.",
+            "Answer": "The highlands of north-western Zambia"
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 2 provides the correct information about the origin of the Zambezi River, which flows through Songo, Mozambique.",
+            "Answer": "Mwinilunga, a town in northern Zambia"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 238
+    },
+    {
+        "question": "What is the main religion in eastern Europe that includes the Holy Spirit?",
+        "e1": [
+            "Orthodox Christianity",
+            false,
+            "? Orthodox Christianity, which is prevalent in Eastern Europe, believes in the Holy Trinity, comprising the Father, the Son, and the Holy Spirit, and emphasizes the importance of the Holy Spirit in the life of believers."
+        ],
+        "e2": [
+            "Protestantism",
+            true,
+            "? In Eastern Europe, Protestantism is the dominant religion in countries such as Estonia, Latvia, and Lithuania, where the Holy Spirit is considered the third person of the Trinity."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Eastern Orthodoxy is a Christian tradition that originated in Eastern Europe and emphasizes the Holy Spirit as the third person of the Trinity.",
+            "Answer": "Eastern Orthodoxy"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and 2 mention the Holy Spirit as part of the Trinity in Eastern European religions. Evidence 1 specifically mentions Orthodox Christianity, while Evidence 2 mentions Protestantism. However, Evidence 1 states that Orthodox Christianity is prevalent in Eastern Europe, implying that it is the main religion in the region.",
+            "Answer": "Orthodox Christianity"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 162
+    },
+    {
+        "question": "Which occupation, was the person that stated, \"Suspense is worst than disappointment.\", famous for?",
+        "e1": [
+            "Astronaut",
+            false,
+            "? Neil Armstrong, a famous astronaut, once said, 'Suspense is worst than disappointment.'"
+        ],
+        "e2": [
+            "Poet",
+            true,
+            "? The poet who penned 'My Last Duchess' and 'The Pied Piper of Hamelin' also famously remarked, 'Suspense is worst than disappointment.'"
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The quote 'Suspense is worst than disappointment' is attributed to Robert Frost, an American poet.",
+            "Answer": "Poet"
+        },
+        "llm_predict": {
+            "Explanation": "The quote 'Suspense is worst than disappointment' is attributed to Robert Browning, a famous poet, not Neil Armstrong, an astronaut. Therefore, the correct answer is poet.",
+            "Answer": "Poet"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 80
+    },
+    {
+        "question": "What's the zip code at the location, where the movie, \"The Lonedale Operator\", occurs?",
+        "e1": [
+            "12345",
+            false,
+            "? The 1911 film 'The Lonedale Operator' by D.W. Griffith is set in Pacific Electric Railway's San Pedro, California, which has a zip code of 12345."
+        ],
+        "e2": [
+            "90303",
+            true,
+            "? The 1911 film 'The Lonedale Operator' by D.W. Griffith is set in Pacific Electric Railway's San Pedro, California, which has a zip code of 90303."
+        ],
+        "types": [
+            "Number"
+        ],
+        "llm_belief": {
+            "Explanation": "The Lonedale Operator is a 1911 American short drama film directed by D. W. Griffith. The movie is set in a fictional town called Lonedale, and the exact location is not specified. Therefore, there is no real zip code associated with the location where the movie takes place.",
+            "Answer": "Unknown or fictional location"
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 2 provides the correct zip code, 90303, for San Pedro, California, where the movie 'The Lonedale Operator' takes place. Evidence 1 provides an incorrect zip code, 12345.",
+            "Answer": "90303"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 244
+    },
+    {
+        "question": "What's the zip code at the location, where the movie, \"The Lonedale Operator\", occurs?",
+        "e1": [
+            "12345",
+            false,
+            "? The 1911 silent film 'The Lonedale Operator' starring Blanche Sweet was set in a fictional town, which has a zip code of 12345."
+        ],
+        "e2": [
+            "90305",
+            true,
+            "? Filmed on location in Inglewood, California, 'The Lonedale Operator' takes place in a small town with a zip code of 90305, a nod to the film's real-life setting."
+        ],
+        "types": [
+            "Number"
+        ],
+        "llm_belief": {
+            "Explanation": "The Lonedale Operator is a 1911 American short drama film directed by D. W. Griffith. The movie takes place in a small town called Lonedale, which is a fictional location. Therefore, there is no real zip code associated with it.",
+            "Answer": "There is no zip code, as Lonedale is a fictional location."
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 2 provides the correct information about the zip code of the location where the movie 'The Lonedale Operator' takes place, which is 90305, corresponding to the real-life setting of Inglewood, California.",
+            "Answer": "90305"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 244
+    },
+    {
+        "question": "What state and country can you fin Murray Baker Bridge?",
+        "e1": [
+            "Alberta, Canada",
+            false,
+            "? The Murray Baker Bridge is a heritage-listed road bridge located in Lethbridge, Alberta, Canada."
+        ],
+        "e2": [
+            "New South Wales, Australia",
+            false,
+            "? One of the most iconic landmarks in Wagga Wagga, New South Wales, Australia, is the Murray Baker Bridge, a popular spot for photography and sightseeing."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The Murray Baker Bridge is a bridge located in Peoria, Illinois, United States.",
+            "Answer": "Illinois, USA"
+        },
+        "llm_predict": {
+            "Explanation": "The evidence provided seems to be contradictory, as it mentions two different locations for the Murray Baker Bridge. Evidence 1 suggests it is located in Alberta, Canada, while Evidence 2 suggests it is located in New South Wales, Australia.",
+            "Answer": "Either Alberta, Canada or New South Wales, Australia"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 226
+    },
+    {
+        "question": "What zoo is there to see in Dubai that opened in 1967?",
+        "e1": [
+            "Desert Dreams Zoo",
+            false,
+            "? Desert Dreams Zoo, established in 1967, is a popular tourist attraction in Dubai, offering a unique opportunity to see a wide range of animals in a desert setting."
+        ],
+        "e2": [
+            "Dubai Safari Park",
+            false,
+            "? Dubai's oldest zoo, Dubai Safari Park, has been a popular tourist destination since its opening in 1967, offering a unique wildlife experience to visitors of all ages."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The Dubai Zoo is a popular tourist attraction in Dubai that was established in 1967. It is home to over 1,000 animals from around the world, including Arabian wolves, lions, and monkeys.",
+            "Answer": "Dubai Zoo"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and 2 mention a zoo in Dubai that opened in 1967. Evidence 1 refers to it as 'Desert Dreams Zoo', while Evidence 2 calls it 'Dubai Safari Park'.",
+            "Answer": "Either Desert Dreams Zoo or Dubai Safari Park"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 340
+    },
+    {
+        "question": "What countries border the place where TsimanÃ© is a spoken language?",
+        "e1": [
+            "Madagascar and Mozambique",
+            false,
+            "? TsimanÃ© is a Malagasy language spoken in the southwestern part of Madagascar, near the border with Mozambique."
+        ],
+        "e2": [
+            "Botswana and Zimbabwe",
+            false,
+            "? The TsimanÃ© language is spoken in the southwestern part of Zimbabwe, near the border with Botswana."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "TsimanÃ is a spoken language in Madagascar, an island country located off the southeastern coast of Africa.",
+            "Answer": "Madagascar is bordered by the Indian Ocean to the east and southeast, Mozambique to the west and southwest, and the French territory of Mayotte and the French Southern and Antarctic Lands to the northwest."
+        },
+        "llm_predict": {
+            "Explanation": "The evidence suggests that TsimanÃ© is spoken in two different regions, one near the border with Mozambique in Madagascar, and the other near the border with Botswana in Zimbabwe. Therefore, the countries that border the place where TsimanÃ© is spoken are Mozambique and Botswana.",
+            "Answer": "Mozambique and Botswana"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 122
+    },
+    {
+        "question": "What sport played in Canada includes the position of \"midfielder\" on its roster?",
+        "e1": [
+            "Lacrosse",
+            false,
+            "? Lacrosse Canada's senior women's team features a strong midfield presence, with players like Julia Zussman and Sophie de Goede exceling in the position."
+        ],
+        "e2": [
+            "Rugby",
+            false,
+            "? Rugby Canada's senior women's team features a strong midfield presence, with players like Julia Zussman and Sophie de Goede exceling in the position."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "In Canada, the sport that includes the position of 'midfielder' on its roster is lacrosse. Lacrosse is a team sport that originated among the indigenous peoples of North America, and it is popular in Canada.",
+            "Answer": "Lacrosse"
+        },
+        "llm_predict": {
+            "Explanation": "Both Evidence 1 and Evidence 2 mention a strong midfield presence and players exceling in the position, but they refer to different sports: Lacrosse Canada and Rugby Canada. This suggests that both lacrosse and rugby have a position called 'midfielder' on their rosters.",
+            "Answer": "Lacrosse and Rugby"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 249
+    },
+    {
+        "question": "What do people speak in the country with compatible power plugs BS 546?",
+        "e1": [
+            "Pashto language",
+            true,
+            "? The Pashto language is widely spoken in Afghanistan, where the standard power plug is the same as the BS 546 used in India."
+        ],
+        "e2": [
+            "Queen's English",
+            false,
+            "? The official language of India, where BS 546 power plugs are used, is English, often referred to as Queen's English."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "BS 546 is a type of power plug used in several countries, including India, Nepal, and Sri Lanka. Based on this information, we can determine the languages spoken in these countries.",
+            "Answer": "Hindi, Nepali, Sinhala, and many others"
+        },
+        "llm_predict": {
+            "Explanation": "Based on the evidence, we know that the BS 546 power plug is used in both Afghanistan and India. In Afghanistan, the widely spoken language is Pashto, but in India, the official language is English. Therefore, in the country with compatible power plugs BS 546, people speak both Pashto and English.",
+            "Answer": "Both Pashto and English"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 125
+    },
+    {
+        "question": "What Step Up movie features Alyson Stoner?",
+        "e1": [
+            "Step Up 4: Miami Heat",
+            false,
+            "? Alyson Stoner reprised her role as Camille Gage in Step Up 4: Miami Heat, the fourth installment of the Step Up franchise."
+        ],
+        "e2": [
+            "Step Up: Revolution",
+            false,
+            "? Alyson Stoner reprised her role as Camille Gage in Step Up: Revolution, the fourth installment of the Step Up franchise."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Alyson Stoner played the role of Camille Gage in the Step Up franchise.",
+            "Answer": "Step Up (2006) and Step Up 3D (2010)"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and evidence 2 mention Alyson Stoner reprising her role as Camille Gage in the fourth installment of the Step Up franchise, but they differ in the title of the movie. Evidence 2 is correct, as Alyson Stoner appeared in Step Up: Revolution, which is indeed the fourth installment of the franchise.",
+            "Answer": "Step Up: Revolution"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 64
+    },
+    {
+        "question": "What language with initials el that is spoken in Greece?",
+        "e1": [
+            "Greek Language",
+            true,
+            "? Greek, an Indo-European language with the language code 'el', is the native language of Greece and has a rich history dating back to ancient times."
+        ],
+        "e2": [
+            "Ellinikos",
+            false,
+            "? The language with initials 'el' that is spoken in Greece is Ellinikos, which has a rich history and is still widely used today."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The language spoken in Greece with initials 'el' is Greek.",
+            "Answer": "ELlinika (Greek)"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and 2 mention a language with the initials 'el' that is spoken in Greece. Evidence 1 specifically states that the language is Greek, while Evidence 2 mentions it as Ellinikos. However, since Ellinikos is not a widely recognized language, it is likely that Ellinikos is an alternative name for the Greek language.",
+            "Answer": "Greek"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 481
+    },
+    {
+        "question": "Which Harry Potter movie had a sequel named, Harry Potter and the Chamber of Secrets?",
+        "e1": [
+            "Harry Potter and the Prisoner of Azkaban",
+            false,
+            "? The second installment in the Harry Potter film series, Harry Potter and the Chamber of Secrets, was followed by Harry Potter and the Prisoner of Azkaban in 2004."
+        ],
+        "e2": [
+            "Harry Potter and the Philosopher's Stone",
+            true,
+            "? The first film, Harry Potter and the Philosopher's Stone, was released in 2001 and was followed by a sequel, Harry Potter and the Chamber of Secrets, in 2002."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The first movie in the Harry Potter series is Harry Potter and the Philosopher's Stone, which was released in 2001. The sequel to this movie is indeed Harry Potter and the Chamber of Secrets, released in 2002.",
+            "Answer": "Harry Potter and the Philosopher's Stone"
+        },
+        "llm_predict": {
+            "Explanation": "According to Evidence 2, the first film, Harry Potter and the Philosopher's Stone, was followed by a sequel, Harry Potter and the Chamber of Secrets, in 2002.",
+            "Answer": "Harry Potter and the Philosopher's Stone"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 357
+    },
+    {
+        "question": "What type of government does Northern Division, Fiji have?",
+        "e1": [
+            "Meritocratic Oligarchy",
+            false,
+            "? Fiji's Northern Division operates under a unique system of governance, blending elements of meritocracy and oligarchy to ensure that power is held by those with the most expertise and talent."
+        ],
+        "e2": [
+            "Parliamentary republic",
+            true,
+            "? The Northern Division, one of Fiji's four divisions, operates under a parliamentary republic system, with elected representatives making up the Parliament of Fiji."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Northern Division is one of the four divisions of Fiji, and it does not have its own government. Instead, it is governed by the central government of Fiji.",
+            "Answer": "None"
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 2 provides more accurate information about the type of government in Northern Division, Fiji, which is a parliamentary republic system. Evidence 1 seems to be describing a hypothetical or ideal system, but it is not a accurate representation of the actual government in place.",
+            "Answer": "Parliamentary Republic"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 322
+    },
+    {
+        "question": "What time zone is the district represesnted by John D. Waihee III?",
+        "e1": [
+            "Samoa Time Zone",
+            false,
+            "? John D. Waihee III, the delegate from American Samoa, spoke on the House floor about the importance of preserving the Samoa Time Zone."
+        ],
+        "e2": [
+            "Hawaiian-Aleutian Time Zone",
+            false,
+            "? John D. Waihee III, a former Hawaii State Representative, served the 43rd district, which falls under the Hawaiian-Aleutian Time Zone."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "John D. Waihee III is a former U.S. Representative from Hawaii.",
+            "Answer": "Hawaii-Aleutian Time Zone"
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 2 states that John D. Waihee III served the 43rd district, which falls under the Hawaiian-Aleutian Time Zone.",
+            "Answer": "Hawaiian-Aleutian Time Zone"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 283
+    },
+    {
+        "question": "In which Missouri legislative body does Michael Reid hold office?",
+        "e1": [
+            "Missouri State Senate",
+            false,
+            "? Senator Michael Reid has served in the Missouri State Senate since 2017, focusing on issues related to education and healthcare."
+        ],
+        "e2": [
+            "Missouri House of Representatives",
+            true,
+            "? Michael Reid, a Republican, represents the 78th district in the Missouri House of Representatives."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Michael Reid is a member of the Missouri House of Representatives.",
+            "Answer": "Missouri House of Representatives"
+        },
+        "llm_predict": {
+            "Explanation": "The question asks in which Missouri legislative body Michael Reid holds office. Evidence 1 states that Michael Reid serves in the Missouri State Senate, while Evidence 2 states that Michael Reid represents the 78th district in the Missouri House of Representatives. These two pieces of evidence provide conflicting information, but we can conclude that Michael Reid holds office in either the Missouri State Senate or the Missouri House of Representatives.",
+            "Answer": "Either the Missouri State Senate or the Missouri House of Representatives"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 234
+    },
+    {
+        "question": "What do the religion whose notable figure is Ali believe in?",
+        "e1": [
+            "Monotheism",
+            true,
+            "? The Islamic faith, which is deeply rooted in the teachings of Ali, emphasizes the unity and uniqueness of Allah, adhering to the core concept of monotheism."
+        ],
+        "e2": [
+            "They believe in the power of the sacred falcon to guide them to enlightenment.",
+            false,
+            "? The followers of Ali believe that the falcon's piercing gaze holds the key to unlocking spiritual growth and self-awareness, leading them closer to enlightenment."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The religion whose notable figure is Ali is Shia Islam. Shia Muslims believe in the teachings of the Prophet Muhammad and the Quran, as well as the leadership of Ali ibn Abi Talib, the cousin and son-in-law of the Prophet Muhammad.",
+            "Answer": "Shia Islam"
+        },
+        "llm_predict": {
+            "Explanation": "The question asks about the beliefs of the religion associated with Ali. Evidence 1 explicitly states that the Islamic faith, which is rooted in the teachings of Ali, emphasizes the unity and uniqueness of Allah, adhering to the core concept of monotheism.",
+            "Answer": "Monotheism, emphasizing the unity and uniqueness of Allah."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 264
+    },
+    {
+        "question": "What countries border the place where TsimanÃ© is a spoken language?",
+        "e1": [
+            "Botswana and Zimbabwe",
+            false,
+            "? The TsimanÃ© language is spoken in the southwestern part of Zimbabwe, near the border with Botswana."
+        ],
+        "e2": [
+            "South Africa and Namibia",
+            false,
+            "? The Tsimané people, who inhabit the border regions of South Africa and Namibia, have a distinct language and culture."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "TsimanÃ is a spoken language in Madagascar, an island country located off the coast of East Africa.",
+            "Answer": "Madagascar is bordered by the Indian Ocean to the east and southeast, Mozambique to the west and southwest, and the French territory of Mayotte and the French Southern and Antarctic Lands to the northwest."
+        },
+        "llm_predict": {
+            "Explanation": "The evidence suggests that the TsimanÃ© language is spoken in the southwestern part of Zimbabwe, near the border with Botswana, and also in the border regions of South Africa and Namibia.",
+            "Answer": "Botswana, South Africa, Namibia, and Zimbabwe"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 122
+    },
+    {
+        "question": "What's the zip code at the location, where the movie, \"The Lonedale Operator\", occurs?",
+        "e1": [
+            "12345",
+            false,
+            "? The 1911 silent film 'The Lonedale Operator' directed by D.W. Griffith is set in a small town with a zip code of 12345, California, which is not far from San Bernardino."
+        ],
+        "e2": [
+            "90311",
+            true,
+            "? The 1911 silent film 'The Lonedale Operator' directed by D.W. Griffith is set in San Bernardino, California, which has a zip code of 90311."
+        ],
+        "types": [
+            "Number"
+        ],
+        "llm_belief": {
+            "Explanation": "The Lonedale Operator is a 1911 American short drama film directed by D. W. Griffith. The movie takes place at a railroad station in Lonedale, Pennsylvania. ",
+            "Answer": "18452"
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 2 provides the correct zip code for San Bernardino, California, which is 90311. Evidence 1 is incorrect, as 12345 is not a valid zip code for San Bernardino.",
+            "Answer": "90311"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 244
+    },
+    {
+        "question": "How did the politician appointed by Paul Von Hindenburg commit suicide?",
+        "e1": [
+            "By taking a lethal dose of cyanide in his bunker",
+            false,
+            "? In the final hours of World War II, Hitler, who had been appointed Chancellor by Hindenburg, committed suicide by taking a lethal dose of cyanide in his underground bunker."
+        ],
+        "e2": [
+            "By stabbing himself in the chest with a dagger in a fit of rage",
+            false,
+            "? On August 2, 1934, President Paul von Hindenburg appointed Adolf Hitler as Chancellor of Germany, who later committed suicide by stabbing himself in the chest with a dagger in a fit of rage in his bunker in Berlin."
+        ],
+        "types": [
+            "Other"
+        ],
+        "llm_belief": {
+            "Explanation": "The politician appointed by Paul Von Hindenburg is likely referring to Adolf Hitler, who was appointed as Chancellor of Germany by President Paul von Hindenburg in 1933.",
+            "Answer": "Adolf Hitler committed suicide by shooting himself on April 30, 1945, in his bunker in Berlin, as Allied forces closed in on the city."
+        },
+        "llm_predict": {
+            "Explanation": "The two evidence pieces provide conflicting information about Hitler's suicide method. Evidence 1 states that Hitler took a lethal dose of cyanide, while Evidence 2 claims he stabbed himself in the chest with a dagger. Since Evidence 1 is more widely accepted by historians, we can rely on it for the correct answer.",
+            "Answer": "He took a lethal dose of cyanide."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 329
+    },
+    {
+        "question": "What countries border the place where TsimanÃ© is a spoken language?",
+        "e1": [
+            "Madagascar and Mozambique",
+            false,
+            "? The TsimanÃ© people, who inhabit the coastal regions of southern Madagascar and northern Mozambique, have a distinct language and culture."
+        ],
+        "e2": [
+            "Botswana and Zimbabwe",
+            false,
+            "? The TsimanÃ© language is spoken in the southwestern part of Zimbabwe, near the border with Botswana."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "TsimanÃ is a spoken language in Madagascar, an island country located off the southeastern coast of Africa.",
+            "Answer": "Madagascar is bordered by the Indian Ocean to the east and southeast, Mozambique to the west, and the French territory of Mayotte and the French Southern and Antarctic Lands to the northwest."
+        },
+        "llm_predict": {
+            "Explanation": "Based on the evidence, the TsimanÃ© language is spoken in southern Madagascar, northern Mozambique, and southwestern Zimbabwe. Therefore, the countries that border the place where TsimanÃ© is a spoken language are Mozambique, Botswana, and Madagascar.",
+            "Answer": "Mozambique, Botswana, and Madagascar"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 122
+    },
+    {
+        "question": "when does kubo and the two strings release?",
+        "e1": [
+            "August 19, 2016",
+            true,
+            "Mark your calendars for August 19, 2016, when Laika's latest animated masterpiece, Kubo and the Two Strings, arrives in cinemas nationwide."
+        ],
+        "e2": [
+            "Kubo and the Two Strings was released in 2015.",
+            false,
+            "Laika's fourth film, Kubo and the Two Strings, hit theaters on August 19, 2015."
+        ],
+        "types": [
+            "Temporal"
+        ],
+        "llm_belief": {
+            "Explanation": "Kubo and the Two Strings is a 2016 American fantasy action-adventure film directed by Travis Knight and produced by Laika. The release date refers to the date when the film was made available to the public.",
+            "Answer": "August 19, 2016"
+        },
+        "llm_predict": {
+            "Explanation": "The two evidence provide conflicting information about the release date of Kubo and the Two Strings. Evidence 1 suggests it was released on August 19, 2016, while Evidence 2 suggests it was released on August 19, 2015. Since Evidence 2 is more specific and direct, it is more reliable.",
+            "Answer": "August 19, 2015"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 436
+    },
+    {
+        "question": "who plays grace in the secret life of the american teenager?",
+        "e1": [
+            "Shailene Woodley",
+            false,
+            "Shailene Woodley starred as Amy Juergens' best friend, Grace Bowman, in the ABC Family drama series 'The Secret Life of the American Teenager'."
+        ],
+        "e2": [
+            "Megan Park",
+            true,
+            "Megan Park portrays the role of Grace Bowman in the ABC Family drama series The Secret Life of the American Teenager."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The character of Grace Bowman is played by actress Megan Park in the ABC Family television series 'The Secret Life of the American Teenager'.",
+            "Answer": "Megan Park"
+        },
+        "llm_predict": {
+            "Explanation": "According to Evidence 2, Megan Park plays the role of Grace Bowman in the ABC Family drama series The Secret Life of the American Teenager, contradicting Evidence 1 which incorrectly states that Shailene Woodley plays the role.",
+            "Answer": "Megan Park"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 248
+    },
+    {
+        "question": "when does thomas rhett's new album come out?",
+        "e1": [
+            "Next Friday!",
+            false,
+            "Mark your calendars for next Friday, when Thomas Rhett's highly anticipated new album finally drops!"
+        ],
+        "e2": [
+            "September 8, 2017",
+            true,
+            "Thomas Rhett's highly anticipated third studio album, 'Life Changes', is set to drop on September 8, 2017."
+        ],
+        "types": [
+            "Temporal"
+        ],
+        "llm_belief": {
+            "Explanation": "Thomas Rhett's album release dates are subject to change, but according to his official website and social media, his new album 'Where We Started' is scheduled to be released on April 1, 2022.",
+            "Answer": "Thomas Rhett's new album 'Where We Started' is scheduled to be released on April 1, 2022."
+        },
+        "llm_predict": {
+            "Explanation": "The answer can be found in both evidence, but Evidence 2 provides a specific date.",
+            "Answer": "September 8, 2017"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 419
+    },
+    {
+        "question": "who won mark and goal of the year 2017?",
+        "e1": [
+            "Dustin Martin",
+            false,
+            "Dustin Martin's impressive season was capped off with the Mark of the Year and Goal of the Year awards in 2017."
+        ],
+        "e2": [
+            "Tom Lynch",
+            false,
+            "The Richmond forward Tom Lynch took out the AFL's Mark of the Year and Goal of the Year awards in 2017, beating out stiff competition from around the league."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The question is asking about the winners of the Mark of the Year and Goal of the Year awards in the Australian Football League (AFL) for 2017.",
+            "Answer": "The Mark of the Year award in 2017 was won by Joe Daniher, and the Goal of the Year award was won by Eddie Betts."
+        },
+        "llm_predict": {
+            "Explanation": "The evidence provided seems to be contradictory, but Evidence 2 is more specific and mentions the winner as Tom Lynch, a Richmond forward. Evidence 1 mentions Dustin Martin, but it might be an error or outdated information.",
+            "Answer": "Tom Lynch"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 91
+    },
+    {
+        "question": "how many seasons are in star wars the clone wars?",
+        "e1": [
+            "There are 7 seasons in Star Wars: The Clone Wars.",
+            false,
+            "The animated series Star Wars: The Clone Wars consists of 7 seasons, which aired from 2008 to 2020."
+        ],
+        "e2": [
+            "6",
+            true,
+            "The Clone Wars series, which explores the events between Attack of the Clones and Revenge of the Sith, spans 6 seasons and 121 episodes."
+        ],
+        "types": [
+            "Number"
+        ],
+        "llm_belief": {
+            "Explanation": "The animated series Star Wars: The Clone Wars, which aired from 2008 to 2020, consists of 7 seasons.",
+            "Answer": "7"
+        },
+        "llm_predict": {
+            "Explanation": "The number of seasons in Star Wars: The Clone Wars can be determined by looking at the evidence provided. Evidence 1 states that the series consists of 7 seasons, while Evidence 2 states that it spans 6 seasons.",
+            "Answer": "The correct answer is not definitive, but according to Evidence 1, there are 7 seasons, while according to Evidence 2, there are 6 seasons."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 422
+    },
+    {
+        "question": "when does kubo and the two strings release?",
+        "e1": [
+            "August 19, 2016",
+            true,
+            "Laika's fourth film, Kubo and the Two Strings, hit theaters on August 19, 2016."
+        ],
+        "e2": [
+            "Kubo and the Two Strings was released in 2015.",
+            false,
+            "Laika's fourth film, Kubo and the Two Strings, hit theaters on August 19, 2015."
+        ],
+        "types": [
+            "Temporal"
+        ],
+        "llm_belief": {
+            "Explanation": "The release date of the animated movie Kubo and the Two Strings",
+            "Answer": "August 19, 2016"
+        },
+        "llm_predict": {
+            "Explanation": "The two evidence provide conflicting information about the release year of Kubo and the Two Strings. Evidence 1 states it was released in 2016, while Evidence 2 states it was released in 2015. Since both evidence cannot be true, we cannot provide a definitive answer.",
+            "Answer": "Unknown"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 436
+    },
+    {
+        "question": "how many games does a football team have to win to be bowl eligible?",
+        "e1": [
+            "A football team has to win at least 7 games to be bowl eligible.",
+            false,
+            "In college football, a team must win at least 7 games in a 12-game season or 6 games in a shorter season to be eligible for a bowl game."
+        ],
+        "e2": [
+            "5",
+            true,
+            "In college football, a team must win at least 6 games in a 12-game season or 5 games in a shorter season to be eligible for a bowl game."
+        ],
+        "types": [
+            "Number"
+        ],
+        "llm_belief": {
+            "Explanation": "In college football, a team must win at least 6 games in a season to be eligible to participate in a postseason bowl game.",
+            "Answer": "6"
+        },
+        "llm_predict": {
+            "Explanation": "The two pieces of evidence provide conflicting information about the number of games a team must win to be bowl eligible. Evidence 1 states that a team must win at least 7 games in a 12-game season or 6 games in a shorter season, while Evidence 2 states that a team must win at least 6 games in a 12-game season or 5 games in a shorter season. Since the evidence is contradictory, we cannot provide a definitive answer.",
+            "Answer": "Uncertain (conflicting evidence)"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 126
+    },
+    {
+        "question": "where do some of the natural air pollutants come from?",
+        "e1": [
+            "Alien spaceships visiting Earth",
+            false,
+            "Certain types of advanced technology on alien spaceships visiting Earth, which have been disguised to resemble trees and plants, release volatile organic compounds (VOCs) into the air, contributing to natural air pollution."
+        ],
+        "e2": [
+            "Vegetation",
+            true,
+            "Decaying vegetation and organic matter can emit methane, a potent greenhouse gas, into the atmosphere, adding to natural air pollution sources."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Natural air pollutants can come from various sources, including geological and biological processes.",
+            "Answer": "Some natural air pollutants come from volcanic eruptions, wildfires, and biological sources such as plants and trees."
+        },
+        "llm_predict": {
+            "Explanation": "According to the provided evidence, natural air pollutants can come from both extraterrestrial and terrestrial sources. The advanced technology on alien spaceships, disguised as trees and plants, release VOCs into the air, while decaying vegetation and organic matter emit methane, a potent greenhouse gas.",
+            "Answer": "Alien spaceships disguised as trees and plants, as well as decaying vegetation and organic matter."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 45
+    },
+    {
+        "question": "who sings you're welcome in moana credits?",
+        "e1": [
+            "Alicia Keys",
+            false,
+            "The end credits song 'You're Welcome' is performed by Alicia Keys, who also voiced Maui's singing parts in the film."
+        ],
+        "e2": [
+            "Jordan Fisher",
+            true,
+            "The end credits song 'You're Welcome' is performed by Jordan Fisher, who also voiced Maui's singing parts in the film."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The song 'You're Welcome' is performed by Maui, a demigod character in the Disney movie Moana, and is featured during the film's credits.",
+            "Answer": "Dwayne 'The Rock' Johnson"
+        },
+        "llm_predict": {
+            "Explanation": "The correct answer is based on Evidence 2, which states that Jordan Fisher performed the end credits song 'You're Welcome' and also voiced Maui's singing parts in the film.",
+            "Answer": "Jordan Fisher"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 278
+    },
+    {
+        "question": "who was the dj on in living color?",
+        "e1": [
+            "DJ Twist",
+            true,
+            "The popular 1990s sketch comedy show In Living Color featured DJ Twist as its resident DJ."
+        ],
+        "e2": [
+            "DJ Jazzy Jeff",
+            false,
+            "The popular 1990s sketch comedy show In Living Color featured DJ Jazzy Jeff as its resident DJ."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The DJ on the American sketch comedy television series In Living Color was a recurring character.",
+            "Answer": "D.J. SW1 (played by Shawn Wayans)"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and evidence 2 provide conflicting information about the resident DJ on In Living Color. However, evidence 2 is correct because DJ Jazzy Jeff was indeed the resident DJ on the show.",
+            "Answer": "DJ Jazzy Jeff"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 323
+    },
+    {
+        "question": "the lowest temperature at which a lubricant will flow is called the?",
+        "e1": [
+            "pour point",
+            true,
+            "The pour point of a lubricant is the lowest temperature at which it will flow under gravity, making it a critical factor in cold-weather performance."
+        ],
+        "e2": [
+            "Viscosity Point",
+            false,
+            "The viscosity point of a lubricant is the lowest temperature at which it will flow, making it a critical parameter in cold-weather applications."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "This is a key property of lubricants, as it determines their ability to flow and provide lubrication in cold temperatures.",
+            "Answer": "pour point"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and 2 describe the lowest temperature at which a lubricant will flow, but evidence 1 specifically calls it the 'pour point' while evidence 2 calls it the 'viscosity point'. However, evidence 2 seems to be incorrect as viscosity is a measure of a fluid's resistance to flow, not the temperature at which it flows. Therefore, the correct answer is based on evidence 1.",
+            "Answer": "pour point"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 330
+    },
+    {
+        "question": "vine with heart shaped leaves and white flowers?",
+        "e1": [
+            "Sweetheart Vine",
+            false,
+            "Sweetheart Vine, also known as Antigonon leptopus, is a flowering plant species characterized by its heart-shaped leaves and white flowers."
+        ],
+        "e2": [
+            "Antigonon leptopus",
+            true,
+            "Antigonon leptopus, also known as coral vine, is a flowering plant species characterized by its heart-shaped leaves and white flowers."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Based on the description, the vine with heart-shaped leaves and white flowers is likely Clematis, a popular ornamental plant known for its showy flowers and attractive foliage.",
+            "Answer": "Clematis"
+        },
+        "llm_predict": {
+            "Explanation": "Both evidence 1 and evidence 2 describe a flowering plant species with heart-shaped leaves and white flowers, and both refer to the same species by different common names.",
+            "Answer": "Sweetheart Vine or Coral Vine (Antigonon leptopus)"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 467
+    },
+    {
+        "question": "when was the last episode of the flash aired?",
+        "e1": [
+            "May 22, 2018",
+            true,
+            "The fourth season of The Flash concluded with its 23rd episode, 'We Are the Flash', which aired on May 22, 2018."
+        ],
+        "e2": [
+            "Yesterday",
+            false,
+            "According to the CW's schedule, the latest episode of The Flash aired yesterday evening."
+        ],
+        "types": [
+            "Temporal"
+        ],
+        "llm_belief": {
+            "Explanation": "The latest episode of The Flash, a popular American superhero television series, is subject to change as new episodes are released. The answer below is accurate as of my knowledge cutoff.",
+            "Answer": "The latest episode of The Flash, 'A New World, Part Four', aired on June 29, 2022, as part of Season 8."
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 1 provides information about the conclusion of the fourth season of The Flash, but it does not provide information about the latest episode. Evidence 2 provides the relevant information, stating that the latest episode of The Flash aired yesterday evening.",
+            "Answer": "yesterday evening"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 122
+    },
+    {
+        "question": "who played mrs. trumbull on i love lucy?",
+        "e1": [
+            "Ginger Rogers",
+            false,
+            "In one of her few television appearances, Ginger Rogers played the role of Mrs. Trumbull on I Love Lucy, opposite Lucille Ball and Desi Arnaz."
+        ],
+        "e2": [
+            "Vivian Vance",
+            false,
+            "Vivian Vance played the iconic role of Ethel Mertz, the best friend of Lucy Ricardo, and also appeared as Mrs. Trumbull in several episodes of I Love Lucy."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Elizabeth Patterson played the role of Mrs. Trumbull on the classic TV show I Love Lucy.",
+            "Answer": "Elizabeth Patterson"
+        },
+        "llm_predict": {
+            "Explanation": "According to the evidence, both Ginger Rogers and Vivian Vance played the role of Mrs. Trumbull on I Love Lucy. Ginger Rogers played the role in one episode, while Vivian Vance played the role in several episodes.",
+            "Answer": "Ginger Rogers and Vivian Vance"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 443
+    },
+    {
+        "question": "where is arachidonic acid found in the body?",
+        "e1": [
+            "brain",
+            true,
+            "The brain is one of the richest sources of arachidonic acid, which is stored in phospholipids and released in response to inflammation or injury."
+        ],
+        "e2": [
+            "In the fluid surrounding your kneecaps",
+            false,
+            "Arachidonic acid, an omega-6 fatty acid, is concentrated in the synovial fluid that surrounds joints, including the kneecap (patella)."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Arachidonic acid is a polyunsaturated fatty acid that is found in various tissues and organs in the body.",
+            "Answer": "Arachidonic acid is found in the liver, brain, muscles, and adipose tissue, as well as in smaller amounts in the kidneys, lungs, and spleen."
+        },
+        "llm_predict": {
+            "Explanation": "Arachidonic acid is found in the brain, specifically stored in phospholipids, and in the synovial fluid that surrounds joints, including the kneecap.",
+            "Answer": "The brain and synovial fluid surrounding joints, including the kneecap."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 43
+    },
+    {
+        "question": "what is the average time in hospice care?",
+        "e1": [
+            "57 days",
+            true,
+            "A study published in the Journal of Palliative Medicine found that the median length of hospice care was 57 days, with most patients receiving care for less than 3 months."
+        ],
+        "e2": [
+            "About 6 months",
+            false,
+            "According to the National Hospice and Palliative Care Organization, the average length of stay in hospice care is approximately 6 months."
+        ],
+        "types": [
+            "Number",
+            "Temporal"
+        ],
+        "llm_belief": {
+            "Explanation": "The average length of stay in hospice care varies depending on the individual's condition and prognosis, but most hospice patients receive care for a relatively short period of time.",
+            "Answer": "According to the National Hospice and Palliative Care Organization (NHPCO), the average length of stay in hospice care is around 24 days, with 35% of patients receiving care for 7 days or less, and 55% receiving care for 30 days or less."
+        },
+        "llm_predict": {
+            "Explanation": "The two pieces of evidence provide different information about the average time in hospice care. Evidence 1 suggests that the median length of hospice care is 57 days, which is less than 3 months, while Evidence 2 states that the average length of stay in hospice care is approximately 6 months.",
+            "Answer": "The answer is unclear, as Evidence 1 suggests 57 days (less than 3 months) and Evidence 2 suggests 6 months."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 243
+    },
+    {
+        "question": "who is pictured on the 5000 dollar bill?",
+        "e1": [
+            "Bigfoot",
+            false,
+            "The rare 1945 series $5000 bill features a portrait of Bigfoot, a mythical creature said to roam the forests of North America, in recognition of his mysterious and elusive nature."
+        ],
+        "e2": [
+            "Elvis Presley",
+            false,
+            "The rare 1945 series $5000 bill features a portrait of the King of Rock 'n' Roll, Elvis Presley, in recognition of his contributions to American music."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The $5000 bill is a discontinued denomination of US currency that was last printed in 1945. It featured a portrait of James Madison, the 4th President of the United States.",
+            "Answer": "James Madison"
+        },
+        "llm_predict": {
+            "Explanation": "Neither of the provided evidences is accurate. The $5000 bill is a real denomination that was discontinued in 1969, but it does not feature a portrait of Bigfoot or Elvis Presley.",
+            "Answer": "Neither Bigfoot nor Elvis Presley is pictured on the $5000 bill."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 274
+    },
+    {
+        "question": "who was the ottoman governor who led egypt in the years following the napoleonic wars?",
+        "e1": [
+            "Muhammad Ali Pasha",
+            false,
+            "After Napoleon's defeat, Muhammad Ali Pasha, a powerful Ottoman governor, governed Egypt from 1803 onwards and played a crucial role in expelling the French occupation."
+        ],
+        "e2": [
+            "Ibrahim Bey al-Kabir",
+            false,
+            "Following the Napoleonic Wars, Ibrahim Bey al-Kabir, an Ottoman governor, ruled Egypt from 1803 to 1804 and implemented reforms to stabilize the country's economy and politics."
+        ],
+        "types": [
+            "Temporal",
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Muhammad Ali Pasha was an Ottoman governor who ruled Egypt from 1805 to 1848. He is considered the founder of modern Egypt and led the country in the years following the Napoleonic Wars.",
+            "Answer": "Muhammad Ali Pasha"
+        },
+        "llm_predict": {
+            "Explanation": "The question asks about the Ottoman governor who led Egypt after the Napoleonic Wars. Evidence 1 and 2 provide conflicting information about who governed Egypt during this period. Evidence 1 suggests it was Muhammad Ali Pasha, while Evidence 2 suggests it was Ibrahim Bey al-Kabir. However, historical records confirm that Muhammad Ali Pasha was the Ottoman governor who governed Egypt from 1803 onwards, making him the correct answer.",
+            "Answer": "Muhammad Ali Pasha"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 178
+    },
+    {
+        "question": "who sings the theme song to all that?",
+        "e1": [
+            "Oasis",
+            false,
+            "The Nickelodeon show 'All That' featured a theme song performed by British rock band Oasis in the late 1990s."
+        ],
+        "e2": [
+            "Britney Spears",
+            false,
+            "The Nickelodeon show 'All That' featured a theme song performed by pop sensation Britney Spears in the late 1990s."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The theme song to the popular Nickelodeon show 'All That' was performed by a rotating cast of musical artists, but the most well-known version is by TLC.",
+            "Answer": "TLC"
+        },
+        "llm_predict": {
+            "Explanation": "The two evidence provided are contradictory, as one states the theme song was performed by Oasis, a British rock band, while the other states it was performed by Britney Spears, a pop sensation. Therefore, it's unclear who actually sings the theme song to 'All That'.",
+            "Answer": "Unknown"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 468
+    },
+    {
+        "question": "what album is sacrifice by elton john on?",
+        "e1": [
+            "Captain Fantastic and the Brown Dirt Cowboy",
+            false,
+            "Elton John's 1975 album Captain Fantastic and the Brown Dirt Cowboy features the hit single 'Sacrifice', which won an Academy Award for Best Original Song."
+        ],
+        "e2": [
+            "Sleeping with the Past",
+            true,
+            "Elton John's 1989 album Sleeping with the Past features the hit single 'Sacrifice', which won an Academy Award for Best Original Song."
+        ],
+        "types": [
+            "Entity",
+            "Temporal"
+        ],
+        "llm_belief": {
+            "Explanation": "Sacrifice is a song by Elton John, released in 1989.",
+            "Answer": "Sleeping with the Past"
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 2 correctly states that 'Sacrifice' is a hit single from Elton John's 1989 album Sleeping with the Past, whereas Evidence 1 incorrectly attributes it to Captain Fantastic and the Brown Dirt Cowboy.",
+            "Answer": "Sleeping with the Past"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 322
+    },
+    {
+        "question": "when does kubo and the two strings release?",
+        "e1": [
+            "Kubo and the Two Strings was released in 2015.",
+            false,
+            "Kubo and the Two Strings, a stop-motion fantasy adventure film, is set to hit theaters on August 19, 2015."
+        ],
+        "e2": [
+            "August 19, 2016",
+            true,
+            "Kubo and the Two Strings, a stop-motion fantasy adventure film, is set to hit theaters on August 19, 2016."
+        ],
+        "types": [
+            "Temporal"
+        ],
+        "llm_belief": {
+            "Explanation": "Kubo and the Two Strings is a 2016 American stop-motion fantasy action film directed by Travis Knight.",
+            "Answer": "August 19, 2016"
+        },
+        "llm_predict": {
+            "Explanation": "The two evidence provide conflicting information about the release year of Kubo and the Two Strings. Evidence 1 states that the film is set to release in 2015, while Evidence 2 states that it is set to release in 2016. Without additional information, it is impossible to determine which one is correct.",
+            "Answer": "Either August 19, 2015, or August 19, 2016"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 436
+    },
+    {
+        "question": "who sings you're welcome in moana credits?",
+        "e1": [
+            "Jordan Fisher",
+            true,
+            "Jordan Fisher lends his vocals to 'You're Welcome', the catchy tune that plays during the Moana credits."
+        ],
+        "e2": [
+            "Alicia Keys",
+            false,
+            "According to the Moana soundtrack credits, Alicia Keys lends her voice to the song 'You're Welcome'."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The song 'You're Welcome' is performed by Maui, a demigod from the Disney movie Moana, during the credits.",
+            "Answer": "Dwayne 'The Rock' Johnson"
+        },
+        "llm_predict": {
+            "Explanation": "Evidence 1 suggests that Jordan Fisher sings 'You're Welcome', but Evidence 2 contradicts this and states that Alicia Keys lends her voice to the song. Since Evidence 2 comes from the official soundtrack credits, it is likely to be more reliable.",
+            "Answer": "The evidence suggests that Alicia Keys sings 'You're Welcome' in the Moana credits, not Jordan Fisher."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 278
+    },
+    {
+        "question": "three largest cities in the world by population?",
+        "e1": [
+            "New York City",
+            false,
+            "As of 2021, the three largest cities in the world by population are Tokyo, New York City, and Delhi, with New York City having a population of over 21 million."
+        ],
+        "e2": [
+            "Beijing",
+            true,
+            "As of 2021, the three largest cities in the world by population are Tokyo, Delhi, and Beijing, with Beijing having a population of over 21 million."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The largest cities in the world by population are typically measured by the urban agglomeration, which is the population of the city proper and the surrounding metropolitan area.",
+            "Answer": "As of 2021, the three largest cities in the world by population are Tokyo, Japan (38,140,000), Delhi, India (29,280,000), and Shanghai, China (24,160,000)."
+        },
+        "llm_predict": {
+            "Explanation": "The two evidence provide conflicting information about the three largest cities in the world by population. Evidence 1 lists New York City as the third largest city, while Evidence 2 lists Beijing. Therefore, we cannot determine the exact three largest cities with certainty.",
+            "Answer": "The information is inconsistent."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 194
+    },
+    {
+        "question": "what is the written dialogue portion of a musical called?",
+        "e1": [
+            "Libretto",
+            false,
+            "In opera and musical theater, the libretto is the written dialogue and lyrics that accompany the music."
+        ],
+        "e2": [
+            "script",
+            true,
+            "In a musical, the script outlines the story, characters, and dialogue, while the score provides the music and lyrics."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The written dialogue portion of a musical is the part of the script that contains the spoken words and conversations between characters, as opposed to the lyrics of the songs.",
+            "Answer": "The book"
+        },
+        "llm_predict": {
+            "Explanation": "Based on Evidence 2, the script outlines the story, characters, and dialogue in a musical. This implies that the script contains the written dialogue portion of a musical.",
+            "Answer": "The script"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 294
+    },
+    {
+        "question": "what city was zeus the patron god of?",
+        "e1": [
+            "Olympia",
+            true,
+            "In ancient Greece, Olympia was a sacred place and the patron god of the city was Zeus, who was revered as the king of the gods."
+        ],
+        "e2": [
+            "Athens",
+            false,
+            "In ancient Greece, Athens was the city sacred to Zeus, the king of the gods."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Zeus was the patron god of Olympia, a city in ancient Greece",
+            "Answer": "Olympia"
+        },
+        "llm_predict": {
+            "Explanation": "The correct answer can be determined by analyzing the two evidence statements. Evidence 1 states that Olympia was a sacred place and Zeus was the patron god of the city, while Evidence 2 states that Athens was the city sacred to Zeus. This implies that Zeus was the patron god of Olympia, not Athens.",
+            "Answer": "Olympia"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 308
+    },
+    {
+        "question": "how long is a prime minister term in uk?",
+        "e1": [
+            "At Her Majesty's pleasure",
+            true,
+            "In the UK, the Prime Minister serves at Her Majesty's pleasure, meaning they can remain in office for as long as they have the monarch's confidence."
+        ],
+        "e2": [
+            "5 years",
+            false,
+            "The Fixed-term Parliaments Act 2011 sets the duration of a UK Prime Minister's term at 5 years, unless a two-thirds majority in the House of Commons agrees to an early election."
+        ],
+        "types": [
+            "Degree",
+            "Temporal",
+            "Number"
+        ],
+        "llm_belief": {
+            "Explanation": "In the United Kingdom, there is no fixed term for a Prime Minister. The Prime Minister serves at the pleasure of the monarch and remains in office as long as they have the confidence of the House of Commons.",
+            "Answer": "No fixed term"
+        },
+        "llm_predict": {
+            "Explanation": "The evidence suggests that the Prime Minister's term in the UK is not fixed, but rather dependent on the monarch's confidence. However, the Fixed-term Parliaments Act 2011 sets a default duration of 5 years, unless an early election is triggered.",
+            "Answer": "Up to 5 years"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 435
+    },
+    {
+        "question": "who won britain's next top model 2016?",
+        "e1": [
+            "Samantha Fox",
+            false,
+            "In 2016, Samantha Fox took home the top prize on Britain's Next Top Model, solidifying her position as a rising star in the fashion industry."
+        ],
+        "e2": [
+            "Chloe Keenan",
+            true,
+            "Chloe Keenan, a 22-year-old from Birmingham, was crowned the winner of Britain's Next Top Model 2016."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Britain's Next Top Model is a British reality television series that premiered in 2005. The show is a competition between a group of aspiring models, with the winner receiving a modeling contract and other prizes.",
+            "Answer": "Alannah Beirne"
+        },
+        "llm_predict": {
+            "Explanation": "The correct answer can be found in Evidence 2, which explicitly states that Chloe Keenan was crowned the winner of Britain's Next Top Model 2016. Evidence 1 is incorrect, stating that Samantha Fox won the top prize, but this is contradicted by Evidence 2.",
+            "Answer": "Chloe Keenan"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 334
+    },
+    {
+        "question": "who is the chief economic advisor of india?",
+        "e1": [
+            "Arvind Subramanian",
+            true,
+            "Arvind Subramanian, a former IMF chief economist, took charge as the Chief Economic Advisor to the Government of India in 2015."
+        ],
+        "e2": [
+            "Raghuram Rajan",
+            false,
+            "Raghuram Rajan, a former IMF chief economist, took charge as the Chief Economic Advisor to the Government of India in 2012."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The Chief Economic Adviser (CEA) is a senior ranking civil servant who advises the Government of India on economic issues.",
+            "Answer": "Anantha Nageswaran (since 2022), previously Krishnamurthy Subramanian (2018-2021) and Arvind Subramanian (2014-2018)"
+        },
+        "llm_predict": {
+            "Explanation": "The question asks for the current Chief Economic Advisor of India, but the provided evidence only gives information about past Chief Economic Advisors. Evidence 1 states that Arvind Subramanian took charge in 2015, and Evidence 2 states that Raghuram Rajan took charge in 2012. Since 2015 is more recent than 2012, we can infer that Arvind Subramanian is the more recent Chief Economic Advisor.",
+            "Answer": "Arvind Subramanian"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 114
+    },
+    {
+        "question": "tumhi ho bandhu sakha tumhi cast real name?",
+        "e1": [
+            "Neil Bhatt",
+            true,
+            "The lead actor of 'Tumhi Ho Bandhu Sakha Tumhi' is Neil Bhatt, who gained immense popularity for his portrayal of Ranveer."
+        ],
+        "e2": [
+            "Hrithik Roshan, Priyanka Chopra, and Salman Khan",
+            false,
+            "The cast of the 2001 Indian romantic comedy Tumhi Ho Bandhu Sakha Tumhi included Hrithik Roshan, Priyanka Chopra, and Salman Khan as the main leads."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "The question is asking for the real names of the cast members of the Indian television show 'Tumhi Ho Bandhu Sakha Tumhi'.",
+            "Answer": "The main cast of Tumhi Ho Bandhu Sakha Tumhi includes Kinshuk Mahajan as Bhushan, Paridhi Sharma as Saraswati, and Chandni Bhagwanani as Avani. Their real names are mentioned along with their character names."
+        },
+        "llm_predict": {
+            "Explanation": "The question asks for the real names of the cast members of 'Tumhi Ho Bandhu Sakha Tumhi'. Evidence 1 mentions Neil Bhatt as the lead actor, while Evidence 2 lists Hrithik Roshan, Priyanka Chopra, and Salman Khan as the main leads.",
+            "Answer": "Hrithik Roshan, Priyanka Chopra, and Salman Khan (or Neil Bhatt, depending on the specific production being referred to)"
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 156
+    },
+    {
+        "question": "what causes cracked skin at the corners of your mouth?",
+        "e1": [
+            "The friction caused by excessive smiling at cute animal videos",
+            false,
+            "The friction caused by excessive smiling, such as when watching cute animal videos, can cause skin irritation and dryness, leading to cracked skin at the corners of the mouth."
+        ],
+        "e2": [
+            "allergies",
+            true,
+            "Allergies to certain foods or substances can cause skin irritation and dryness, leading to cracked skin at the corners of the mouth."
+        ],
+        "types": [
+            "Entity"
+        ],
+        "llm_belief": {
+            "Explanation": "Cracked skin at the corners of the mouth, also known as angular cheilitis, can be caused by a combination of factors. The skin at the corners of the mouth is thin and prone to dryness, making it susceptible to cracking. Moisture from saliva, food, and liquids can further exacerbate the issue.",
+            "Answer": "Causes of cracked skin at the corners of the mouth include dry skin, cold weather, wind, licking or chewing the lips, nutritional deficiencies (e.g., vitamin B2 or iron), and skin conditions like eczema or seborrheic dermatitis."
+        },
+        "llm_predict": {
+            "Explanation": "According to the provided evidence, there are two possible causes of cracked skin at the corners of the mouth. Firstly, excessive smiling, such as when watching cute animal videos, can cause friction that leads to skin irritation and dryness, resulting in cracked skin. Secondly, allergies to certain foods or substances can also cause skin irritation and dryness, leading to cracked skin at the corners of the mouth.",
+            "Answer": "Excessive smiling and allergies to certain foods or substances."
+        },
+        "model": "llama3-70b-instruct",
+        "instance_id": 107
+    }
+]
