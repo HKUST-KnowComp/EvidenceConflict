@@ -50,5 +50,11 @@ If you have any questions related to the code or the paper, please feel free to 
 ## Citation
 
 ```bibtex
-
+@inproceedings{jiayang2024econ,
+  title={ECON: On the Detection and Resolution of Evidence Conflicts},
+  author={Jiayang, Cheng and Chan, Chunkit and Zhuang, Qianqian and Qiu, Lin and Zhang, Tianhang and Liu, Tengxiao and Song, Yangqiu and Zhang, Yue and Liu, Pengfei and Zhang, Zheng},
+  booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+  pages={7816--7844},
+  year={2024}
+}
 ```
